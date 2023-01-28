@@ -1,0 +1,5002 @@
+[
+    {
+      "Frequency Number": 1,
+      "Italian": "sono",
+      "in English": "I am"
+    },
+    {
+      "Frequency Number": 2,
+      "Italian": "io",
+      "in English": "I"
+    },
+    {
+      "Frequency Number": 3,
+      "Italian": "il suo",
+      "in English": "his"
+    },
+    {
+      "Frequency Number": 4,
+      "Italian": "che",
+      "in English": "that"
+    },
+    {
+      "Frequency Number": 5,
+      "Italian": "lui",
+      "in English": "he"
+    },
+    {
+      "Frequency Number": 6,
+      "Italian": "era",
+      "in English": "was"
+    },
+    {
+      "Frequency Number": 7,
+      "Italian": "per",
+      "in English": "for"
+    },
+    {
+      "Frequency Number": 8,
+      "Italian": "su",
+      "in English": "on"
+    },
+    {
+      "Frequency Number": 9,
+      "Italian": "come",
+      "in English": "as/like"
+    },
+    {
+      "Frequency Number": 10,
+      "Italian": "con",
+      "in English": "with"
+    },
+    {
+      "Frequency Number": 11,
+      "Italian": "loro",
+      "in English": "they"
+    },
+    {
+      "Frequency Number": 12,
+      "Italian": "essere",
+      "in English": "to be"
+    },
+    {
+      "Frequency Number": 13,
+      "Italian": "a",
+      "in English": "at"
+    },
+    {
+      "Frequency Number": 14,
+      "Italian": "uno",
+      "in English": "one"
+    },
+    {
+      "Frequency Number": 15,
+      "Italian": "avere",
+      "in English": "to have"
+    },
+    {
+      "Frequency Number": 16,
+      "Italian": "questo",
+      "in English": "this"
+    },
+    {
+      "Frequency Number": 17,
+      "Italian": "da",
+      "in English": "from"
+    },
+    {
+      "Frequency Number": 18,
+      "Italian": "di",
+      "in English": "by"
+    },
+    {
+      "Frequency Number": 19,
+      "Italian": "caldo",
+      "in English": "hot"
+    },
+    {
+      "Frequency Number": 20,
+      "Italian": "parola",
+      "in English": "word"
+    },
+    {
+      "Frequency Number": 21,
+      "Italian": "ma",
+      "in English": "but"
+    },
+    {
+      "Frequency Number": 22,
+      "Italian": "cosa",
+      "in English": "what"
+    },
+    {
+      "Frequency Number": 23,
+      "Italian": "alcuni",
+      "in English": "some"
+    },
+    {
+      "Frequency Number": 24,
+      "Italian": "�",
+      "in English": "is"
+    },
+    {
+      "Frequency Number": 25,
+      "Italian": "quello",
+      "in English": "that"
+    },
+    {
+      "Frequency Number": 26,
+      "Italian": "voi",
+      "in English": "you"
+    },
+    {
+      "Frequency Number": 27,
+      "Italian": "o",
+      "in English": "or"
+    },
+    {
+      "Frequency Number": 28,
+      "Italian": "aveva",
+      "in English": "had"
+    },
+    {
+      "Frequency Number": 29,
+      "Italian": "il",
+      "in English": "the"
+    },
+    {
+      "Frequency Number": 30,
+      "Italian": "di",
+      "in English": "of"
+    },
+    {
+      "Frequency Number": 31,
+      "Italian": "a",
+      "in English": "to"
+    },
+    {
+      "Frequency Number": 32,
+      "Italian": "e",
+      "in English": "and"
+    },
+    {
+      "Frequency Number": 33,
+      "Italian": "un",
+      "in English": "a"
+    },
+    {
+      "Frequency Number": 34,
+      "Italian": "in",
+      "in English": "in"
+    },
+    {
+      "Frequency Number": 35,
+      "Italian": "noi",
+      "in English": "we"
+    },
+    {
+      "Frequency Number": 36,
+      "Italian": "lattina",
+      "in English": "can"
+    },
+    {
+      "Frequency Number": 37,
+      "Italian": "fuori",
+      "in English": "out"
+    },
+    {
+      "Frequency Number": 38,
+      "Italian": "altro",
+      "in English": "other"
+    },
+    {
+      "Frequency Number": 39,
+      "Italian": "erano",
+      "in English": "were"
+    },
+    {
+      "Frequency Number": 40,
+      "Italian": "che / quale",
+      "in English": "which"
+    },
+    {
+      "Frequency Number": 41,
+      "Italian": "fare",
+      "in English": "do"
+    },
+    {
+      "Frequency Number": 42,
+      "Italian": "loro",
+      "in English": "their"
+    },
+    {
+      "Frequency Number": 43,
+      "Italian": "tempo",
+      "in English": "time"
+    },
+    {
+      "Frequency Number": 44,
+      "Italian": "se",
+      "in English": "if"
+    },
+    {
+      "Frequency Number": 45,
+      "Italian": "volont�",
+      "in English": "will"
+    },
+    {
+      "Frequency Number": 46,
+      "Italian": "come",
+      "in English": "how"
+    },
+    {
+      "Frequency Number": 47,
+      "Italian": "detto",
+      "in English": "said"
+    },
+    {
+      "Frequency Number": 48,
+      "Italian": "un",
+      "in English": "an"
+    },
+    {
+      "Frequency Number": 49,
+      "Italian": "ogni",
+      "in English": "each"
+    },
+    {
+      "Frequency Number": 50,
+      "Italian": "dire",
+      "in English": "tell"
+    },
+    {
+      "Frequency Number": 51,
+      "Italian": "fa",
+      "in English": "does"
+    },
+    {
+      "Frequency Number": 52,
+      "Italian": "fisso",
+      "in English": "set"
+    },
+    {
+      "Frequency Number": 53,
+      "Italian": "tre",
+      "in English": "three"
+    },
+    {
+      "Frequency Number": 54,
+      "Italian": "desiderare",
+      "in English": "desire"
+    },
+    {
+      "Frequency Number": 55,
+      "Italian": "aria",
+      "in English": "air"
+    },
+    {
+      "Frequency Number": 56,
+      "Italian": "bene",
+      "in English": "well"
+    },
+    {
+      "Frequency Number": 57,
+      "Italian": "anche",
+      "in English": "also"
+    },
+    {
+      "Frequency Number": 58,
+      "Italian": "giocare",
+      "in English": "play"
+    },
+    {
+      "Frequency Number": 59,
+      "Italian": "piccolo",
+      "in English": "small"
+    },
+    {
+      "Frequency Number": 60,
+      "Italian": "fine",
+      "in English": "end"
+    },
+    {
+      "Frequency Number": 61,
+      "Italian": "mettere",
+      "in English": "put"
+    },
+    {
+      "Frequency Number": 62,
+      "Italian": "casa",
+      "in English": "home"
+    },
+    {
+      "Frequency Number": 63,
+      "Italian": "leggere",
+      "in English": "read"
+    },
+    {
+      "Frequency Number": 64,
+      "Italian": "mano",
+      "in English": "hand"
+    },
+    {
+      "Frequency Number": 65,
+      "Italian": "portare",
+      "in English": "carry"
+    },
+    {
+      "Frequency Number": 66,
+      "Italian": "grande",
+      "in English": "large"
+    },
+    {
+      "Frequency Number": 67,
+      "Italian": "compitare",
+      "in English": "spell"
+    },
+    {
+      "Frequency Number": 68,
+      "Italian": "aggiungere",
+      "in English": "add"
+    },
+    {
+      "Frequency Number": 69,
+      "Italian": "anche",
+      "in English": "even/also"
+    },
+    {
+      "Frequency Number": 70,
+      "Italian": "terra",
+      "in English": "land"
+    },
+    {
+      "Frequency Number": 71,
+      "Italian": "qui",
+      "in English": "here"
+    },
+    {
+      "Frequency Number": 72,
+      "Italian": "devo",
+      "in English": "I must"
+    },
+    {
+      "Frequency Number": 73,
+      "Italian": "grande",
+      "in English": "big"
+    },
+    {
+      "Frequency Number": 74,
+      "Italian": "alto",
+      "in English": "high/tall"
+    },
+    {
+      "Frequency Number": 75,
+      "Italian": "tale",
+      "in English": "such"
+    },
+    {
+      "Frequency Number": 76,
+      "Italian": "seguire",
+      "in English": "follow"
+    },
+    {
+      "Frequency Number": 77,
+      "Italian": "atto",
+      "in English": "an act"
+    },
+    {
+      "Frequency Number": 78,
+      "Italian": "perch�",
+      "in English": "why"
+    },
+    {
+      "Frequency Number": 79,
+      "Italian": "chiedere",
+      "in English": "ask"
+    },
+    {
+      "Frequency Number": 80,
+      "Italian": "maschi",
+      "in English": "men"
+    },
+    {
+      "Frequency Number": 81,
+      "Italian": "cambiamento",
+      "in English": "a change"
+    },
+    {
+      "Frequency Number": 82,
+      "Italian": "� andato",
+      "in English": "he/she went"
+    },
+    {
+      "Frequency Number": 83,
+      "Italian": "luce",
+      "in English": "light"
+    },
+    {
+      "Frequency Number": 84,
+      "Italian": "tipo",
+      "in English": "kind (of thing)"
+    },
+    {
+      "Frequency Number": 85,
+      "Italian": "spento",
+      "in English": "turned off"
+    },
+    {
+      "Frequency Number": 86,
+      "Italian": "bisogno",
+      "in English": "need"
+    },
+    {
+      "Frequency Number": 87,
+      "Italian": "casa",
+      "in English": "house"
+    },
+    {
+      "Frequency Number": 88,
+      "Italian": "immagine",
+      "in English": "image"
+    },
+    {
+      "Frequency Number": 89,
+      "Italian": "provare",
+      "in English": "try"
+    },
+    {
+      "Frequency Number": 90,
+      "Italian": "noi",
+      "in English": "us"
+    },
+    {
+      "Frequency Number": 91,
+      "Italian": "di nuovo",
+      "in English": "again"
+    },
+    {
+      "Frequency Number": 92,
+      "Italian": "animale",
+      "in English": "animal"
+    },
+    {
+      "Frequency Number": 93,
+      "Italian": "punto",
+      "in English": "point"
+    },
+    {
+      "Frequency Number": 94,
+      "Italian": "madre",
+      "in English": "mother"
+    },
+    {
+      "Frequency Number": 95,
+      "Italian": "mondo",
+      "in English": "world"
+    },
+    {
+      "Frequency Number": 96,
+      "Italian": "vicino",
+      "in English": "near"
+    },
+    {
+      "Frequency Number": 97,
+      "Italian": "costruire",
+      "in English": "build"
+    },
+    {
+      "Frequency Number": 98,
+      "Italian": "se stesso",
+      "in English": "himself"
+    },
+    {
+      "Frequency Number": 99,
+      "Italian": "terra",
+      "in English": "earth"
+    },
+    {
+      "Frequency Number": 100,
+      "Italian": "padre",
+      "in English": "father"
+    },
+    {
+      "Frequency Number": 101,
+      "Italian": "qualsiasi",
+      "in English": "any"
+    },
+    {
+      "Frequency Number": 102,
+      "Italian": "nuovo",
+      "in English": "new"
+    },
+    {
+      "Frequency Number": 103,
+      "Italian": "lavoro",
+      "in English": "work"
+    },
+    {
+      "Frequency Number": 104,
+      "Italian": "parte",
+      "in English": "part"
+    },
+    {
+      "Frequency Number": 105,
+      "Italian": "prendere",
+      "in English": "take"
+    },
+    {
+      "Frequency Number": 106,
+      "Italian": "ottenere",
+      "in English": "get"
+    },
+    {
+      "Frequency Number": 107,
+      "Italian": "posto",
+      "in English": "place"
+    },
+    {
+      "Frequency Number": 108,
+      "Italian": "fatto",
+      "in English": "made"
+    },
+    {
+      "Frequency Number": 109,
+      "Italian": "vivere",
+      "in English": "live"
+    },
+    {
+      "Frequency Number": 110,
+      "Italian": "dove",
+      "in English": "where"
+    },
+    {
+      "Frequency Number": 111,
+      "Italian": "dopo",
+      "in English": "after"
+    },
+    {
+      "Frequency Number": 112,
+      "Italian": "indietro",
+      "in English": "back"
+    },
+    {
+      "Frequency Number": 113,
+      "Italian": "poco",
+      "in English": "little"
+    },
+    {
+      "Frequency Number": 114,
+      "Italian": "solo",
+      "in English": "only"
+    },
+    {
+      "Frequency Number": 115,
+      "Italian": "turno",
+      "in English": "round"
+    },
+    {
+      "Frequency Number": 116,
+      "Italian": "uomo",
+      "in English": "man"
+    },
+    {
+      "Frequency Number": 117,
+      "Italian": "anno",
+      "in English": "year"
+    },
+    {
+      "Frequency Number": 118,
+      "Italian": "� venuto",
+      "in English": "came"
+    },
+    {
+      "Frequency Number": 119,
+      "Italian": "spettacolo",
+      "in English": "show"
+    },
+    {
+      "Frequency Number": 120,
+      "Italian": "ogni",
+      "in English": "every"
+    },
+    {
+      "Frequency Number": 121,
+      "Italian": "buono",
+      "in English": "good"
+    },
+    {
+      "Frequency Number": 122,
+      "Italian": "me",
+      "in English": "me"
+    },
+    {
+      "Frequency Number": 123,
+      "Italian": "dare",
+      "in English": "give"
+    },
+    {
+      "Frequency Number": 124,
+      "Italian": "il nostro",
+      "in English": "our"
+    },
+    {
+      "Frequency Number": 125,
+      "Italian": "sotto",
+      "in English": "under"
+    },
+    {
+      "Frequency Number": 126,
+      "Italian": "nome",
+      "in English": "name"
+    },
+    {
+      "Frequency Number": 127,
+      "Italian": "molto",
+      "in English": "very"
+    },
+    {
+      "Frequency Number": 128,
+      "Italian": "attraverso",
+      "in English": "through"
+    },
+    {
+      "Frequency Number": 129,
+      "Italian": "solo",
+      "in English": "just"
+    },
+    {
+      "Frequency Number": 130,
+      "Italian": "forma",
+      "in English": "form"
+    },
+    {
+      "Frequency Number": 131,
+      "Italian": "frase",
+      "in English": "sentence"
+    },
+    {
+      "Frequency Number": 132,
+      "Italian": "grande",
+      "in English": "great"
+    },
+    {
+      "Frequency Number": 133,
+      "Italian": "pensare",
+      "in English": "think"
+    },
+    {
+      "Frequency Number": 134,
+      "Italian": "dire",
+      "in English": "say"
+    },
+    {
+      "Frequency Number": 135,
+      "Italian": "aiutare",
+      "in English": "help"
+    },
+    {
+      "Frequency Number": 136,
+      "Italian": "basso",
+      "in English": "low"
+    },
+    {
+      "Frequency Number": 137,
+      "Italian": "linea",
+      "in English": "line"
+    },
+    {
+      "Frequency Number": 138,
+      "Italian": "differire",
+      "in English": "differ"
+    },
+    {
+      "Frequency Number": 139,
+      "Italian": "turno",
+      "in English": "turn"
+    },
+    {
+      "Frequency Number": 140,
+      "Italian": "causa",
+      "in English": "cause"
+    },
+    {
+      "Frequency Number": 141,
+      "Italian": "molto",
+      "in English": "much"
+    },
+    {
+      "Frequency Number": 142,
+      "Italian": "dire",
+      "in English": "mean"
+    },
+    {
+      "Frequency Number": 143,
+      "Italian": "prima",
+      "in English": "before"
+    },
+    {
+      "Frequency Number": 144,
+      "Italian": "spostare",
+      "in English": "move"
+    },
+    {
+      "Frequency Number": 145,
+      "Italian": "diritto",
+      "in English": "right"
+    },
+    {
+      "Frequency Number": 146,
+      "Italian": "ragazzo",
+      "in English": "boy"
+    },
+    {
+      "Frequency Number": 147,
+      "Italian": "vecchio",
+      "in English": "old"
+    },
+    {
+      "Frequency Number": 148,
+      "Italian": "troppo",
+      "in English": "too"
+    },
+    {
+      "Frequency Number": 149,
+      "Italian": "stesso",
+      "in English": "same"
+    },
+    {
+      "Frequency Number": 150,
+      "Italian": "lei",
+      "in English": "she"
+    },
+    {
+      "Frequency Number": 151,
+      "Italian": "tutto",
+      "in English": "all"
+    },
+    {
+      "Frequency Number": 152,
+      "Italian": "ci",
+      "in English": "there"
+    },
+    {
+      "Frequency Number": 153,
+      "Italian": "quando",
+      "in English": "when"
+    },
+    {
+      "Frequency Number": 154,
+      "Italian": "su",
+      "in English": "up"
+    },
+    {
+      "Frequency Number": 155,
+      "Italian": "uso",
+      "in English": "use"
+    },
+    {
+      "Frequency Number": 156,
+      "Italian": "il tuo",
+      "in English": "your"
+    },
+    {
+      "Frequency Number": 157,
+      "Italian": "modo",
+      "in English": "way"
+    },
+    {
+      "Frequency Number": 158,
+      "Italian": "circa",
+      "in English": "about"
+    },
+    {
+      "Frequency Number": 159,
+      "Italian": "molti",
+      "in English": "many"
+    },
+    {
+      "Frequency Number": 160,
+      "Italian": "allora",
+      "in English": "then"
+    },
+    {
+      "Frequency Number": 161,
+      "Italian": "loro",
+      "in English": "them"
+    },
+    {
+      "Frequency Number": 162,
+      "Italian": "scrivere",
+      "in English": "write"
+    },
+    {
+      "Frequency Number": 163,
+      "Italian": "sarebbe",
+      "in English": "would"
+    },
+    {
+      "Frequency Number": 164,
+      "Italian": "come",
+      "in English": "like"
+    },
+    {
+      "Frequency Number": 165,
+      "Italian": "cos�",
+      "in English": "so"
+    },
+    {
+      "Frequency Number": 166,
+      "Italian": "queste",
+      "in English": "these"
+    },
+    {
+      "Frequency Number": 167,
+      "Italian": "lei",
+      "in English": "her"
+    },
+    {
+      "Frequency Number": 168,
+      "Italian": "lungo",
+      "in English": "long"
+    },
+    {
+      "Frequency Number": 169,
+      "Italian": "rendere",
+      "in English": "make"
+    },
+    {
+      "Frequency Number": 170,
+      "Italian": "cosa",
+      "in English": "thing"
+    },
+    {
+      "Frequency Number": 171,
+      "Italian": "vedere",
+      "in English": "see"
+    },
+    {
+      "Frequency Number": 172,
+      "Italian": "lui",
+      "in English": "him"
+    },
+    {
+      "Frequency Number": 173,
+      "Italian": "due",
+      "in English": "two"
+    },
+    {
+      "Frequency Number": 174,
+      "Italian": "ha",
+      "in English": "has"
+    },
+    {
+      "Frequency Number": 175,
+      "Italian": "guardare",
+      "in English": "look"
+    },
+    {
+      "Frequency Number": 176,
+      "Italian": "di pi�",
+      "in English": "more"
+    },
+    {
+      "Frequency Number": 177,
+      "Italian": "giorno",
+      "in English": "day"
+    },
+    {
+      "Frequency Number": 178,
+      "Italian": "potuto",
+      "in English": "could"
+    },
+    {
+      "Frequency Number": 179,
+      "Italian": "andare",
+      "in English": "go"
+    },
+    {
+      "Frequency Number": 180,
+      "Italian": "venire",
+      "in English": "come"
+    },
+    {
+      "Frequency Number": 181,
+      "Italian": "ha fatto",
+      "in English": "did"
+    },
+    {
+      "Frequency Number": 182,
+      "Italian": "numero",
+      "in English": "number"
+    },
+    {
+      "Frequency Number": 183,
+      "Italian": "suono",
+      "in English": "sound"
+    },
+    {
+      "Frequency Number": 184,
+      "Italian": "no",
+      "in English": "no"
+    },
+    {
+      "Frequency Number": 185,
+      "Italian": "pi�",
+      "in English": "most"
+    },
+    {
+      "Frequency Number": 186,
+      "Italian": "persone",
+      "in English": "people"
+    },
+    {
+      "Frequency Number": 187,
+      "Italian": "il mio",
+      "in English": "my"
+    },
+    {
+      "Frequency Number": 188,
+      "Italian": "oltre",
+      "in English": "over"
+    },
+    {
+      "Frequency Number": 189,
+      "Italian": "sapere",
+      "in English": "know"
+    },
+    {
+      "Frequency Number": 190,
+      "Italian": "acqua",
+      "in English": "water"
+    },
+    {
+      "Frequency Number": 191,
+      "Italian": "di",
+      "in English": "than"
+    },
+    {
+      "Frequency Number": 192,
+      "Italian": "chiamata",
+      "in English": "call"
+    },
+    {
+      "Frequency Number": 193,
+      "Italian": "primo",
+      "in English": "first"
+    },
+    {
+      "Frequency Number": 194,
+      "Italian": "che",
+      "in English": "who"
+    },
+    {
+      "Frequency Number": 195,
+      "Italian": "pu�",
+      "in English": "may"
+    },
+    {
+      "Frequency Number": 196,
+      "Italian": "gi�",
+      "in English": "down"
+    },
+    {
+      "Frequency Number": 197,
+      "Italian": "lato",
+      "in English": "side"
+    },
+    {
+      "Frequency Number": 198,
+      "Italian": "stato",
+      "in English": "been"
+    },
+    {
+      "Frequency Number": 199,
+      "Italian": "ora",
+      "in English": "now"
+    },
+    {
+      "Frequency Number": 200,
+      "Italian": "trovare",
+      "in English": "find"
+    },
+    {
+      "Frequency Number": 201,
+      "Italian": "testa",
+      "in English": "head"
+    },
+    {
+      "Frequency Number": 202,
+      "Italian": "stare in piedi",
+      "in English": "stand"
+    },
+    {
+      "Frequency Number": 203,
+      "Italian": "proprio",
+      "in English": "own"
+    },
+    {
+      "Frequency Number": 204,
+      "Italian": "pagina",
+      "in English": "page"
+    },
+    {
+      "Frequency Number": 205,
+      "Italian": "dovrebbe",
+      "in English": "should"
+    },
+    {
+      "Frequency Number": 206,
+      "Italian": "paese",
+      "in English": "country"
+    },
+    {
+      "Frequency Number": 207,
+      "Italian": "fondare",
+      "in English": "found"
+    },
+    {
+      "Frequency Number": 208,
+      "Italian": "risposta",
+      "in English": "answer"
+    },
+    {
+      "Frequency Number": 209,
+      "Italian": "scuola",
+      "in English": "school"
+    },
+    {
+      "Frequency Number": 210,
+      "Italian": "crescere",
+      "in English": "grow"
+    },
+    {
+      "Frequency Number": 211,
+      "Italian": "studio",
+      "in English": "study"
+    },
+    {
+      "Frequency Number": 212,
+      "Italian": "ancora",
+      "in English": "still"
+    },
+    {
+      "Frequency Number": 213,
+      "Italian": "imparare",
+      "in English": "learn"
+    },
+    {
+      "Frequency Number": 214,
+      "Italian": "impianto",
+      "in English": "plant"
+    },
+    {
+      "Frequency Number": 215,
+      "Italian": "copertura",
+      "in English": "cover"
+    },
+    {
+      "Frequency Number": 216,
+      "Italian": "cibo",
+      "in English": "food"
+    },
+    {
+      "Frequency Number": 217,
+      "Italian": "sole",
+      "in English": "sun"
+    },
+    {
+      "Frequency Number": 218,
+      "Italian": "quattro",
+      "in English": "four"
+    },
+    {
+      "Frequency Number": 219,
+      "Italian": "fra",
+      "in English": "between"
+    },
+    {
+      "Frequency Number": 220,
+      "Italian": "stato",
+      "in English": "state"
+    },
+    {
+      "Frequency Number": 221,
+      "Italian": "mantenere",
+      "in English": "keep"
+    },
+    {
+      "Frequency Number": 222,
+      "Italian": "occhio",
+      "in English": "eye"
+    },
+    {
+      "Frequency Number": 223,
+      "Italian": "mai",
+      "in English": "never"
+    },
+    {
+      "Frequency Number": 224,
+      "Italian": "ultimo",
+      "in English": "last"
+    },
+    {
+      "Frequency Number": 225,
+      "Italian": "lasciare",
+      "in English": "let"
+    },
+    {
+      "Frequency Number": 226,
+      "Italian": "pensiero",
+      "in English": "thought"
+    },
+    {
+      "Frequency Number": 227,
+      "Italian": "citt�",
+      "in English": "city"
+    },
+    {
+      "Frequency Number": 228,
+      "Italian": "albero",
+      "in English": "tree"
+    },
+    {
+      "Frequency Number": 229,
+      "Italian": "attraversare",
+      "in English": "cross"
+    },
+    {
+      "Frequency Number": 230,
+      "Italian": "fattoria",
+      "in English": "farm"
+    },
+    {
+      "Frequency Number": 231,
+      "Italian": "difficile",
+      "in English": "hard"
+    },
+    {
+      "Frequency Number": 232,
+      "Italian": "inizio",
+      "in English": "start"
+    },
+    {
+      "Frequency Number": 233,
+      "Italian": "forza",
+      "in English": "might"
+    },
+    {
+      "Frequency Number": 234,
+      "Italian": "storia",
+      "in English": "story"
+    },
+    {
+      "Frequency Number": 235,
+      "Italian": "sega",
+      "in English": "saw"
+    },
+    {
+      "Frequency Number": 236,
+      "Italian": "lontano",
+      "in English": "far"
+    },
+    {
+      "Frequency Number": 237,
+      "Italian": "mare",
+      "in English": "sea"
+    },
+    {
+      "Frequency Number": 238,
+      "Italian": "disegnare",
+      "in English": "draw"
+    },
+    {
+      "Frequency Number": 239,
+      "Italian": "sinistra",
+      "in English": "left"
+    },
+    {
+      "Frequency Number": 240,
+      "Italian": "tardi",
+      "in English": "late"
+    },
+    {
+      "Frequency Number": 241,
+      "Italian": "run",
+      "in English": "run"
+    },
+    {
+      "Frequency Number": 242,
+      "Italian": "non",
+      "in English": "don?t"
+    },
+    {
+      "Frequency Number": 243,
+      "Italian": "mentre",
+      "in English": "while"
+    },
+    {
+      "Frequency Number": 244,
+      "Italian": "stampa",
+      "in English": "press"
+    },
+    {
+      "Frequency Number": 245,
+      "Italian": "close",
+      "in English": "close"
+    },
+    {
+      "Frequency Number": 246,
+      "Italian": "notte",
+      "in English": "night"
+    },
+    {
+      "Frequency Number": 247,
+      "Italian": "reale",
+      "in English": "real"
+    },
+    {
+      "Frequency Number": 248,
+      "Italian": "vita",
+      "in English": "life"
+    },
+    {
+      "Frequency Number": 249,
+      "Italian": "pochi",
+      "in English": "few"
+    },
+    {
+      "Frequency Number": 250,
+      "Italian": "nord",
+      "in English": "north"
+    },
+    {
+      "Frequency Number": 251,
+      "Italian": "libro",
+      "in English": "book"
+    },
+    {
+      "Frequency Number": 252,
+      "Italian": "portare",
+      "in English": "carry"
+    },
+    {
+      "Frequency Number": 253,
+      "Italian": "ha preso",
+      "in English": "took"
+    },
+    {
+      "Frequency Number": 254,
+      "Italian": "scienza",
+      "in English": "science"
+    },
+    {
+      "Frequency Number": 255,
+      "Italian": "mangiare",
+      "in English": "eat"
+    },
+    {
+      "Frequency Number": 256,
+      "Italian": "camera",
+      "in English": "room"
+    },
+    {
+      "Frequency Number": 257,
+      "Italian": "amico",
+      "in English": "friend"
+    },
+    {
+      "Frequency Number": 258,
+      "Italian": "ha iniziato",
+      "in English": "began"
+    },
+    {
+      "Frequency Number": 259,
+      "Italian": "idea",
+      "in English": "idea"
+    },
+    {
+      "Frequency Number": 260,
+      "Italian": "pesce",
+      "in English": "fish"
+    },
+    {
+      "Frequency Number": 261,
+      "Italian": "montagna",
+      "in English": "mountain"
+    },
+    {
+      "Frequency Number": 262,
+      "Italian": "stop",
+      "in English": "stop"
+    },
+    {
+      "Frequency Number": 263,
+      "Italian": "una volta",
+      "in English": "once"
+    },
+    {
+      "Frequency Number": 264,
+      "Italian": "base",
+      "in English": "base"
+    },
+    {
+      "Frequency Number": 265,
+      "Italian": "sentire",
+      "in English": "hear"
+    },
+    {
+      "Frequency Number": 266,
+      "Italian": "cavallo",
+      "in English": "horse"
+    },
+    {
+      "Frequency Number": 267,
+      "Italian": "taglio",
+      "in English": "cut"
+    },
+    {
+      "Frequency Number": 268,
+      "Italian": "sicuro",
+      "in English": "sure"
+    },
+    {
+      "Frequency Number": 269,
+      "Italian": "orologio",
+      "in English": "watch"
+    },
+    {
+      "Frequency Number": 270,
+      "Italian": "colore",
+      "in English": "color"
+    },
+    {
+      "Frequency Number": 271,
+      "Italian": "volto",
+      "in English": "face"
+    },
+    {
+      "Frequency Number": 272,
+      "Italian": "legno",
+      "in English": "wood"
+    },
+    {
+      "Frequency Number": 273,
+      "Italian": "principale",
+      "in English": "main"
+    },
+    {
+      "Frequency Number": 274,
+      "Italian": "aperto",
+      "in English": "open"
+    },
+    {
+      "Frequency Number": 275,
+      "Italian": "sembrare",
+      "in English": "seem"
+    },
+    {
+      "Frequency Number": 276,
+      "Italian": "insieme",
+      "in English": "together"
+    },
+    {
+      "Frequency Number": 277,
+      "Italian": "prossimo",
+      "in English": "next"
+    },
+    {
+      "Frequency Number": 278,
+      "Italian": "bianco",
+      "in English": "white"
+    },
+    {
+      "Frequency Number": 279,
+      "Italian": "bambini",
+      "in English": "children"
+    },
+    {
+      "Frequency Number": 280,
+      "Italian": "inizio",
+      "in English": "begin"
+    },
+    {
+      "Frequency Number": 281,
+      "Italian": "ottenuto",
+      "in English": "got"
+    },
+    {
+      "Frequency Number": 282,
+      "Italian": "camminare",
+      "in English": "walk"
+    },
+    {
+      "Frequency Number": 283,
+      "Italian": "esempio",
+      "in English": "example"
+    },
+    {
+      "Frequency Number": 284,
+      "Italian": "alleviare",
+      "in English": "ease"
+    },
+    {
+      "Frequency Number": 285,
+      "Italian": "carta",
+      "in English": "paper"
+    },
+    {
+      "Frequency Number": 286,
+      "Italian": "gruppo",
+      "in English": "group"
+    },
+    {
+      "Frequency Number": 287,
+      "Italian": "sempre",
+      "in English": "always"
+    },
+    {
+      "Frequency Number": 288,
+      "Italian": "musica",
+      "in English": "music"
+    },
+    {
+      "Frequency Number": 289,
+      "Italian": "quelli",
+      "in English": "those"
+    },
+    {
+      "Frequency Number": 290,
+      "Italian": "entrambi",
+      "in English": "both"
+    },
+    {
+      "Frequency Number": 291,
+      "Italian": "marchio",
+      "in English": "mark"
+    },
+    {
+      "Frequency Number": 292,
+      "Italian": "spesso",
+      "in English": "often"
+    },
+    {
+      "Frequency Number": 293,
+      "Italian": "lettera",
+      "in English": "letter"
+    },
+    {
+      "Frequency Number": 294,
+      "Italian": "fino a quando",
+      "in English": "until"
+    },
+    {
+      "Frequency Number": 295,
+      "Italian": "miglio",
+      "in English": "mile"
+    },
+    {
+      "Frequency Number": 296,
+      "Italian": "fiume",
+      "in English": "river"
+    },
+    {
+      "Frequency Number": 297,
+      "Italian": "auto",
+      "in English": "car"
+    },
+    {
+      "Frequency Number": 298,
+      "Italian": "piedi",
+      "in English": "feet"
+    },
+    {
+      "Frequency Number": 299,
+      "Italian": "cura",
+      "in English": "care"
+    },
+    {
+      "Frequency Number": 300,
+      "Italian": "secondo",
+      "in English": "second"
+    },
+    {
+      "Frequency Number": 301,
+      "Italian": "abbastanza",
+      "in English": "enough"
+    },
+    {
+      "Frequency Number": 302,
+      "Italian": "pianura",
+      "in English": "plain"
+    },
+    {
+      "Frequency Number": 303,
+      "Italian": "ragazza",
+      "in English": "girl"
+    },
+    {
+      "Frequency Number": 304,
+      "Italian": "solito",
+      "in English": "usual"
+    },
+    {
+      "Frequency Number": 305,
+      "Italian": "giovane",
+      "in English": "young"
+    },
+    {
+      "Frequency Number": 306,
+      "Italian": "pronto",
+      "in English": "ready"
+    },
+    {
+      "Frequency Number": 307,
+      "Italian": "sopra",
+      "in English": "above"
+    },
+    {
+      "Frequency Number": 308,
+      "Italian": "mai",
+      "in English": "ever"
+    },
+    {
+      "Frequency Number": 309,
+      "Italian": "rosso",
+      "in English": "red"
+    },
+    {
+      "Frequency Number": 310,
+      "Italian": "elenco",
+      "in English": "list"
+    },
+    {
+      "Frequency Number": 311,
+      "Italian": "anche se",
+      "in English": "though"
+    },
+    {
+      "Frequency Number": 312,
+      "Italian": "sentire",
+      "in English": "feel"
+    },
+    {
+      "Frequency Number": 313,
+      "Italian": "Discussioni",
+      "in English": "talk"
+    },
+    {
+      "Frequency Number": 314,
+      "Italian": "uccello",
+      "in English": "bird"
+    },
+    {
+      "Frequency Number": 315,
+      "Italian": "presto",
+      "in English": "soon"
+    },
+    {
+      "Frequency Number": 316,
+      "Italian": "corpo",
+      "in English": "body"
+    },
+    {
+      "Frequency Number": 317,
+      "Italian": "cane",
+      "in English": "dog"
+    },
+    {
+      "Frequency Number": 318,
+      "Italian": "famiglia",
+      "in English": "family"
+    },
+    {
+      "Frequency Number": 319,
+      "Italian": "diretto",
+      "in English": "direct"
+    },
+    {
+      "Frequency Number": 320,
+      "Italian": "posa",
+      "in English": "pose"
+    },
+    {
+      "Frequency Number": 321,
+      "Italian": "lasciare",
+      "in English": "leave"
+    },
+    {
+      "Frequency Number": 322,
+      "Italian": "canzone",
+      "in English": "song"
+    },
+    {
+      "Frequency Number": 323,
+      "Italian": "misurare",
+      "in English": "measure"
+    },
+    {
+      "Frequency Number": 324,
+      "Italian": "porta",
+      "in English": "door"
+    },
+    {
+      "Frequency Number": 325,
+      "Italian": "prodotto",
+      "in English": "product"
+    },
+    {
+      "Frequency Number": 326,
+      "Italian": "nero",
+      "in English": "black"
+    },
+    {
+      "Frequency Number": 327,
+      "Italian": "breve",
+      "in English": "short"
+    },
+    {
+      "Frequency Number": 328,
+      "Italian": "numerale",
+      "in English": "numeral"
+    },
+    {
+      "Frequency Number": 329,
+      "Italian": "classe",
+      "in English": "class"
+    },
+    {
+      "Frequency Number": 330,
+      "Italian": "vento",
+      "in English": "wind"
+    },
+    {
+      "Frequency Number": 331,
+      "Italian": "domanda",
+      "in English": "question"
+    },
+    {
+      "Frequency Number": 332,
+      "Italian": "accadere",
+      "in English": "happen"
+    },
+    {
+      "Frequency Number": 333,
+      "Italian": "integrale",
+      "in English": "complete"
+    },
+    {
+      "Frequency Number": 334,
+      "Italian": "nave",
+      "in English": "ship"
+    },
+    {
+      "Frequency Number": 335,
+      "Italian": "area",
+      "in English": "area"
+    },
+    {
+      "Frequency Number": 336,
+      "Italian": "met�",
+      "in English": "half"
+    },
+    {
+      "Frequency Number": 337,
+      "Italian": "rock",
+      "in English": "rock"
+    },
+    {
+      "Frequency Number": 338,
+      "Italian": "ordine",
+      "in English": "order"
+    },
+    {
+      "Frequency Number": 339,
+      "Italian": "fuoco",
+      "in English": "fire"
+    },
+    {
+      "Frequency Number": 340,
+      "Italian": "sud",
+      "in English": "south"
+    },
+    {
+      "Frequency Number": 341,
+      "Italian": "problema",
+      "in English": "problem"
+    },
+    {
+      "Frequency Number": 342,
+      "Italian": "pezzo",
+      "in English": "piece"
+    },
+    {
+      "Frequency Number": 343,
+      "Italian": "ha detto",
+      "in English": "told"
+    },
+    {
+      "Frequency Number": 344,
+      "Italian": "sapeva",
+      "in English": "knew"
+    },
+    {
+      "Frequency Number": 345,
+      "Italian": "passare",
+      "in English": "pass"
+    },
+    {
+      "Frequency Number": 346,
+      "Italian": "da",
+      "in English": "since"
+    },
+    {
+      "Frequency Number": 347,
+      "Italian": "top",
+      "in English": "top"
+    },
+    {
+      "Frequency Number": 348,
+      "Italian": "tutto",
+      "in English": "whole"
+    },
+    {
+      "Frequency Number": 349,
+      "Italian": "re",
+      "in English": "king"
+    },
+    {
+      "Frequency Number": 350,
+      "Italian": "strada",
+      "in English": "street"
+    },
+    {
+      "Frequency Number": 351,
+      "Italian": "pollice",
+      "in English": "inch"
+    },
+    {
+      "Frequency Number": 352,
+      "Italian": "moltiplicare",
+      "in English": "multiply"
+    },
+    {
+      "Frequency Number": 353,
+      "Italian": "niente",
+      "in English": "nothing"
+    },
+    {
+      "Frequency Number": 354,
+      "Italian": "corso",
+      "in English": "course"
+    },
+    {
+      "Frequency Number": 355,
+      "Italian": "soggiornare",
+      "in English": "stay"
+    },
+    {
+      "Frequency Number": 356,
+      "Italian": "ruota",
+      "in English": "wheel"
+    },
+    {
+      "Frequency Number": 357,
+      "Italian": "completo",
+      "in English": "full"
+    },
+    {
+      "Frequency Number": 358,
+      "Italian": "vigore",
+      "in English": "force"
+    },
+    {
+      "Frequency Number": 359,
+      "Italian": "blu",
+      "in English": "blue"
+    },
+    {
+      "Frequency Number": 360,
+      "Italian": "oggetto",
+      "in English": "object"
+    },
+    {
+      "Frequency Number": 361,
+      "Italian": "decidere",
+      "in English": "decide"
+    },
+    {
+      "Frequency Number": 362,
+      "Italian": "superficie",
+      "in English": "surface"
+    },
+    {
+      "Frequency Number": 363,
+      "Italian": "profondit�",
+      "in English": "deep"
+    },
+    {
+      "Frequency Number": 364,
+      "Italian": "luna",
+      "in English": "moon"
+    },
+    {
+      "Frequency Number": 365,
+      "Italian": "isola",
+      "in English": "island"
+    },
+    {
+      "Frequency Number": 366,
+      "Italian": "piede",
+      "in English": "foot"
+    },
+    {
+      "Frequency Number": 367,
+      "Italian": "sistema",
+      "in English": "system"
+    },
+    {
+      "Frequency Number": 368,
+      "Italian": "occupato",
+      "in English": "busy"
+    },
+    {
+      "Frequency Number": 369,
+      "Italian": "test",
+      "in English": "test"
+    },
+    {
+      "Frequency Number": 370,
+      "Italian": "record",
+      "in English": "record"
+    },
+    {
+      "Frequency Number": 371,
+      "Italian": "barca",
+      "in English": "boat"
+    },
+    {
+      "Frequency Number": 372,
+      "Italian": "comune",
+      "in English": "common"
+    },
+    {
+      "Frequency Number": 373,
+      "Italian": "oro",
+      "in English": "gold"
+    },
+    {
+      "Frequency Number": 374,
+      "Italian": "possibile",
+      "in English": "possible"
+    },
+    {
+      "Frequency Number": 375,
+      "Italian": "piano",
+      "in English": "plane"
+    },
+    {
+      "Frequency Number": 376,
+      "Italian": "vece",
+      "in English": "stead"
+    },
+    {
+      "Frequency Number": 377,
+      "Italian": "asciutto",
+      "in English": "dry"
+    },
+    {
+      "Frequency Number": 378,
+      "Italian": "meraviglia",
+      "in English": "wonder"
+    },
+    {
+      "Frequency Number": 379,
+      "Italian": "ridere",
+      "in English": "laugh"
+    },
+    {
+      "Frequency Number": 380,
+      "Italian": "migliaia",
+      "in English": "thousand"
+    },
+    {
+      "Frequency Number": 381,
+      "Italian": "fa",
+      "in English": "ago"
+    },
+    {
+      "Frequency Number": 382,
+      "Italian": "corse",
+      "in English": "ran"
+    },
+    {
+      "Frequency Number": 383,
+      "Italian": "controllare",
+      "in English": "check"
+    },
+    {
+      "Frequency Number": 384,
+      "Italian": "gioco",
+      "in English": "game"
+    },
+    {
+      "Frequency Number": 385,
+      "Italian": "forma",
+      "in English": "shape"
+    },
+    {
+      "Frequency Number": 386,
+      "Italian": "uguagliare",
+      "in English": "equate"
+    },
+    {
+      "Frequency Number": 387,
+      "Italian": "caldo",
+      "in English": "hot"
+    },
+    {
+      "Frequency Number": 388,
+      "Italian": "perdere",
+      "in English": "miss"
+    },
+    {
+      "Frequency Number": 389,
+      "Italian": "portato",
+      "in English": "brought"
+    },
+    {
+      "Frequency Number": 390,
+      "Italian": "calore",
+      "in English": "heat"
+    },
+    {
+      "Frequency Number": 391,
+      "Italian": "neve",
+      "in English": "snow"
+    },
+    {
+      "Frequency Number": 392,
+      "Italian": "pneumatico",
+      "in English": "tire"
+    },
+    {
+      "Frequency Number": 393,
+      "Italian": "portare",
+      "in English": "bring"
+    },
+    {
+      "Frequency Number": 394,
+      "Italian": "s�",
+      "in English": "yes"
+    },
+    {
+      "Frequency Number": 395,
+      "Italian": "lontano",
+      "in English": "distant"
+    },
+    {
+      "Frequency Number": 396,
+      "Italian": "riempire",
+      "in English": "fill"
+    },
+    {
+      "Frequency Number": 397,
+      "Italian": "est",
+      "in English": "east"
+    },
+    {
+      "Frequency Number": 398,
+      "Italian": "dipingere",
+      "in English": "paint"
+    },
+    {
+      "Frequency Number": 399,
+      "Italian": "lingua",
+      "in English": "language"
+    },
+    {
+      "Frequency Number": 400,
+      "Italian": "tra",
+      "in English": "among"
+    },
+    {
+      "Frequency Number": 401,
+      "Italian": "unit�",
+      "in English": "unit"
+    },
+    {
+      "Frequency Number": 402,
+      "Italian": "potenza",
+      "in English": "power"
+    },
+    {
+      "Frequency Number": 403,
+      "Italian": "citt�",
+      "in English": "town"
+    },
+    {
+      "Frequency Number": 404,
+      "Italian": "fine",
+      "in English": "fine"
+    },
+    {
+      "Frequency Number": 405,
+      "Italian": "certo",
+      "in English": "certain"
+    },
+    {
+      "Frequency Number": 406,
+      "Italian": "volare",
+      "in English": "fly"
+    },
+    {
+      "Frequency Number": 407,
+      "Italian": "cadere",
+      "in English": "fall"
+    },
+    {
+      "Frequency Number": 408,
+      "Italian": "portare",
+      "in English": "lead"
+    },
+    {
+      "Frequency Number": 409,
+      "Italian": "grido",
+      "in English": "cry"
+    },
+    {
+      "Frequency Number": 410,
+      "Italian": "scuro",
+      "in English": "dark"
+    },
+    {
+      "Frequency Number": 411,
+      "Italian": "macchina",
+      "in English": "machine"
+    },
+    {
+      "Frequency Number": 412,
+      "Italian": "nota",
+      "in English": "note"
+    },
+    {
+      "Frequency Number": 413,
+      "Italian": "aspettare",
+      "in English": "wait"
+    },
+    {
+      "Frequency Number": 414,
+      "Italian": "piano",
+      "in English": "plan"
+    },
+    {
+      "Frequency Number": 415,
+      "Italian": "figura",
+      "in English": "figure"
+    },
+    {
+      "Frequency Number": 416,
+      "Italian": "stella",
+      "in English": "star"
+    },
+    {
+      "Frequency Number": 417,
+      "Italian": "scatola",
+      "in English": "box"
+    },
+    {
+      "Frequency Number": 418,
+      "Italian": "sostantivo",
+      "in English": "noun"
+    },
+    {
+      "Frequency Number": 419,
+      "Italian": "campo",
+      "in English": "field"
+    },
+    {
+      "Frequency Number": 420,
+      "Italian": "resto",
+      "in English": "rest"
+    },
+    {
+      "Frequency Number": 421,
+      "Italian": "corretto",
+      "in English": "correct"
+    },
+    {
+      "Frequency Number": 422,
+      "Italian": "in grado di",
+      "in English": "able"
+    },
+    {
+      "Frequency Number": 423,
+      "Italian": "libbra",
+      "in English": "pound"
+    },
+    {
+      "Frequency Number": 424,
+      "Italian": "done",
+      "in English": "done"
+    },
+    {
+      "Frequency Number": 425,
+      "Italian": "bellezza",
+      "in English": "beauty"
+    },
+    {
+      "Frequency Number": 426,
+      "Italian": "unit�",
+      "in English": "drive"
+    },
+    {
+      "Frequency Number": 427,
+      "Italian": "sorgeva",
+      "in English": "stood"
+    },
+    {
+      "Frequency Number": 428,
+      "Italian": "contenere",
+      "in English": "contain"
+    },
+    {
+      "Frequency Number": 429,
+      "Italian": "frontale",
+      "in English": "front"
+    },
+    {
+      "Frequency Number": 430,
+      "Italian": "insegnare",
+      "in English": "teach"
+    },
+    {
+      "Frequency Number": 431,
+      "Italian": "settimana",
+      "in English": "week"
+    },
+    {
+      "Frequency Number": 432,
+      "Italian": "finale",
+      "in English": "final"
+    },
+    {
+      "Frequency Number": 433,
+      "Italian": "ha dato",
+      "in English": "gave"
+    },
+    {
+      "Frequency Number": 434,
+      "Italian": "verde",
+      "in English": "green"
+    },
+    {
+      "Frequency Number": 435,
+      "Italian": "oh",
+      "in English": "oh"
+    },
+    {
+      "Frequency Number": 436,
+      "Italian": "veloce",
+      "in English": "quick"
+    },
+    {
+      "Frequency Number": 437,
+      "Italian": "sviluppare",
+      "in English": "develop"
+    },
+    {
+      "Frequency Number": 438,
+      "Italian": "oceano",
+      "in English": "ocean"
+    },
+    {
+      "Frequency Number": 439,
+      "Italian": "caldo",
+      "in English": "warm"
+    },
+    {
+      "Frequency Number": 440,
+      "Italian": "gratuito",
+      "in English": "free"
+    },
+    {
+      "Frequency Number": 441,
+      "Italian": "minuto",
+      "in English": "minute"
+    },
+    {
+      "Frequency Number": 442,
+      "Italian": "forte",
+      "in English": "strong"
+    },
+    {
+      "Frequency Number": 443,
+      "Italian": "speciale",
+      "in English": "special"
+    },
+    {
+      "Frequency Number": 444,
+      "Italian": "mente",
+      "in English": "mind"
+    },
+    {
+      "Frequency Number": 445,
+      "Italian": "dietro",
+      "in English": "behind"
+    },
+    {
+      "Frequency Number": 446,
+      "Italian": "chiaro",
+      "in English": "clear"
+    },
+    {
+      "Frequency Number": 447,
+      "Italian": "coda",
+      "in English": "tail"
+    },
+    {
+      "Frequency Number": 448,
+      "Italian": "produrre",
+      "in English": "produce"
+    },
+    {
+      "Frequency Number": 449,
+      "Italian": "fatto",
+      "in English": "fact"
+    },
+    {
+      "Frequency Number": 450,
+      "Italian": "spazio",
+      "in English": "space"
+    },
+    {
+      "Frequency Number": 451,
+      "Italian": "sentito",
+      "in English": "heard"
+    },
+    {
+      "Frequency Number": 452,
+      "Italian": "migliore",
+      "in English": "best"
+    },
+    {
+      "Frequency Number": 453,
+      "Italian": "ora",
+      "in English": "hour"
+    },
+    {
+      "Frequency Number": 454,
+      "Italian": "meglio",
+      "in English": "better"
+    },
+    {
+      "Frequency Number": 455,
+      "Italian": "vero",
+      "in English": "TRUE"
+    },
+    {
+      "Frequency Number": 456,
+      "Italian": "durante",
+      "in English": "during"
+    },
+    {
+      "Frequency Number": 457,
+      "Italian": "cento",
+      "in English": "hundred"
+    },
+    {
+      "Frequency Number": 458,
+      "Italian": "cinque",
+      "in English": "five"
+    },
+    {
+      "Frequency Number": 459,
+      "Italian": "ricordare",
+      "in English": "remember"
+    },
+    {
+      "Frequency Number": 460,
+      "Italian": "passo",
+      "in English": "step"
+    },
+    {
+      "Frequency Number": 461,
+      "Italian": "presto",
+      "in English": "early"
+    },
+    {
+      "Frequency Number": 462,
+      "Italian": "tenere",
+      "in English": "hold"
+    },
+    {
+      "Frequency Number": 463,
+      "Italian": "ovest",
+      "in English": "west"
+    },
+    {
+      "Frequency Number": 464,
+      "Italian": "terra",
+      "in English": "ground"
+    },
+    {
+      "Frequency Number": 465,
+      "Italian": "interesse",
+      "in English": "interest"
+    },
+    {
+      "Frequency Number": 466,
+      "Italian": "raggiungere",
+      "in English": "reach"
+    },
+    {
+      "Frequency Number": 467,
+      "Italian": "veloce",
+      "in English": "fast"
+    },
+    {
+      "Frequency Number": 468,
+      "Italian": "verbo",
+      "in English": "verb"
+    },
+    {
+      "Frequency Number": 469,
+      "Italian": "cantare",
+      "in English": "sing"
+    },
+    {
+      "Frequency Number": 470,
+      "Italian": "ascoltare",
+      "in English": "listen"
+    },
+    {
+      "Frequency Number": 471,
+      "Italian": "sei",
+      "in English": "six"
+    },
+    {
+      "Frequency Number": 472,
+      "Italian": "tavolo",
+      "in English": "table"
+    },
+    {
+      "Frequency Number": 473,
+      "Italian": "viaggi",
+      "in English": "travel"
+    },
+    {
+      "Frequency Number": 474,
+      "Italian": "meno",
+      "in English": "less"
+    },
+    {
+      "Frequency Number": 475,
+      "Italian": "mattina",
+      "in English": "morning"
+    },
+    {
+      "Frequency Number": 476,
+      "Italian": "dieci",
+      "in English": "ten"
+    },
+    {
+      "Frequency Number": 477,
+      "Italian": "semplice",
+      "in English": "simple"
+    },
+    {
+      "Frequency Number": 478,
+      "Italian": "alcuni",
+      "in English": "several"
+    },
+    {
+      "Frequency Number": 479,
+      "Italian": "vocale",
+      "in English": "vowel"
+    },
+    {
+      "Frequency Number": 480,
+      "Italian": "verso",
+      "in English": "toward"
+    },
+    {
+      "Frequency Number": 481,
+      "Italian": "guerra",
+      "in English": "war"
+    },
+    {
+      "Frequency Number": 482,
+      "Italian": "porre",
+      "in English": "lay"
+    },
+    {
+      "Frequency Number": 483,
+      "Italian": "contro",
+      "in English": "against"
+    },
+    {
+      "Frequency Number": 484,
+      "Italian": "modello",
+      "in English": "pattern"
+    },
+    {
+      "Frequency Number": 485,
+      "Italian": "lento",
+      "in English": "slow"
+    },
+    {
+      "Frequency Number": 486,
+      "Italian": "centro",
+      "in English": "center"
+    },
+    {
+      "Frequency Number": 487,
+      "Italian": "amore",
+      "in English": "love"
+    },
+    {
+      "Frequency Number": 488,
+      "Italian": "persona",
+      "in English": "person"
+    },
+    {
+      "Frequency Number": 489,
+      "Italian": "soldi",
+      "in English": "money"
+    },
+    {
+      "Frequency Number": 490,
+      "Italian": "servire",
+      "in English": "serve"
+    },
+    {
+      "Frequency Number": 491,
+      "Italian": "apparire",
+      "in English": "appear"
+    },
+    {
+      "Frequency Number": 492,
+      "Italian": "strada",
+      "in English": "road"
+    },
+    {
+      "Frequency Number": 493,
+      "Italian": "mappa",
+      "in English": "map"
+    },
+    {
+      "Frequency Number": 494,
+      "Italian": "pioggia",
+      "in English": "rain"
+    },
+    {
+      "Frequency Number": 495,
+      "Italian": "regola",
+      "in English": "rule"
+    },
+    {
+      "Frequency Number": 496,
+      "Italian": "governare",
+      "in English": "govern"
+    },
+    {
+      "Frequency Number": 497,
+      "Italian": "tirare",
+      "in English": "pull"
+    },
+    {
+      "Frequency Number": 498,
+      "Italian": "freddo",
+      "in English": "cold"
+    },
+    {
+      "Frequency Number": 499,
+      "Italian": "avviso",
+      "in English": "notice"
+    },
+    {
+      "Frequency Number": 500,
+      "Italian": "voce",
+      "in English": "voice"
+    },
+    {
+      "Frequency Number": 501,
+      "Italian": "energia",
+      "in English": "energy"
+    },
+    {
+      "Frequency Number": 502,
+      "Italian": "caccia",
+      "in English": "hunt"
+    },
+    {
+      "Frequency Number": 503,
+      "Italian": "probabile",
+      "in English": "probable"
+    },
+    {
+      "Frequency Number": 504,
+      "Italian": "letto",
+      "in English": "bed"
+    },
+    {
+      "Frequency Number": 505,
+      "Italian": "fratello",
+      "in English": "brother"
+    },
+    {
+      "Frequency Number": 506,
+      "Italian": "uovo",
+      "in English": "egg"
+    },
+    {
+      "Frequency Number": 507,
+      "Italian": "giro",
+      "in English": "ride"
+    },
+    {
+      "Frequency Number": 508,
+      "Italian": "cella",
+      "in English": "cell"
+    },
+    {
+      "Frequency Number": 509,
+      "Italian": "credere",
+      "in English": "believe"
+    },
+    {
+      "Frequency Number": 510,
+      "Italian": "forse",
+      "in English": "perhaps"
+    },
+    {
+      "Frequency Number": 511,
+      "Italian": "scegliere",
+      "in English": "pick"
+    },
+    {
+      "Frequency Number": 512,
+      "Italian": "improvviso",
+      "in English": "sudden"
+    },
+    {
+      "Frequency Number": 513,
+      "Italian": "contare",
+      "in English": "count"
+    },
+    {
+      "Frequency Number": 514,
+      "Italian": "piazza",
+      "in English": "square"
+    },
+    {
+      "Frequency Number": 515,
+      "Italian": "motivo",
+      "in English": "reason"
+    },
+    {
+      "Frequency Number": 516,
+      "Italian": "lunghezza",
+      "in English": "length"
+    },
+    {
+      "Frequency Number": 517,
+      "Italian": "rappresentare",
+      "in English": "represent"
+    },
+    {
+      "Frequency Number": 518,
+      "Italian": "arte",
+      "in English": "art"
+    },
+    {
+      "Frequency Number": 519,
+      "Italian": "soggetto",
+      "in English": "subject"
+    },
+    {
+      "Frequency Number": 520,
+      "Italian": "regione",
+      "in English": "region"
+    },
+    {
+      "Frequency Number": 521,
+      "Italian": "dimensione",
+      "in English": "size"
+    },
+    {
+      "Frequency Number": 522,
+      "Italian": "variare",
+      "in English": "vary"
+    },
+    {
+      "Frequency Number": 523,
+      "Italian": "risolvere",
+      "in English": "settle"
+    },
+    {
+      "Frequency Number": 524,
+      "Italian": "parlare",
+      "in English": "speak"
+    },
+    {
+      "Frequency Number": 525,
+      "Italian": "peso",
+      "in English": "weight"
+    },
+    {
+      "Frequency Number": 526,
+      "Italian": "generale",
+      "in English": "general"
+    },
+    {
+      "Frequency Number": 527,
+      "Italian": "ghiaccio",
+      "in English": "ice"
+    },
+    {
+      "Frequency Number": 528,
+      "Italian": "materia",
+      "in English": "matter"
+    },
+    {
+      "Frequency Number": 529,
+      "Italian": "cerchio",
+      "in English": "circle"
+    },
+    {
+      "Frequency Number": 530,
+      "Italian": "coppia",
+      "in English": "pair"
+    },
+    {
+      "Frequency Number": 531,
+      "Italian": "includere",
+      "in English": "include"
+    },
+    {
+      "Frequency Number": 532,
+      "Italian": "divide",
+      "in English": "divide"
+    },
+    {
+      "Frequency Number": 533,
+      "Italian": "sillaba",
+      "in English": "syllable"
+    },
+    {
+      "Frequency Number": 534,
+      "Italian": "feltro",
+      "in English": "felt"
+    },
+    {
+      "Frequency Number": 535,
+      "Italian": "grande",
+      "in English": "grand"
+    },
+    {
+      "Frequency Number": 536,
+      "Italian": "palla",
+      "in English": "ball"
+    },
+    {
+      "Frequency Number": 537,
+      "Italian": "ancora",
+      "in English": "yet"
+    },
+    {
+      "Frequency Number": 538,
+      "Italian": "onda",
+      "in English": "wave"
+    },
+    {
+      "Frequency Number": 539,
+      "Italian": "cadere",
+      "in English": "drop"
+    },
+    {
+      "Frequency Number": 540,
+      "Italian": "cuore",
+      "in English": "heart"
+    },
+    {
+      "Frequency Number": 541,
+      "Italian": "am",
+      "in English": "am"
+    },
+    {
+      "Frequency Number": 542,
+      "Italian": "presente",
+      "in English": "present"
+    },
+    {
+      "Frequency Number": 543,
+      "Italian": "pesante",
+      "in English": "heavy"
+    },
+    {
+      "Frequency Number": 544,
+      "Italian": "danza",
+      "in English": "dance"
+    },
+    {
+      "Frequency Number": 545,
+      "Italian": "motore",
+      "in English": "engine"
+    },
+    {
+      "Frequency Number": 546,
+      "Italian": "posizione",
+      "in English": "position"
+    },
+    {
+      "Frequency Number": 547,
+      "Italian": "braccio",
+      "in English": "arm"
+    },
+    {
+      "Frequency Number": 548,
+      "Italian": "ampio",
+      "in English": "wide"
+    },
+    {
+      "Frequency Number": 549,
+      "Italian": "vela",
+      "in English": "sail"
+    },
+    {
+      "Frequency Number": 550,
+      "Italian": "materiale",
+      "in English": "material"
+    },
+    {
+      "Frequency Number": 551,
+      "Italian": "frazione",
+      "in English": "fraction"
+    },
+    {
+      "Frequency Number": 552,
+      "Italian": "foresta",
+      "in English": "forest"
+    },
+    {
+      "Frequency Number": 553,
+      "Italian": "sedersi",
+      "in English": "sit"
+    },
+    {
+      "Frequency Number": 554,
+      "Italian": "gara",
+      "in English": "race"
+    },
+    {
+      "Frequency Number": 555,
+      "Italian": "finestra",
+      "in English": "window"
+    },
+    {
+      "Frequency Number": 556,
+      "Italian": "negozio",
+      "in English": "store"
+    },
+    {
+      "Frequency Number": 557,
+      "Italian": "estate",
+      "in English": "summer"
+    },
+    {
+      "Frequency Number": 558,
+      "Italian": "treno",
+      "in English": "train"
+    },
+    {
+      "Frequency Number": 559,
+      "Italian": "sonno",
+      "in English": "sleep"
+    },
+    {
+      "Frequency Number": 560,
+      "Italian": "dimostrare",
+      "in English": "prove"
+    },
+    {
+      "Frequency Number": 561,
+      "Italian": "solitario",
+      "in English": "lone"
+    },
+    {
+      "Frequency Number": 562,
+      "Italian": "gamba",
+      "in English": "leg"
+    },
+    {
+      "Frequency Number": 563,
+      "Italian": "esercizio",
+      "in English": "exercise"
+    },
+    {
+      "Frequency Number": 564,
+      "Italian": "muro",
+      "in English": "wall"
+    },
+    {
+      "Frequency Number": 565,
+      "Italian": "prendere",
+      "in English": "catch"
+    },
+    {
+      "Frequency Number": 566,
+      "Italian": "monte",
+      "in English": "mount"
+    },
+    {
+      "Frequency Number": 567,
+      "Italian": "desiderio",
+      "in English": "wish"
+    },
+    {
+      "Frequency Number": 568,
+      "Italian": "cielo",
+      "in English": "sky"
+    },
+    {
+      "Frequency Number": 569,
+      "Italian": "pensione",
+      "in English": "board"
+    },
+    {
+      "Frequency Number": 570,
+      "Italian": "gioia",
+      "in English": "joy"
+    },
+    {
+      "Frequency Number": 571,
+      "Italian": "inverno",
+      "in English": "winter"
+    },
+    {
+      "Frequency Number": 572,
+      "Italian": "sat",
+      "in English": "sat"
+    },
+    {
+      "Frequency Number": 573,
+      "Italian": "scritto",
+      "in English": "written"
+    },
+    {
+      "Frequency Number": 574,
+      "Italian": "selvaggio",
+      "in English": "wild"
+    },
+    {
+      "Frequency Number": 575,
+      "Italian": "strumento",
+      "in English": "instrument"
+    },
+    {
+      "Frequency Number": 576,
+      "Italian": "tenere",
+      "in English": "kept"
+    },
+    {
+      "Frequency Number": 577,
+      "Italian": "vetro",
+      "in English": "glass"
+    },
+    {
+      "Frequency Number": 578,
+      "Italian": "erba",
+      "in English": "grass"
+    },
+    {
+      "Frequency Number": 579,
+      "Italian": "mucca",
+      "in English": "cow"
+    },
+    {
+      "Frequency Number": 580,
+      "Italian": "lavoro",
+      "in English": "job"
+    },
+    {
+      "Frequency Number": 581,
+      "Italian": "bordo",
+      "in English": "edge"
+    },
+    {
+      "Frequency Number": 582,
+      "Italian": "segno",
+      "in English": "sign"
+    },
+    {
+      "Frequency Number": 583,
+      "Italian": "visita",
+      "in English": "visit"
+    },
+    {
+      "Frequency Number": 584,
+      "Italian": "passato",
+      "in English": "past"
+    },
+    {
+      "Frequency Number": 585,
+      "Italian": "morbido",
+      "in English": "soft"
+    },
+    {
+      "Frequency Number": 586,
+      "Italian": "divertimento",
+      "in English": "fun"
+    },
+    {
+      "Frequency Number": 587,
+      "Italian": "luminoso",
+      "in English": "bright"
+    },
+    {
+      "Frequency Number": 588,
+      "Italian": "gas",
+      "in English": "gas"
+    },
+    {
+      "Frequency Number": 589,
+      "Italian": "tempo",
+      "in English": "weather"
+    },
+    {
+      "Frequency Number": 590,
+      "Italian": "mese",
+      "in English": "month"
+    },
+    {
+      "Frequency Number": 591,
+      "Italian": "milione",
+      "in English": "million"
+    },
+    {
+      "Frequency Number": 592,
+      "Italian": "sopportare",
+      "in English": "bear"
+    },
+    {
+      "Frequency Number": 593,
+      "Italian": "finitura",
+      "in English": "finish"
+    },
+    {
+      "Frequency Number": 594,
+      "Italian": "felice",
+      "in English": "happy"
+    },
+    {
+      "Frequency Number": 595,
+      "Italian": "speranza",
+      "in English": "hope"
+    },
+    {
+      "Frequency Number": 596,
+      "Italian": "fiore",
+      "in English": "flower"
+    },
+    {
+      "Frequency Number": 597,
+      "Italian": "vestire",
+      "in English": "clothe"
+    },
+    {
+      "Frequency Number": 598,
+      "Italian": "strano",
+      "in English": "strange"
+    },
+    {
+      "Frequency Number": 599,
+      "Italian": "gone",
+      "in English": "gone"
+    },
+    {
+      "Frequency Number": 600,
+      "Italian": "commercio",
+      "in English": "trade"
+    },
+    {
+      "Frequency Number": 601,
+      "Italian": "melodia",
+      "in English": "melody"
+    },
+    {
+      "Frequency Number": 602,
+      "Italian": "viaggio",
+      "in English": "trip"
+    },
+    {
+      "Frequency Number": 603,
+      "Italian": "ufficio",
+      "in English": "office"
+    },
+    {
+      "Frequency Number": 604,
+      "Italian": "ricevere",
+      "in English": "receive"
+    },
+    {
+      "Frequency Number": 605,
+      "Italian": "fila",
+      "in English": "row"
+    },
+    {
+      "Frequency Number": 606,
+      "Italian": "bocca",
+      "in English": "mouth"
+    },
+    {
+      "Frequency Number": 607,
+      "Italian": "esatto",
+      "in English": "exact"
+    },
+    {
+      "Frequency Number": 608,
+      "Italian": "simbolo",
+      "in English": "symbol"
+    },
+    {
+      "Frequency Number": 609,
+      "Italian": "morire",
+      "in English": "die"
+    },
+    {
+      "Frequency Number": 610,
+      "Italian": "meno",
+      "in English": "least"
+    },
+    {
+      "Frequency Number": 611,
+      "Italian": "difficolt�",
+      "in English": "trouble"
+    },
+    {
+      "Frequency Number": 612,
+      "Italian": "shout",
+      "in English": "shout"
+    },
+    {
+      "Frequency Number": 613,
+      "Italian": "tranne",
+      "in English": "except"
+    },
+    {
+      "Frequency Number": 614,
+      "Italian": "ha scritto",
+      "in English": "wrote"
+    },
+    {
+      "Frequency Number": 615,
+      "Italian": "seme",
+      "in English": "seed"
+    },
+    {
+      "Frequency Number": 616,
+      "Italian": "tono",
+      "in English": "tone"
+    },
+    {
+      "Frequency Number": 617,
+      "Italian": "aderire",
+      "in English": "join"
+    },
+    {
+      "Frequency Number": 618,
+      "Italian": "suggerire",
+      "in English": "suggest"
+    },
+    {
+      "Frequency Number": 619,
+      "Italian": "pulito",
+      "in English": "clean"
+    },
+    {
+      "Frequency Number": 620,
+      "Italian": "pausa",
+      "in English": "break"
+    },
+    {
+      "Frequency Number": 621,
+      "Italian": "signora",
+      "in English": "lady"
+    },
+    {
+      "Frequency Number": 622,
+      "Italian": "cantiere",
+      "in English": "yard"
+    },
+    {
+      "Frequency Number": 623,
+      "Italian": "salire",
+      "in English": "rise"
+    },
+    {
+      "Frequency Number": 624,
+      "Italian": "male",
+      "in English": "bad"
+    },
+    {
+      "Frequency Number": 625,
+      "Italian": "colpo",
+      "in English": "blow"
+    },
+    {
+      "Frequency Number": 626,
+      "Italian": "olio",
+      "in English": "oil"
+    },
+    {
+      "Frequency Number": 627,
+      "Italian": "sangue",
+      "in English": "blood"
+    },
+    {
+      "Frequency Number": 628,
+      "Italian": "toccare",
+      "in English": "touch"
+    },
+    {
+      "Frequency Number": 629,
+      "Italian": "� cresciuto",
+      "in English": "grew"
+    },
+    {
+      "Frequency Number": 630,
+      "Italian": "cent",
+      "in English": "cent"
+    },
+    {
+      "Frequency Number": 631,
+      "Italian": "mescolare",
+      "in English": "mix"
+    },
+    {
+      "Frequency Number": 632,
+      "Italian": "team",
+      "in English": "team"
+    },
+    {
+      "Frequency Number": 633,
+      "Italian": "filo",
+      "in English": "wire"
+    },
+    {
+      "Frequency Number": 634,
+      "Italian": "costo",
+      "in English": "cost"
+    },
+    {
+      "Frequency Number": 635,
+      "Italian": "perso",
+      "in English": "lost"
+    },
+    {
+      "Frequency Number": 636,
+      "Italian": "marrone",
+      "in English": "brown"
+    },
+    {
+      "Frequency Number": 637,
+      "Italian": "indossare",
+      "in English": "wear"
+    },
+    {
+      "Frequency Number": 638,
+      "Italian": "giardino",
+      "in English": "garden"
+    },
+    {
+      "Frequency Number": 639,
+      "Italian": "pari",
+      "in English": "equal"
+    },
+    {
+      "Frequency Number": 640,
+      "Italian": "inviato",
+      "in English": "sent"
+    },
+    {
+      "Frequency Number": 641,
+      "Italian": "scegliere",
+      "in English": "choose"
+    },
+    {
+      "Frequency Number": 642,
+      "Italian": "caduto",
+      "in English": "fell"
+    },
+    {
+      "Frequency Number": 643,
+      "Italian": "adattarsi",
+      "in English": "fit"
+    },
+    {
+      "Frequency Number": 644,
+      "Italian": "flusso",
+      "in English": "flow"
+    },
+    {
+      "Frequency Number": 645,
+      "Italian": "fiera",
+      "in English": "fair"
+    },
+    {
+      "Frequency Number": 646,
+      "Italian": "banca",
+      "in English": "bank"
+    },
+    {
+      "Frequency Number": 647,
+      "Italian": "raccogliere",
+      "in English": "collect"
+    },
+    {
+      "Frequency Number": 648,
+      "Italian": "salvare",
+      "in English": "save"
+    },
+    {
+      "Frequency Number": 649,
+      "Italian": "controllo",
+      "in English": "control"
+    },
+    {
+      "Frequency Number": 650,
+      "Italian": "decimale",
+      "in English": "decimal"
+    },
+    {
+      "Frequency Number": 651,
+      "Italian": "orecchio",
+      "in English": "ear"
+    },
+    {
+      "Frequency Number": 652,
+      "Italian": "altro",
+      "in English": "else"
+    },
+    {
+      "Frequency Number": 653,
+      "Italian": "abbastanza",
+      "in English": "quite"
+    },
+    {
+      "Frequency Number": 654,
+      "Italian": "rotto",
+      "in English": "broke"
+    },
+    {
+      "Frequency Number": 655,
+      "Italian": "caso",
+      "in English": "case"
+    },
+    {
+      "Frequency Number": 656,
+      "Italian": "mezzo",
+      "in English": "middle"
+    },
+    {
+      "Frequency Number": 657,
+      "Italian": "uccidere",
+      "in English": "kill"
+    },
+    {
+      "Frequency Number": 658,
+      "Italian": "figlio",
+      "in English": "son"
+    },
+    {
+      "Frequency Number": 659,
+      "Italian": "lago",
+      "in English": "lake"
+    },
+    {
+      "Frequency Number": 660,
+      "Italian": "momento",
+      "in English": "moment"
+    },
+    {
+      "Frequency Number": 661,
+      "Italian": "scala",
+      "in English": "scale"
+    },
+    {
+      "Frequency Number": 662,
+      "Italian": "forte",
+      "in English": "loud"
+    },
+    {
+      "Frequency Number": 663,
+      "Italian": "primavera",
+      "in English": "spring"
+    },
+    {
+      "Frequency Number": 664,
+      "Italian": "osservare",
+      "in English": "observe"
+    },
+    {
+      "Frequency Number": 665,
+      "Italian": "bambino",
+      "in English": "child"
+    },
+    {
+      "Frequency Number": 666,
+      "Italian": "dritto",
+      "in English": "straight"
+    },
+    {
+      "Frequency Number": 667,
+      "Italian": "consonante",
+      "in English": "consonant"
+    },
+    {
+      "Frequency Number": 668,
+      "Italian": "nazione",
+      "in English": "nation"
+    },
+    {
+      "Frequency Number": 669,
+      "Italian": "dizionario",
+      "in English": "dictionary"
+    },
+    {
+      "Frequency Number": 670,
+      "Italian": "latte",
+      "in English": "milk"
+    },
+    {
+      "Frequency Number": 671,
+      "Italian": "velocit�",
+      "in English": "speed"
+    },
+    {
+      "Frequency Number": 672,
+      "Italian": "metodo",
+      "in English": "method"
+    },
+    {
+      "Frequency Number": 673,
+      "Italian": "organo",
+      "in English": "organ"
+    },
+    {
+      "Frequency Number": 674,
+      "Italian": "pagare",
+      "in English": "pay"
+    },
+    {
+      "Frequency Number": 675,
+      "Italian": "et�",
+      "in English": "age"
+    },
+    {
+      "Frequency Number": 676,
+      "Italian": "sezione",
+      "in English": "section"
+    },
+    {
+      "Frequency Number": 677,
+      "Italian": "vestito",
+      "in English": "dress"
+    },
+    {
+      "Frequency Number": 678,
+      "Italian": "nube",
+      "in English": "cloud"
+    },
+    {
+      "Frequency Number": 679,
+      "Italian": "sorpresa",
+      "in English": "surprise"
+    },
+    {
+      "Frequency Number": 680,
+      "Italian": "tranquillo",
+      "in English": "quiet"
+    },
+    {
+      "Frequency Number": 681,
+      "Italian": "pietra",
+      "in English": "stone"
+    },
+    {
+      "Frequency Number": 682,
+      "Italian": "piccolo",
+      "in English": "tiny"
+    },
+    {
+      "Frequency Number": 683,
+      "Italian": "salita",
+      "in English": "climb"
+    },
+    {
+      "Frequency Number": 684,
+      "Italian": "fresco",
+      "in English": "cool"
+    },
+    {
+      "Frequency Number": 685,
+      "Italian": "design",
+      "in English": "design"
+    },
+    {
+      "Frequency Number": 686,
+      "Italian": "povero",
+      "in English": "poor"
+    },
+    {
+      "Frequency Number": 687,
+      "Italian": "lotto",
+      "in English": "lot"
+    },
+    {
+      "Frequency Number": 688,
+      "Italian": "esperimento",
+      "in English": "experiment"
+    },
+    {
+      "Frequency Number": 689,
+      "Italian": "fondo",
+      "in English": "bottom"
+    },
+    {
+      "Frequency Number": 690,
+      "Italian": "chiave",
+      "in English": "key"
+    },
+    {
+      "Frequency Number": 691,
+      "Italian": "ferro",
+      "in English": "iron"
+    },
+    {
+      "Frequency Number": 692,
+      "Italian": "singolo",
+      "in English": "single"
+    },
+    {
+      "Frequency Number": 693,
+      "Italian": "bastone",
+      "in English": "stick"
+    },
+    {
+      "Frequency Number": 694,
+      "Italian": "appartamento",
+      "in English": "flat"
+    },
+    {
+      "Frequency Number": 695,
+      "Italian": "venti",
+      "in English": "twenty"
+    },
+    {
+      "Frequency Number": 696,
+      "Italian": "pelle",
+      "in English": "skin"
+    },
+    {
+      "Frequency Number": 697,
+      "Italian": "sorriso",
+      "in English": "smile"
+    },
+    {
+      "Frequency Number": 698,
+      "Italian": "piega",
+      "in English": "crease"
+    },
+    {
+      "Frequency Number": 699,
+      "Italian": "foro",
+      "in English": "hole"
+    },
+    {
+      "Frequency Number": 700,
+      "Italian": "salto",
+      "in English": "jump"
+    },
+    {
+      "Frequency Number": 701,
+      "Italian": "bambino",
+      "in English": "baby"
+    },
+    {
+      "Frequency Number": 702,
+      "Italian": "otto",
+      "in English": "eight"
+    },
+    {
+      "Frequency Number": 703,
+      "Italian": "villaggio",
+      "in English": "village"
+    },
+    {
+      "Frequency Number": 704,
+      "Italian": "si incontrano",
+      "in English": "meet"
+    },
+    {
+      "Frequency Number": 705,
+      "Italian": "radice",
+      "in English": "root"
+    },
+    {
+      "Frequency Number": 706,
+      "Italian": "acquistare",
+      "in English": "buy"
+    },
+    {
+      "Frequency Number": 707,
+      "Italian": "aumentare",
+      "in English": "raise"
+    },
+    {
+      "Frequency Number": 708,
+      "Italian": "risolvere",
+      "in English": "solve"
+    },
+    {
+      "Frequency Number": 709,
+      "Italian": "metallo",
+      "in English": "metal"
+    },
+    {
+      "Frequency Number": 710,
+      "Italian": "se",
+      "in English": "whether"
+    },
+    {
+      "Frequency Number": 711,
+      "Italian": "spingere",
+      "in English": "push"
+    },
+    {
+      "Frequency Number": 712,
+      "Italian": "sette",
+      "in English": "seven"
+    },
+    {
+      "Frequency Number": 713,
+      "Italian": "paragrafo",
+      "in English": "paragraph"
+    },
+    {
+      "Frequency Number": 714,
+      "Italian": "terzo",
+      "in English": "third"
+    },
+    {
+      "Frequency Number": 715,
+      "Italian": "deve",
+      "in English": "shall"
+    },
+    {
+      "Frequency Number": 716,
+      "Italian": "tenuto",
+      "in English": "held"
+    },
+    {
+      "Frequency Number": 717,
+      "Italian": "capelli",
+      "in English": "hair"
+    },
+    {
+      "Frequency Number": 718,
+      "Italian": "descrivere",
+      "in English": "describe"
+    },
+    {
+      "Frequency Number": 719,
+      "Italian": "cuoco",
+      "in English": "cook"
+    },
+    {
+      "Frequency Number": 720,
+      "Italian": "piano",
+      "in English": "floor"
+    },
+    {
+      "Frequency Number": 721,
+      "Italian": "o",
+      "in English": "either"
+    },
+    {
+      "Frequency Number": 722,
+      "Italian": "risultato",
+      "in English": "result"
+    },
+    {
+      "Frequency Number": 723,
+      "Italian": "bruciare",
+      "in English": "burn"
+    },
+    {
+      "Frequency Number": 724,
+      "Italian": "collina",
+      "in English": "hill"
+    },
+    {
+      "Frequency Number": 725,
+      "Italian": "sicuro",
+      "in English": "safe"
+    },
+    {
+      "Frequency Number": 726,
+      "Italian": "gatto",
+      "in English": "cat"
+    },
+    {
+      "Frequency Number": 727,
+      "Italian": "secolo",
+      "in English": "century"
+    },
+    {
+      "Frequency Number": 728,
+      "Italian": "considerare",
+      "in English": "consider"
+    },
+    {
+      "Frequency Number": 729,
+      "Italian": "tipo",
+      "in English": "type"
+    },
+    {
+      "Frequency Number": 730,
+      "Italian": "legge",
+      "in English": "law"
+    },
+    {
+      "Frequency Number": 731,
+      "Italian": "bit",
+      "in English": "bit"
+    },
+    {
+      "Frequency Number": 732,
+      "Italian": "costa",
+      "in English": "coast"
+    },
+    {
+      "Frequency Number": 733,
+      "Italian": "copia",
+      "in English": "copy"
+    },
+    {
+      "Frequency Number": 734,
+      "Italian": "frase",
+      "in English": "phrase"
+    },
+    {
+      "Frequency Number": 735,
+      "Italian": "silenzioso",
+      "in English": "silent"
+    },
+    {
+      "Frequency Number": 736,
+      "Italian": "alto",
+      "in English": "tall"
+    },
+    {
+      "Frequency Number": 737,
+      "Italian": "sabbia",
+      "in English": "sand"
+    },
+    {
+      "Frequency Number": 738,
+      "Italian": "suolo",
+      "in English": "soil"
+    },
+    {
+      "Frequency Number": 739,
+      "Italian": "rotolo",
+      "in English": "roll"
+    },
+    {
+      "Frequency Number": 740,
+      "Italian": "temperatura",
+      "in English": "temperature"
+    },
+    {
+      "Frequency Number": 741,
+      "Italian": "dito",
+      "in English": "finger"
+    },
+    {
+      "Frequency Number": 742,
+      "Italian": "industria",
+      "in English": "industry"
+    },
+    {
+      "Frequency Number": 743,
+      "Italian": "valore",
+      "in English": "value"
+    },
+    {
+      "Frequency Number": 744,
+      "Italian": "lotta",
+      "in English": "fight"
+    },
+    {
+      "Frequency Number": 745,
+      "Italian": "bugia",
+      "in English": "lie"
+    },
+    {
+      "Frequency Number": 746,
+      "Italian": "battere",
+      "in English": "beat"
+    },
+    {
+      "Frequency Number": 747,
+      "Italian": "eccitare",
+      "in English": "excite"
+    },
+    {
+      "Frequency Number": 748,
+      "Italian": "naturale",
+      "in English": "natural"
+    },
+    {
+      "Frequency Number": 749,
+      "Italian": "vista",
+      "in English": "view"
+    },
+    {
+      "Frequency Number": 750,
+      "Italian": "senso",
+      "in English": "sense"
+    },
+    {
+      "Frequency Number": 751,
+      "Italian": "capitale",
+      "in English": "capital"
+    },
+    {
+      "Frequency Number": 752,
+      "Italian": "non sar�",
+      "in English": "won?t"
+    },
+    {
+      "Frequency Number": 753,
+      "Italian": "sedia",
+      "in English": "chair"
+    },
+    {
+      "Frequency Number": 754,
+      "Italian": "pericolo",
+      "in English": "danger"
+    },
+    {
+      "Frequency Number": 755,
+      "Italian": "frutta",
+      "in English": "fruit"
+    },
+    {
+      "Frequency Number": 756,
+      "Italian": "ricco",
+      "in English": "rich"
+    },
+    {
+      "Frequency Number": 757,
+      "Italian": "spesso",
+      "in English": "thick"
+    },
+    {
+      "Frequency Number": 758,
+      "Italian": "soldato",
+      "in English": "soldier"
+    },
+    {
+      "Frequency Number": 759,
+      "Italian": "processo",
+      "in English": "process"
+    },
+    {
+      "Frequency Number": 760,
+      "Italian": "operare",
+      "in English": "operate"
+    },
+    {
+      "Frequency Number": 761,
+      "Italian": "pratica",
+      "in English": "practice"
+    },
+    {
+      "Frequency Number": 762,
+      "Italian": "separato",
+      "in English": "separate"
+    },
+    {
+      "Frequency Number": 763,
+      "Italian": "difficile",
+      "in English": "difficult"
+    },
+    {
+      "Frequency Number": 764,
+      "Italian": "medico",
+      "in English": "doctor"
+    },
+    {
+      "Frequency Number": 765,
+      "Italian": "per favore",
+      "in English": "please"
+    },
+    {
+      "Frequency Number": 766,
+      "Italian": "proteggere",
+      "in English": "protect"
+    },
+    {
+      "Frequency Number": 767,
+      "Italian": "mezzogiorno",
+      "in English": "noon"
+    },
+    {
+      "Frequency Number": 768,
+      "Italian": "raccolto",
+      "in English": "crop"
+    },
+    {
+      "Frequency Number": 769,
+      "Italian": "moderno",
+      "in English": "modern"
+    },
+    {
+      "Frequency Number": 770,
+      "Italian": "elemento",
+      "in English": "element"
+    },
+    {
+      "Frequency Number": 771,
+      "Italian": "colpire",
+      "in English": "hit"
+    },
+    {
+      "Frequency Number": 772,
+      "Italian": "studente",
+      "in English": "student"
+    },
+    {
+      "Frequency Number": 773,
+      "Italian": "angolo",
+      "in English": "corner"
+    },
+    {
+      "Frequency Number": 774,
+      "Italian": "partito",
+      "in English": "party"
+    },
+    {
+      "Frequency Number": 775,
+      "Italian": "fornitura",
+      "in English": "supply"
+    },
+    {
+      "Frequency Number": 776,
+      "Italian": "la cui",
+      "in English": "whose"
+    },
+    {
+      "Frequency Number": 777,
+      "Italian": "individuare",
+      "in English": "locate"
+    },
+    {
+      "Frequency Number": 778,
+      "Italian": "anello",
+      "in English": "ring"
+    },
+    {
+      "Frequency Number": 779,
+      "Italian": "carattere",
+      "in English": "character"
+    },
+    {
+      "Frequency Number": 780,
+      "Italian": "insetto",
+      "in English": "insect"
+    },
+    {
+      "Frequency Number": 781,
+      "Italian": "catturato",
+      "in English": "caught"
+    },
+    {
+      "Frequency Number": 782,
+      "Italian": "periodo",
+      "in English": "period"
+    },
+    {
+      "Frequency Number": 783,
+      "Italian": "indicare",
+      "in English": "indicate"
+    },
+    {
+      "Frequency Number": 784,
+      "Italian": "radio",
+      "in English": "radio"
+    },
+    {
+      "Frequency Number": 785,
+      "Italian": "raggio",
+      "in English": "spoke"
+    },
+    {
+      "Frequency Number": 786,
+      "Italian": "atomo",
+      "in English": "atom"
+    },
+    {
+      "Frequency Number": 787,
+      "Italian": "umano",
+      "in English": "human"
+    },
+    {
+      "Frequency Number": 788,
+      "Italian": "storia",
+      "in English": "history"
+    },
+    {
+      "Frequency Number": 789,
+      "Italian": "effetto",
+      "in English": "effect"
+    },
+    {
+      "Frequency Number": 790,
+      "Italian": "elettrico",
+      "in English": "electric"
+    },
+    {
+      "Frequency Number": 791,
+      "Italian": "aspettare",
+      "in English": "expect"
+    },
+    {
+      "Frequency Number": 792,
+      "Italian": "osso",
+      "in English": "bone"
+    },
+    {
+      "Frequency Number": 793,
+      "Italian": "ferrovia",
+      "in English": "rail"
+    },
+    {
+      "Frequency Number": 794,
+      "Italian": "immaginare",
+      "in English": "imagine"
+    },
+    {
+      "Frequency Number": 795,
+      "Italian": "fornire",
+      "in English": "provide"
+    },
+    {
+      "Frequency Number": 796,
+      "Italian": "concordare",
+      "in English": "agree"
+    },
+    {
+      "Frequency Number": 797,
+      "Italian": "cos�",
+      "in English": "thus"
+    },
+    {
+      "Frequency Number": 798,
+      "Italian": "dolce",
+      "in English": "gentle"
+    },
+    {
+      "Frequency Number": 799,
+      "Italian": "donna",
+      "in English": "woman"
+    },
+    {
+      "Frequency Number": 800,
+      "Italian": "capitano",
+      "in English": "captain"
+    },
+    {
+      "Frequency Number": 801,
+      "Italian": "indovinare",
+      "in English": "guess"
+    },
+    {
+      "Frequency Number": 802,
+      "Italian": "necessario",
+      "in English": "necessary"
+    },
+    {
+      "Frequency Number": 803,
+      "Italian": "tagliente",
+      "in English": "sharp"
+    },
+    {
+      "Frequency Number": 804,
+      "Italian": "ala",
+      "in English": "wing"
+    },
+    {
+      "Frequency Number": 805,
+      "Italian": "creare",
+      "in English": "create"
+    },
+    {
+      "Frequency Number": 806,
+      "Italian": "prossimo",
+      "in English": "neighbor"
+    },
+    {
+      "Frequency Number": 807,
+      "Italian": "lavaggio",
+      "in English": "wash"
+    },
+    {
+      "Frequency Number": 808,
+      "Italian": "pipistrello",
+      "in English": "bat"
+    },
+    {
+      "Frequency Number": 809,
+      "Italian": "piuttosto",
+      "in English": "rather"
+    },
+    {
+      "Frequency Number": 810,
+      "Italian": "folla",
+      "in English": "crowd"
+    },
+    {
+      "Frequency Number": 811,
+      "Italian": "mais",
+      "in English": "corn"
+    },
+    {
+      "Frequency Number": 812,
+      "Italian": "confrontare",
+      "in English": "compare"
+    },
+    {
+      "Frequency Number": 813,
+      "Italian": "poesia",
+      "in English": "poem"
+    },
+    {
+      "Frequency Number": 814,
+      "Italian": "stringa",
+      "in English": "string"
+    },
+    {
+      "Frequency Number": 815,
+      "Italian": "campana",
+      "in English": "bell"
+    },
+    {
+      "Frequency Number": 816,
+      "Italian": "dipendere",
+      "in English": "depend"
+    },
+    {
+      "Frequency Number": 817,
+      "Italian": "carne",
+      "in English": "meat"
+    },
+    {
+      "Frequency Number": 818,
+      "Italian": "strofinare",
+      "in English": "rub"
+    },
+    {
+      "Frequency Number": 819,
+      "Italian": "tubo",
+      "in English": "tube"
+    },
+    {
+      "Frequency Number": 820,
+      "Italian": "famoso",
+      "in English": "famous"
+    },
+    {
+      "Frequency Number": 921,
+      "Italian": "dollaro",
+      "in English": "dollar"
+    },
+    {
+      "Frequency Number": 822,
+      "Italian": "ruscello",
+      "in English": "stream"
+    },
+    {
+      "Frequency Number": 823,
+      "Italian": "paura",
+      "in English": "fear"
+    },
+    {
+      "Frequency Number": 284,
+      "Italian": "vista",
+      "in English": "sight"
+    },
+    {
+      "Frequency Number": 825,
+      "Italian": "sottile",
+      "in English": "thin"
+    },
+    {
+      "Frequency Number": 826,
+      "Italian": "triangolo",
+      "in English": "triangle"
+    },
+    {
+      "Frequency Number": 827,
+      "Italian": "pianeta",
+      "in English": "planet"
+    },
+    {
+      "Frequency Number": 828,
+      "Italian": "fretta",
+      "in English": "hurry"
+    },
+    {
+      "Frequency Number": 829,
+      "Italian": "capo",
+      "in English": "chief"
+    },
+    {
+      "Frequency Number": 830,
+      "Italian": "colonia",
+      "in English": "colony"
+    },
+    {
+      "Frequency Number": 831,
+      "Italian": "orologio",
+      "in English": "clock"
+    },
+    {
+      "Frequency Number": 832,
+      "Italian": "miniera",
+      "in English": "mine"
+    },
+    {
+      "Frequency Number": 833,
+      "Italian": "cravatta",
+      "in English": "tie"
+    },
+    {
+      "Frequency Number": 834,
+      "Italian": "inserire",
+      "in English": "enter"
+    },
+    {
+      "Frequency Number": 835,
+      "Italian": "maggiore",
+      "in English": "major"
+    },
+    {
+      "Frequency Number": 836,
+      "Italian": "fresco",
+      "in English": "fresh"
+    },
+    {
+      "Frequency Number": 837,
+      "Italian": "ricerca",
+      "in English": "search"
+    },
+    {
+      "Frequency Number": 838,
+      "Italian": "inviare",
+      "in English": "send"
+    },
+    {
+      "Frequency Number": 839,
+      "Italian": "giallo",
+      "in English": "yellow"
+    },
+    {
+      "Frequency Number": 840,
+      "Italian": "pistola",
+      "in English": "gun"
+    },
+    {
+      "Frequency Number": 841,
+      "Italian": "consentire",
+      "in English": "allow"
+    },
+    {
+      "Frequency Number": 842,
+      "Italian": "stampa",
+      "in English": "print"
+    },
+    {
+      "Frequency Number": 843,
+      "Italian": "morto",
+      "in English": "dead"
+    },
+    {
+      "Frequency Number": 844,
+      "Italian": "spot",
+      "in English": "spot"
+    },
+    {
+      "Frequency Number": 845,
+      "Italian": "deserto",
+      "in English": "desert"
+    },
+    {
+      "Frequency Number": 846,
+      "Italian": "tuta",
+      "in English": "suit"
+    },
+    {
+      "Frequency Number": 847,
+      "Italian": "corrente",
+      "in English": "current"
+    },
+    {
+      "Frequency Number": 848,
+      "Italian": "ascensore",
+      "in English": "lift"
+    },
+    {
+      "Frequency Number": 840,
+      "Italian": "rosa",
+      "in English": "rose"
+    },
+    {
+      "Frequency Number": 850,
+      "Italian": "arrivare",
+      "in English": "arrive"
+    },
+    {
+      "Frequency Number": 851,
+      "Italian": "master",
+      "in English": "master"
+    },
+    {
+      "Frequency Number": 852,
+      "Italian": "pista",
+      "in English": "track"
+    },
+    {
+      "Frequency Number": 853,
+      "Italian": "genitore",
+      "in English": "parent"
+    },
+    {
+      "Frequency Number": 854,
+      "Italian": "riva",
+      "in English": "shore"
+    },
+    {
+      "Frequency Number": 855,
+      "Italian": "divisione",
+      "in English": "division"
+    },
+    {
+      "Frequency Number": 856,
+      "Italian": "foglio",
+      "in English": "sheet"
+    },
+    {
+      "Frequency Number": 857,
+      "Italian": "sostanza",
+      "in English": "substance"
+    },
+    {
+      "Frequency Number": 858,
+      "Italian": "favorire",
+      "in English": "favor"
+    },
+    {
+      "Frequency Number": 859,
+      "Italian": "collegare",
+      "in English": "connect"
+    },
+    {
+      "Frequency Number": 860,
+      "Italian": "Messaggio",
+      "in English": "post"
+    },
+    {
+      "Frequency Number": 861,
+      "Italian": "spendere",
+      "in English": "spend"
+    },
+    {
+      "Frequency Number": 862,
+      "Italian": "accordo",
+      "in English": "chord"
+    },
+    {
+      "Frequency Number": 863,
+      "Italian": "grasso",
+      "in English": "fat"
+    },
+    {
+      "Frequency Number": 864,
+      "Italian": "felice",
+      "in English": "glad"
+    },
+    {
+      "Frequency Number": 865,
+      "Italian": "originale",
+      "in English": "original"
+    },
+    {
+      "Frequency Number": 866,
+      "Italian": "quota",
+      "in English": "share"
+    },
+    {
+      "Frequency Number": 867,
+      "Italian": "stazione",
+      "in English": "station"
+    },
+    {
+      "Frequency Number": 868,
+      "Italian": "pap�",
+      "in English": "dad"
+    },
+    {
+      "Frequency Number": 869,
+      "Italian": "pane",
+      "in English": "bread"
+    },
+    {
+      "Frequency Number": 870,
+      "Italian": "carica",
+      "in English": "charge"
+    },
+    {
+      "Frequency Number": 871,
+      "Italian": "corretto",
+      "in English": "proper"
+    },
+    {
+      "Frequency Number": 872,
+      "Italian": "bar",
+      "in English": "bar"
+    },
+    {
+      "Frequency Number": 873,
+      "Italian": "offerta",
+      "in English": "offer"
+    },
+    {
+      "Frequency Number": 874,
+      "Italian": "segmento",
+      "in English": "segment"
+    },
+    {
+      "Frequency Number": 875,
+      "Italian": "schiavo",
+      "in English": "slave"
+    },
+    {
+      "Frequency Number": 876,
+      "Italian": "anatra",
+      "in English": "duck"
+    },
+    {
+      "Frequency Number": 877,
+      "Italian": "immediato",
+      "in English": "instant"
+    },
+    {
+      "Frequency Number": 878,
+      "Italian": "mercato",
+      "in English": "market"
+    },
+    {
+      "Frequency Number": 879,
+      "Italian": "grado",
+      "in English": "degree"
+    },
+    {
+      "Frequency Number": 880,
+      "Italian": "popolare",
+      "in English": "populate"
+    },
+    {
+      "Frequency Number": 881,
+      "Italian": "pulcino",
+      "in English": "chick"
+    },
+    {
+      "Frequency Number": 882,
+      "Italian": "caro",
+      "in English": "dear"
+    },
+    {
+      "Frequency Number": 883,
+      "Italian": "nemico",
+      "in English": "enemy"
+    },
+    {
+      "Frequency Number": 884,
+      "Italian": "rispondere",
+      "in English": "reply"
+    },
+    {
+      "Frequency Number": 885,
+      "Italian": "bevanda",
+      "in English": "drink"
+    },
+    {
+      "Frequency Number": 886,
+      "Italian": "verificarsi",
+      "in English": "occur"
+    },
+    {
+      "Frequency Number": 887,
+      "Italian": "supporto",
+      "in English": "support"
+    },
+    {
+      "Frequency Number": 888,
+      "Italian": "discorso",
+      "in English": "speech"
+    },
+    {
+      "Frequency Number": 889,
+      "Italian": "natura",
+      "in English": "nature"
+    },
+    {
+      "Frequency Number": 890,
+      "Italian": "gamma",
+      "in English": "range"
+    },
+    {
+      "Frequency Number": 891,
+      "Italian": "vapore",
+      "in English": "steam"
+    },
+    {
+      "Frequency Number": 892,
+      "Italian": "moto",
+      "in English": "motion"
+    },
+    {
+      "Frequency Number": 893,
+      "Italian": "sentiero",
+      "in English": "path"
+    },
+    {
+      "Frequency Number": 894,
+      "Italian": "liquido",
+      "in English": "liquid"
+    },
+    {
+      "Frequency Number": 895,
+      "Italian": "log",
+      "in English": "log"
+    },
+    {
+      "Frequency Number": 896,
+      "Italian": "significava",
+      "in English": "meant"
+    },
+    {
+      "Frequency Number": 897,
+      "Italian": "quoziente",
+      "in English": "quotient"
+    },
+    {
+      "Frequency Number": 898,
+      "Italian": "denti",
+      "in English": "teeth"
+    },
+    {
+      "Frequency Number": 899,
+      "Italian": "guscio",
+      "in English": "shell"
+    },
+    {
+      "Frequency Number": 900,
+      "Italian": "collo",
+      "in English": "neck"
+    },
+    {
+      "Frequency Number": 901,
+      "Italian": "ossigeno",
+      "in English": "oxygen"
+    },
+    {
+      "Frequency Number": 902,
+      "Italian": "zucchero",
+      "in English": "sugar"
+    },
+    {
+      "Frequency Number": 903,
+      "Italian": "morte",
+      "in English": "death"
+    },
+    {
+      "Frequency Number": 904,
+      "Italian": "piuttosto",
+      "in English": "pretty"
+    },
+    {
+      "Frequency Number": 905,
+      "Italian": "abilit�",
+      "in English": "skill"
+    },
+    {
+      "Frequency Number": 906,
+      "Italian": "donne",
+      "in English": "women"
+    },
+    {
+      "Frequency Number": 907,
+      "Italian": "stagione",
+      "in English": "season"
+    },
+    {
+      "Frequency Number": 908,
+      "Italian": "soluzione",
+      "in English": "solution"
+    },
+    {
+      "Frequency Number": 909,
+      "Italian": "magnete",
+      "in English": "magnet"
+    },
+    {
+      "Frequency Number": 910,
+      "Italian": "argento",
+      "in English": "silver"
+    },
+    {
+      "Frequency Number": 911,
+      "Italian": "grazie",
+      "in English": "thank"
+    },
+    {
+      "Frequency Number": 912,
+      "Italian": "ramo",
+      "in English": "branch"
+    },
+    {
+      "Frequency Number": 913,
+      "Italian": "partita",
+      "in English": "match"
+    },
+    {
+      "Frequency Number": 914,
+      "Italian": "suffisso",
+      "in English": "suffix"
+    },
+    {
+      "Frequency Number": 915,
+      "Italian": "particolarmente",
+      "in English": "especially"
+    },
+    {
+      "Frequency Number": 916,
+      "Italian": "fico",
+      "in English": "fig"
+    },
+    {
+      "Frequency Number": 917,
+      "Italian": "impaurito",
+      "in English": "afraid"
+    },
+    {
+      "Frequency Number": 918,
+      "Italian": "enorme",
+      "in English": "huge"
+    },
+    {
+      "Frequency Number": 919,
+      "Italian": "sorella",
+      "in English": "sister"
+    },
+    {
+      "Frequency Number": 920,
+      "Italian": "acciaio",
+      "in English": "steel"
+    },
+    {
+      "Frequency Number": 921,
+      "Italian": "discutere",
+      "in English": "discuss"
+    },
+    {
+      "Frequency Number": 922,
+      "Italian": "avanti",
+      "in English": "forward"
+    },
+    {
+      "Frequency Number": 923,
+      "Italian": "simile",
+      "in English": "similar"
+    },
+    {
+      "Frequency Number": 924,
+      "Italian": "guidare",
+      "in English": "guide"
+    },
+    {
+      "Frequency Number": 925,
+      "Italian": "esperienza",
+      "in English": "experience"
+    },
+    {
+      "Frequency Number": 926,
+      "Italian": "punteggio",
+      "in English": "score (noun)"
+    },
+    {
+      "Frequency Number": 927,
+      "Italian": "mela",
+      "in English": "apple"
+    },
+    {
+      "Frequency Number": 928,
+      "Italian": "comprato",
+      "in English": "bought"
+    },
+    {
+      "Frequency Number": 929,
+      "Italian": "portato",
+      "in English": "led"
+    },
+    {
+      "Frequency Number": 930,
+      "Italian": "pece",
+      "in English": "pitch"
+    },
+    {
+      "Frequency Number": 931,
+      "Italian": "cappotto",
+      "in English": "coat"
+    },
+    {
+      "Frequency Number": 932,
+      "Italian": "massa",
+      "in English": "mass"
+    },
+    {
+      "Frequency Number": 933,
+      "Italian": "scheda",
+      "in English": "card"
+    },
+    {
+      "Frequency Number": 934,
+      "Italian": "banda",
+      "in English": "band (rubber)"
+    },
+    {
+      "Frequency Number": 935,
+      "Italian": "corda",
+      "in English": "rope"
+    },
+    {
+      "Frequency Number": 936,
+      "Italian": "slittamento",
+      "in English": "slip"
+    },
+    {
+      "Frequency Number": 937,
+      "Italian": "vittoria",
+      "in English": "win"
+    },
+    {
+      "Frequency Number": 938,
+      "Italian": "sognare",
+      "in English": "dream"
+    },
+    {
+      "Frequency Number": 939,
+      "Italian": "sera",
+      "in English": "evening"
+    },
+    {
+      "Frequency Number": 940,
+      "Italian": "condizione",
+      "in English": "condition"
+    },
+    {
+      "Frequency Number": 941,
+      "Italian": "alimentazione",
+      "in English": "feed"
+    },
+    {
+      "Frequency Number": 942,
+      "Italian": "strumento",
+      "in English": "tool"
+    },
+    {
+      "Frequency Number": 943,
+      "Italian": "totale",
+      "in English": "total"
+    },
+    {
+      "Frequency Number": 944,
+      "Italian": "di base",
+      "in English": "basic"
+    },
+    {
+      "Frequency Number": 945,
+      "Italian": "odore",
+      "in English": "smell"
+    },
+    {
+      "Frequency Number": 946,
+      "Italian": "valle",
+      "in English": "valley"
+    },
+    {
+      "Frequency Number": 947,
+      "Italian": "n�",
+      "in English": "nor"
+    },
+    {
+      "Frequency Number": 948,
+      "Italian": "doppio",
+      "in English": "double"
+    },
+    {
+      "Frequency Number": 949,
+      "Italian": "sedile",
+      "in English": "seat (in a car)"
+    },
+    {
+      "Frequency Number": 950,
+      "Italian": "continuare",
+      "in English": "continue"
+    },
+    {
+      "Frequency Number": 951,
+      "Italian": "blocco",
+      "in English": "a block"
+    },
+    {
+      "Frequency Number": 952,
+      "Italian": "grafico",
+      "in English": "chart"
+    },
+    {
+      "Frequency Number": 953,
+      "Italian": "cappello",
+      "in English": "hat"
+    },
+    {
+      "Frequency Number": 954,
+      "Italian": "vendere",
+      "in English": "sell"
+    },
+    {
+      "Frequency Number": 955,
+      "Italian": "successo",
+      "in English": "success"
+    },
+    {
+      "Frequency Number": 956,
+      "Italian": "azienda",
+      "in English": "a company"
+    },
+    {
+      "Frequency Number": 957,
+      "Italian": "sottrarre",
+      "in English": "subtract"
+    },
+    {
+      "Frequency Number": 958,
+      "Italian": "evento",
+      "in English": "event"
+    },
+    {
+      "Frequency Number": 959,
+      "Italian": "particolare",
+      "in English": "particular"
+    },
+    {
+      "Frequency Number": 960,
+      "Italian": "affare",
+      "in English": "deal"
+    },
+    {
+      "Frequency Number": 961,
+      "Italian": "nuoto",
+      "in English": "swim"
+    },
+    {
+      "Frequency Number": 962,
+      "Italian": "termine",
+      "in English": "term"
+    },
+    {
+      "Frequency Number": 963,
+      "Italian": "opposto",
+      "in English": "opposite"
+    },
+    {
+      "Frequency Number": 964,
+      "Italian": "moglie",
+      "in English": "wife"
+    },
+    {
+      "Frequency Number": 965,
+      "Italian": "scarpa",
+      "in English": "shoe"
+    },
+    {
+      "Frequency Number": 966,
+      "Italian": "spalla",
+      "in English": "shoulder"
+    },
+    {
+      "Frequency Number": 967,
+      "Italian": "spargere",
+      "in English": "spread"
+    },
+    {
+      "Frequency Number": 968,
+      "Italian": "organizzare",
+      "in English": "arrange"
+    },
+    {
+      "Frequency Number": 969,
+      "Italian": "campo",
+      "in English": "a camp"
+    },
+    {
+      "Frequency Number": 970,
+      "Italian": "inventare",
+      "in English": "invent"
+    },
+    {
+      "Frequency Number": 971,
+      "Italian": "cotone",
+      "in English": "cotton"
+    },
+    {
+      "Frequency Number": 972,
+      "Italian": "nascita",
+      "in English": "birth"
+    },
+    {
+      "Frequency Number": 973,
+      "Italian": "determinare",
+      "in English": "determine"
+    },
+    {
+      "Frequency Number": 974,
+      "Italian": "quarto di gallone",
+      "in English": "quart"
+    },
+    {
+      "Frequency Number": 975,
+      "Italian": "nove",
+      "in English": "nine"
+    },
+    {
+      "Frequency Number": 976,
+      "Italian": "camion",
+      "in English": "truck"
+    },
+    {
+      "Frequency Number": 977,
+      "Italian": "rumore",
+      "in English": "noise"
+    },
+    {
+      "Frequency Number": 978,
+      "Italian": "livello",
+      "in English": "level"
+    },
+    {
+      "Frequency Number": 979,
+      "Italian": "possibilit�",
+      "in English": "a chance"
+    },
+    {
+      "Frequency Number": 980,
+      "Italian": "raccogliere",
+      "in English": "gather"
+    },
+    {
+      "Frequency Number": 981,
+      "Italian": "negozio",
+      "in English": "a shop"
+    },
+    {
+      "Frequency Number": 982,
+      "Italian": "tratto",
+      "in English": "stretch (of land)"
+    },
+    {
+      "Frequency Number": 983,
+      "Italian": "gettare",
+      "in English": "throw"
+    },
+    {
+      "Frequency Number": 984,
+      "Italian": "brillare",
+      "in English": "shine"
+    },
+    {
+      "Frequency Number": 985,
+      "Italian": "propriet�",
+      "in English": "property"
+    },
+    {
+      "Frequency Number": 986,
+      "Italian": "colonna",
+      "in English": "column"
+    },
+    {
+      "Frequency Number": 987,
+      "Italian": "molecola",
+      "in English": "molecule"
+    },
+    {
+      "Frequency Number": 988,
+      "Italian": "selezionare",
+      "in English": "select"
+    },
+    {
+      "Frequency Number": 989,
+      "Italian": "sbagliato",
+      "in English": "wrong"
+    },
+    {
+      "Frequency Number": 990,
+      "Italian": "grigio",
+      "in English": "gray"
+    },
+    {
+      "Frequency Number": 991,
+      "Italian": "ripetizione",
+      "in English": "repeat"
+    },
+    {
+      "Frequency Number": 992,
+      "Italian": "richiedere",
+      "in English": "require"
+    },
+    {
+      "Frequency Number": 993,
+      "Italian": "ampio",
+      "in English": "broad"
+    },
+    {
+      "Frequency Number": 994,
+      "Italian": "preparare",
+      "in English": "prepare"
+    },
+    {
+      "Frequency Number": 995,
+      "Italian": "sale",
+      "in English": "salt"
+    },
+    {
+      "Frequency Number": 996,
+      "Italian": "naso",
+      "in English": "nose"
+    },
+    {
+      "Frequency Number": 997,
+      "Italian": "plurale",
+      "in English": "plural"
+    },
+    {
+      "Frequency Number": 998,
+      "Italian": "rabbia",
+      "in English": "anger"
+    },
+    {
+      "Frequency Number": 999,
+      "Italian": "richiesta",
+      "in English": "claim"
+    },
+    {
+      "Frequency Number": 1000,
+      "Italian": "continente",
+      "in English": "continent"
+    }
+   ]

@@ -10,3 +10,9 @@
 .card-header{
   font-size: small;
 }
+
+.answer{
+  padding-left: 40px;
+  font-size: medium;
+  font-family: "Gill Sans", sans-serif;
+}
