@@ -1,13 +1,21 @@
 import data from "./resources/italian.json";
 
-export class WordGetter{
+export interface WordGetter{
+    nextWord: () => string[];
+}
 
-    constructor(){
-        WordGetter.nextWord();
-    }
+export class ItalianWordGetter implements WordGetter{
 
-    static nextWord(): string[]{
+    nextWord(): string[]{
         let randInt:number = Math.round(Math.random() * 1000);
-        return [data[randInt].Italian, data[randInt]["in English"]]
+        return [data[randInt].Italian, data[randInt]["in English"]];
     }
 }
+
+export class EmptyWordGetter implements WordGetter{
+
+    nextWord(): string[]{
+        return ['', ''];
+    }
+}
+
