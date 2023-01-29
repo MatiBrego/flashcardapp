@@ -2,6 +2,10 @@
   padding: 20px;
 }
 
+.note{
+  padding-left: 40px;
+}
+
 .Language-List{
   padding-left: 40px;
   size: 40px;
@@ -12,7 +16,6 @@
 }
 
 .answer{
-  
   font-size: medium;
   font-family: "Gill Sans", sans-serif;
 }

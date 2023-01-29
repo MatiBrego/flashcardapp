@@ -27,6 +27,7 @@ class App extends React.Component<{}, { language: string}> {
       <br />
       <FlashCard language = {this.state.language}></FlashCard>
     </div>
+    
     )
   }
 
@@ -37,7 +38,7 @@ class App extends React.Component<{}, { language: string}> {
 
 export default App;
 
-class FlashCard extends React.Component<{language: String}, {word: string, answer:string, userInput: string,validation: string}>{
+class FlashCard extends React.Component<{language: String}, {word: string, answer:string, userInput: string, validation: string, help: string}>{
 
   private wordPair: string[]
 
@@ -52,7 +53,7 @@ class FlashCard extends React.Component<{language: String}, {word: string, answe
     this.languageSelector.set("Spanish", new SpanishWordGetter());
 
     this.wordPair = ["", ""];
-    this.state = {word: this.wordPair[0], answer: '', userInput: '', validation: ''}
+    this.state = {word: this.wordPair[0], answer: '', userInput: '', validation: '', help: 'Select language and press next to start'}
 
     this.handleNext = this.handleNext.bind(this);
     this.handleChange = this.handleChange.bind(this);
@@ -81,6 +82,8 @@ class FlashCard extends React.Component<{language: String}, {word: string, answe
             </div>
           </div>
         </Form>
+        <br />
+        <div className='text-muted'>{this.state.help}</div>
         
       </Card.Body>
       </Card>
@@ -93,7 +96,7 @@ class FlashCard extends React.Component<{language: String}, {word: string, answe
       wordGetter = new EmptyWordGetter();
     
     this.wordPair = wordGetter.nextWord();
-    this.setState({word: this.wordPair[0], answer: '', validation: '', userInput: ''});
+    this.setState({word: this.wordPair[0], answer: '', validation: '', userInput: '', help: ''});
   }
 
   handleChange(e: any){
