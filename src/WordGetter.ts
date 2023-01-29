@@ -1,4 +1,5 @@
-import data from "./resources/italian.json";
+import itData from "./resources/italian.json";
+import spData from "./resources/spanish.json"
 
 export interface WordGetter{
     nextWord: () => string[];
@@ -8,7 +9,7 @@ export class ItalianWordGetter implements WordGetter{
 
     nextWord(): string[]{
         let randInt:number = Math.round(Math.random() * 1000);
-        return [data[randInt].Italian, data[randInt]["in English"]];
+        return [itData[randInt].Italian, itData[randInt]["in English"]];
     }
 }
 
@@ -16,6 +17,13 @@ export class EmptyWordGetter implements WordGetter{
 
     nextWord(): string[]{
         return ['', ''];
+    }
+}
+
+export class SpanishWordGetter implements WordGetter{
+    nextWord(): string[]{
+        let randInt:number = Math.round(Math.random() * 1000);
+        return [spData[randInt].Spanish, spData[randInt]["in English"]];
     }
 }
 
