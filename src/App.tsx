@@ -17,7 +17,7 @@ class App extends React.Component<{}, { language: string}> {
     return(
     <div className="App">
       <div className="h1">FlashCard <small className='text-muted'>App</small></div>
-      <div className="Language-List col-sm-2 ">
+      <div className="Language-List col-2 ">
         <Form.Select onChange={this.handleChange} className='shadow-none'>
           <option value="0">Select Language</option>
           <option value="1">Italian</option>
@@ -40,7 +40,7 @@ export default App;
 
 class FlashCard extends React.Component<{language: String}, {word: string, answer:string, userInput: string, validation: string, help: string}>{
 
-  private wordPair: string[]
+  private wordPair: string[];
 
   private languageSelector: Map<String, WordGetter>;
 
@@ -58,6 +58,7 @@ class FlashCard extends React.Component<{language: String}, {word: string, answe
     this.handleNext = this.handleNext.bind(this);
     this.handleChange = this.handleChange.bind(this);
     this.handleCheck = this.handleCheck.bind(this);
+    this.handleKeyPress = this.handleKeyPress.bind(this)
 
 
 
@@ -71,8 +72,8 @@ class FlashCard extends React.Component<{language: String}, {word: string, answe
         <h4>{this.capitalizeFirstLetter(this.state.word)}</h4>
         {/* <img src=''></img> */}
         <br />
-        <Form >
-          <input type="text" className={'form-control shadow-none ' + this.state.validation} placeholder="Enter word" onChange={this.handleChange}/>
+        <Form id='form'>
+          <input type="text" className={'form-control shadow-none ' + this.state.validation} placeholder="Enter word" onChange={this.handleChange} onKeyPress={this.handleKeyPress}/>
           <br />
           <div className='container text-center'>
             <div className='row'>
@@ -110,6 +111,17 @@ class FlashCard extends React.Component<{language: String}, {word: string, answe
       this.setState({validation: "is-valid"})
     }else{
       this.setState({validation: "is-invalid"})
+    }
+  }
+
+  handleKeyPress(event: any){
+    var form = document.getElementById("form");
+    function handleForm(event:any) { event.preventDefault(); }
+    if(form !== null)
+      form.addEventListener('submit', handleForm); 
+
+    if(event.key === 'Enter'){
+      this.handleCheck();
     }
   }
 
