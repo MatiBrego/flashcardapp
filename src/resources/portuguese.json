@@ -1,0 +1,5002 @@
+[
+    {
+      "Number": 1,
+      "Portuguese": "como",
+      "in English": "as"
+    },
+    {
+      "Number": 2,
+      "Portuguese": "Eu",
+      "in English": "I"
+    },
+    {
+      "Number": 3,
+      "Portuguese": "seu",
+      "in English": "his"
+    },
+    {
+      "Number": 4,
+      "Portuguese": "que",
+      "in English": "that"
+    },
+    {
+      "Number": 5,
+      "Portuguese": "ele",
+      "in English": "he"
+    },
+    {
+      "Number": 6,
+      "Portuguese": "foi",
+      "in English": "was"
+    },
+    {
+      "Number": 7,
+      "Portuguese": "para",
+      "in English": "for"
+    },
+    {
+      "Number": 8,
+      "Portuguese": "em",
+      "in English": "on"
+    },
+    {
+      "Number": 9,
+      "Portuguese": "são",
+      "in English": "are"
+    },
+    {
+      "Number": 10,
+      "Portuguese": "com",
+      "in English": "with"
+    },
+    {
+      "Number": 11,
+      "Portuguese": "eles",
+      "in English": "they"
+    },
+    {
+      "Number": 12,
+      "Portuguese": "ser",
+      "in English": "be"
+    },
+    {
+      "Number": 13,
+      "Portuguese": "em",
+      "in English": "at"
+    },
+    {
+      "Number": 14,
+      "Portuguese": "uma",
+      "in English": "one"
+    },
+    {
+      "Number": 15,
+      "Portuguese": "tem",
+      "in English": "have"
+    },
+    {
+      "Number": 16,
+      "Portuguese": "este",
+      "in English": "this"
+    },
+    {
+      "Number": 17,
+      "Portuguese": "a partir de",
+      "in English": "from"
+    },
+    {
+      "Number": 18,
+      "Portuguese": "por",
+      "in English": "by"
+    },
+    {
+      "Number": 19,
+      "Portuguese": "quente",
+      "in English": "hot"
+    },
+    {
+      "Number": 20,
+      "Portuguese": "palavra",
+      "in English": "word"
+    },
+    {
+      "Number": 21,
+      "Portuguese": "mas",
+      "in English": "but"
+    },
+    {
+      "Number": 22,
+      "Portuguese": "o que",
+      "in English": "what"
+    },
+    {
+      "Number": 23,
+      "Portuguese": "alguns",
+      "in English": "some"
+    },
+    {
+      "Number": 24,
+      "Portuguese": "é",
+      "in English": "is"
+    },
+    {
+      "Number": 25,
+      "Portuguese": "ele",
+      "in English": "it"
+    },
+    {
+      "Number": 26,
+      "Portuguese": "você",
+      "in English": "you"
+    },
+    {
+      "Number": 27,
+      "Portuguese": "ou",
+      "in English": "or"
+    },
+    {
+      "Number": 28,
+      "Portuguese": "teve",
+      "in English": "had"
+    },
+    {
+      "Number": 29,
+      "Portuguese": "o",
+      "in English": "the"
+    },
+    {
+      "Number": 30,
+      "Portuguese": "de",
+      "in English": "of"
+    },
+    {
+      "Number": 31,
+      "Portuguese": "a",
+      "in English": "to"
+    },
+    {
+      "Number": 32,
+      "Portuguese": "e",
+      "in English": "and"
+    },
+    {
+      "Number": 33,
+      "Portuguese": "uma",
+      "in English": "a"
+    },
+    {
+      "Number": 34,
+      "Portuguese": "em",
+      "in English": "in"
+    },
+    {
+      "Number": 35,
+      "Portuguese": "nós",
+      "in English": "we"
+    },
+    {
+      "Number": 36,
+      "Portuguese": "lata",
+      "in English": "can"
+    },
+    {
+      "Number": 37,
+      "Portuguese": "fora",
+      "in English": "out"
+    },
+    {
+      "Number": 38,
+      "Portuguese": "outro",
+      "in English": "other"
+    },
+    {
+      "Number": 39,
+      "Portuguese": "foram",
+      "in English": "were"
+    },
+    {
+      "Number": 40,
+      "Portuguese": "que",
+      "in English": "which"
+    },
+    {
+      "Number": 41,
+      "Portuguese": "fazer",
+      "in English": "do"
+    },
+    {
+      "Number": 42,
+      "Portuguese": "seu",
+      "in English": "their"
+    },
+    {
+      "Number": 43,
+      "Portuguese": "tempo",
+      "in English": "time"
+    },
+    {
+      "Number": 44,
+      "Portuguese": "se",
+      "in English": "if"
+    },
+    {
+      "Number": 45,
+      "Portuguese": "vontade",
+      "in English": "will"
+    },
+    {
+      "Number": 46,
+      "Portuguese": "como",
+      "in English": "how"
+    },
+    {
+      "Number": 47,
+      "Portuguese": "disse",
+      "in English": "said"
+    },
+    {
+      "Number": 48,
+      "Portuguese": "uma",
+      "in English": "an"
+    },
+    {
+      "Number": 49,
+      "Portuguese": "cada",
+      "in English": "each"
+    },
+    {
+      "Number": 50,
+      "Portuguese": "dizer",
+      "in English": "tell"
+    },
+    {
+      "Number": 51,
+      "Portuguese": "faz",
+      "in English": "does"
+    },
+    {
+      "Number": 52,
+      "Portuguese": "conjunto",
+      "in English": "set"
+    },
+    {
+      "Number": 53,
+      "Portuguese": "três",
+      "in English": "three"
+    },
+    {
+      "Number": 54,
+      "Portuguese": "quer",
+      "in English": "want"
+    },
+    {
+      "Number": 55,
+      "Portuguese": "ar",
+      "in English": "air"
+    },
+    {
+      "Number": 56,
+      "Portuguese": "bem",
+      "in English": "well"
+    },
+    {
+      "Number": 57,
+      "Portuguese": "também",
+      "in English": "also"
+    },
+    {
+      "Number": 58,
+      "Portuguese": "jogar",
+      "in English": "play"
+    },
+    {
+      "Number": 59,
+      "Portuguese": "pequeno",
+      "in English": "small"
+    },
+    {
+      "Number": 60,
+      "Portuguese": "fim",
+      "in English": "end"
+    },
+    {
+      "Number": 61,
+      "Portuguese": "colocar",
+      "in English": "put"
+    },
+    {
+      "Number": 62,
+      "Portuguese": "casa",
+      "in English": "home"
+    },
+    {
+      "Number": 63,
+      "Portuguese": "ler",
+      "in English": "read"
+    },
+    {
+      "Number": 64,
+      "Portuguese": "mão",
+      "in English": "hand"
+    },
+    {
+      "Number": 65,
+      "Portuguese": "port",
+      "in English": "port"
+    },
+    {
+      "Number": 66,
+      "Portuguese": "grande",
+      "in English": "large"
+    },
+    {
+      "Number": 67,
+      "Portuguese": "soletrar",
+      "in English": "spell"
+    },
+    {
+      "Number": 68,
+      "Portuguese": "adicionar",
+      "in English": "add"
+    },
+    {
+      "Number": 69,
+      "Portuguese": "mesmo",
+      "in English": "even"
+    },
+    {
+      "Number": 70,
+      "Portuguese": "terra",
+      "in English": "land"
+    },
+    {
+      "Number": 71,
+      "Portuguese": "aqui",
+      "in English": "here"
+    },
+    {
+      "Number": 72,
+      "Portuguese": "necessário",
+      "in English": "must"
+    },
+    {
+      "Number": 73,
+      "Portuguese": "grande",
+      "in English": "big"
+    },
+    {
+      "Number": 74,
+      "Portuguese": "alto",
+      "in English": "high"
+    },
+    {
+      "Number": 75,
+      "Portuguese": "tais",
+      "in English": "such"
+    },
+    {
+      "Number": 76,
+      "Portuguese": "siga",
+      "in English": "follow"
+    },
+    {
+      "Number": 77,
+      "Portuguese": "ato",
+      "in English": "act"
+    },
+    {
+      "Number": 78,
+      "Portuguese": "por que",
+      "in English": "why"
+    },
+    {
+      "Number": 79,
+      "Portuguese": "perguntar",
+      "in English": "ask"
+    },
+    {
+      "Number": 80,
+      "Portuguese": "homens",
+      "in English": "men"
+    },
+    {
+      "Number": 81,
+      "Portuguese": "mudança",
+      "in English": "change"
+    },
+    {
+      "Number": 82,
+      "Portuguese": "fui",
+      "in English": "went"
+    },
+    {
+      "Number": 83,
+      "Portuguese": "luz",
+      "in English": "light"
+    },
+    {
+      "Number": 84,
+      "Portuguese": "tipo",
+      "in English": "kind"
+    },
+    {
+      "Number": 85,
+      "Portuguese": "off",
+      "in English": "off"
+    },
+    {
+      "Number": 86,
+      "Portuguese": "precisa",
+      "in English": "need"
+    },
+    {
+      "Number": 87,
+      "Portuguese": "casa",
+      "in English": "house"
+    },
+    {
+      "Number": 88,
+      "Portuguese": "imagem",
+      "in English": "picture"
+    },
+    {
+      "Number": 89,
+      "Portuguese": "tentar",
+      "in English": "try"
+    },
+    {
+      "Number": 90,
+      "Portuguese": "nós",
+      "in English": "us"
+    },
+    {
+      "Number": 91,
+      "Portuguese": "novamente",
+      "in English": "again"
+    },
+    {
+      "Number": 92,
+      "Portuguese": "animais",
+      "in English": "animal"
+    },
+    {
+      "Number": 93,
+      "Portuguese": "ponto",
+      "in English": "point"
+    },
+    {
+      "Number": 94,
+      "Portuguese": "mãe",
+      "in English": "mother"
+    },
+    {
+      "Number": 95,
+      "Portuguese": "mundo",
+      "in English": "world"
+    },
+    {
+      "Number": 96,
+      "Portuguese": "perto",
+      "in English": "near"
+    },
+    {
+      "Number": 97,
+      "Portuguese": "construir",
+      "in English": "build"
+    },
+    {
+      "Number": 98,
+      "Portuguese": "auto",
+      "in English": "self"
+    },
+    {
+      "Number": 99,
+      "Portuguese": "terra",
+      "in English": "earth"
+    },
+    {
+      "Number": 100,
+      "Portuguese": "pai",
+      "in English": "father"
+    },
+    {
+      "Number": 101,
+      "Portuguese": "qualquer",
+      "in English": "any"
+    },
+    {
+      "Number": 102,
+      "Portuguese": "novo",
+      "in English": "new"
+    },
+    {
+      "Number": 103,
+      "Portuguese": "trabalho",
+      "in English": "work"
+    },
+    {
+      "Number": 104,
+      "Portuguese": "parte",
+      "in English": "part"
+    },
+    {
+      "Number": 105,
+      "Portuguese": "tomar",
+      "in English": "take"
+    },
+    {
+      "Number": 106,
+      "Portuguese": "obter",
+      "in English": "get"
+    },
+    {
+      "Number": 107,
+      "Portuguese": "lugar",
+      "in English": "place"
+    },
+    {
+      "Number": 108,
+      "Portuguese": "feito",
+      "in English": "made"
+    },
+    {
+      "Number": 109,
+      "Portuguese": "viver",
+      "in English": "live"
+    },
+    {
+      "Number": 110,
+      "Portuguese": "onde",
+      "in English": "where"
+    },
+    {
+      "Number": 111,
+      "Portuguese": "depois",
+      "in English": "after"
+    },
+    {
+      "Number": 112,
+      "Portuguese": "de volta",
+      "in English": "back"
+    },
+    {
+      "Number": 113,
+      "Portuguese": "pouco",
+      "in English": "little"
+    },
+    {
+      "Number": 114,
+      "Portuguese": "apenas",
+      "in English": "only"
+    },
+    {
+      "Number": 115,
+      "Portuguese": "rodada",
+      "in English": "round"
+    },
+    {
+      "Number": 116,
+      "Portuguese": "homem",
+      "in English": "man"
+    },
+    {
+      "Number": 117,
+      "Portuguese": "ano",
+      "in English": "year"
+    },
+    {
+      "Number": 118,
+      "Portuguese": "veio",
+      "in English": "came"
+    },
+    {
+      "Number": 119,
+      "Portuguese": "exposição",
+      "in English": "show"
+    },
+    {
+      "Number": 120,
+      "Portuguese": "cada",
+      "in English": "every"
+    },
+    {
+      "Number": 121,
+      "Portuguese": "bom",
+      "in English": "good"
+    },
+    {
+      "Number": 122,
+      "Portuguese": "me",
+      "in English": "me"
+    },
+    {
+      "Number": 123,
+      "Portuguese": "dar",
+      "in English": "give"
+    },
+    {
+      "Number": 124,
+      "Portuguese": "nossa",
+      "in English": "our"
+    },
+    {
+      "Number": 125,
+      "Portuguese": "sob",
+      "in English": "under"
+    },
+    {
+      "Number": 126,
+      "Portuguese": "nome",
+      "in English": "name"
+    },
+    {
+      "Number": 127,
+      "Portuguese": "muito",
+      "in English": "very"
+    },
+    {
+      "Number": 128,
+      "Portuguese": "através",
+      "in English": "through"
+    },
+    {
+      "Number": 129,
+      "Portuguese": "justo",
+      "in English": "just"
+    },
+    {
+      "Number": 130,
+      "Portuguese": "forma",
+      "in English": "form"
+    },
+    {
+      "Number": 131,
+      "Portuguese": "sentença",
+      "in English": "sentence"
+    },
+    {
+      "Number": 132,
+      "Portuguese": "grande",
+      "in English": "great"
+    },
+    {
+      "Number": 133,
+      "Portuguese": "acho que",
+      "in English": "think"
+    },
+    {
+      "Number": 134,
+      "Portuguese": "dizer",
+      "in English": "say"
+    },
+    {
+      "Number": 135,
+      "Portuguese": "ajudar",
+      "in English": "help"
+    },
+    {
+      "Number": 136,
+      "Portuguese": "baixo",
+      "in English": "low"
+    },
+    {
+      "Number": 137,
+      "Portuguese": "linha",
+      "in English": "line"
+    },
+    {
+      "Number": 138,
+      "Portuguese": "diferir",
+      "in English": "differ"
+    },
+    {
+      "Number": 139,
+      "Portuguese": "vez",
+      "in English": "turn"
+    },
+    {
+      "Number": 140,
+      "Portuguese": "causa",
+      "in English": "cause"
+    },
+    {
+      "Number": 141,
+      "Portuguese": "muito",
+      "in English": "much"
+    },
+    {
+      "Number": 142,
+      "Portuguese": "significar",
+      "in English": "mean"
+    },
+    {
+      "Number": 143,
+      "Portuguese": "antes",
+      "in English": "before"
+    },
+    {
+      "Number": 144,
+      "Portuguese": "mudança",
+      "in English": "move"
+    },
+    {
+      "Number": 145,
+      "Portuguese": "direito",
+      "in English": "right"
+    },
+    {
+      "Number": 146,
+      "Portuguese": "menino",
+      "in English": "boy"
+    },
+    {
+      "Number": 147,
+      "Portuguese": "velho",
+      "in English": "old"
+    },
+    {
+      "Number": 148,
+      "Portuguese": "também",
+      "in English": "too"
+    },
+    {
+      "Number": 149,
+      "Portuguese": "mesmo",
+      "in English": "same"
+    },
+    {
+      "Number": 150,
+      "Portuguese": "ela",
+      "in English": "she"
+    },
+    {
+      "Number": 151,
+      "Portuguese": "tudo",
+      "in English": "all"
+    },
+    {
+      "Number": 152,
+      "Portuguese": "lá",
+      "in English": "there"
+    },
+    {
+      "Number": 153,
+      "Portuguese": "quando",
+      "in English": "when"
+    },
+    {
+      "Number": 154,
+      "Portuguese": "up",
+      "in English": "up"
+    },
+    {
+      "Number": 155,
+      "Portuguese": "usar",
+      "in English": "use"
+    },
+    {
+      "Number": 156,
+      "Portuguese": "seu",
+      "in English": "your"
+    },
+    {
+      "Number": 157,
+      "Portuguese": "maneira",
+      "in English": "way"
+    },
+    {
+      "Number": 158,
+      "Portuguese": "sobre",
+      "in English": "about"
+    },
+    {
+      "Number": 159,
+      "Portuguese": "muitos",
+      "in English": "many"
+    },
+    {
+      "Number": 160,
+      "Portuguese": "depois",
+      "in English": "then"
+    },
+    {
+      "Number": 161,
+      "Portuguese": "eles",
+      "in English": "them"
+    },
+    {
+      "Number": 162,
+      "Portuguese": "escrever",
+      "in English": "write"
+    },
+    {
+      "Number": 163,
+      "Portuguese": "faria",
+      "in English": "would"
+    },
+    {
+      "Number": 164,
+      "Portuguese": "como",
+      "in English": "like"
+    },
+    {
+      "Number": 165,
+      "Portuguese": "assim",
+      "in English": "so"
+    },
+    {
+      "Number": 166,
+      "Portuguese": "estes",
+      "in English": "these"
+    },
+    {
+      "Number": 167,
+      "Portuguese": "seu",
+      "in English": "her"
+    },
+    {
+      "Number": 168,
+      "Portuguese": "longo",
+      "in English": "long"
+    },
+    {
+      "Number": 169,
+      "Portuguese": "fazer",
+      "in English": "make"
+    },
+    {
+      "Number": 170,
+      "Portuguese": "coisa",
+      "in English": "thing"
+    },
+    {
+      "Number": 171,
+      "Portuguese": "veja",
+      "in English": "see"
+    },
+    {
+      "Number": 172,
+      "Portuguese": "ele",
+      "in English": "him"
+    },
+    {
+      "Number": 173,
+      "Portuguese": "dois",
+      "in English": "two"
+    },
+    {
+      "Number": 174,
+      "Portuguese": "tem",
+      "in English": "has"
+    },
+    {
+      "Number": 175,
+      "Portuguese": "olhar",
+      "in English": "look"
+    },
+    {
+      "Number": 176,
+      "Portuguese": "mais",
+      "in English": "more"
+    },
+    {
+      "Number": 177,
+      "Portuguese": "dia",
+      "in English": "day"
+    },
+    {
+      "Number": 178,
+      "Portuguese": "poderia",
+      "in English": "could"
+    },
+    {
+      "Number": 179,
+      "Portuguese": "ir",
+      "in English": "go"
+    },
+    {
+      "Number": 180,
+      "Portuguese": "vir",
+      "in English": "come"
+    },
+    {
+      "Number": 181,
+      "Portuguese": "fez",
+      "in English": "did"
+    },
+    {
+      "Number": 182,
+      "Portuguese": "número",
+      "in English": "number"
+    },
+    {
+      "Number": 183,
+      "Portuguese": "som",
+      "in English": "sound"
+    },
+    {
+      "Number": 184,
+      "Portuguese": "não",
+      "in English": "no"
+    },
+    {
+      "Number": 185,
+      "Portuguese": "mais",
+      "in English": "most"
+    },
+    {
+      "Number": 186,
+      "Portuguese": "pessoas",
+      "in English": "people"
+    },
+    {
+      "Number": 187,
+      "Portuguese": "meu",
+      "in English": "my"
+    },
+    {
+      "Number": 188,
+      "Portuguese": "sobre",
+      "in English": "over"
+    },
+    {
+      "Number": 189,
+      "Portuguese": "sei",
+      "in English": "know"
+    },
+    {
+      "Number": 190,
+      "Portuguese": "água",
+      "in English": "water"
+    },
+    {
+      "Number": 191,
+      "Portuguese": "que",
+      "in English": "than"
+    },
+    {
+      "Number": 192,
+      "Portuguese": "chamada",
+      "in English": "call"
+    },
+    {
+      "Number": 193,
+      "Portuguese": "primeiro",
+      "in English": "first"
+    },
+    {
+      "Number": 194,
+      "Portuguese": "que",
+      "in English": "who"
+    },
+    {
+      "Number": 195,
+      "Portuguese": "pode",
+      "in English": "may"
+    },
+    {
+      "Number": 196,
+      "Portuguese": "para baixo",
+      "in English": "down"
+    },
+    {
+      "Number": 197,
+      "Portuguese": "lado",
+      "in English": "side"
+    },
+    {
+      "Number": 198,
+      "Portuguese": "sido",
+      "in English": "been"
+    },
+    {
+      "Number": 199,
+      "Portuguese": "agora",
+      "in English": "now"
+    },
+    {
+      "Number": 200,
+      "Portuguese": "encontrar",
+      "in English": "find"
+    },
+    {
+      "Number": 201,
+      "Portuguese": "cabeça",
+      "in English": "head"
+    },
+    {
+      "Number": 202,
+      "Portuguese": "ficar",
+      "in English": "stand"
+    },
+    {
+      "Number": 203,
+      "Portuguese": "próprio",
+      "in English": "own"
+    },
+    {
+      "Number": 204,
+      "Portuguese": "página",
+      "in English": "page"
+    },
+    {
+      "Number": 205,
+      "Portuguese": "deveria",
+      "in English": "should"
+    },
+    {
+      "Number": 206,
+      "Portuguese": "país",
+      "in English": "country"
+    },
+    {
+      "Number": 207,
+      "Portuguese": "encontrado",
+      "in English": "found"
+    },
+    {
+      "Number": 208,
+      "Portuguese": "resposta",
+      "in English": "answer"
+    },
+    {
+      "Number": 209,
+      "Portuguese": "escola",
+      "in English": "school"
+    },
+    {
+      "Number": 210,
+      "Portuguese": "crescer",
+      "in English": "grow"
+    },
+    {
+      "Number": 211,
+      "Portuguese": "estudo",
+      "in English": "study"
+    },
+    {
+      "Number": 212,
+      "Portuguese": "ainda",
+      "in English": "still"
+    },
+    {
+      "Number": 213,
+      "Portuguese": "aprender",
+      "in English": "learn"
+    },
+    {
+      "Number": 214,
+      "Portuguese": "planta",
+      "in English": "plant"
+    },
+    {
+      "Number": 215,
+      "Portuguese": "cobertura",
+      "in English": "cover"
+    },
+    {
+      "Number": 216,
+      "Portuguese": "alimentos",
+      "in English": "food"
+    },
+    {
+      "Number": 217,
+      "Portuguese": "sol",
+      "in English": "sun"
+    },
+    {
+      "Number": 218,
+      "Portuguese": "quatro",
+      "in English": "four"
+    },
+    {
+      "Number": 219,
+      "Portuguese": "entre",
+      "in English": "between"
+    },
+    {
+      "Number": 220,
+      "Portuguese": "estado",
+      "in English": "state"
+    },
+    {
+      "Number": 221,
+      "Portuguese": "manter",
+      "in English": "keep"
+    },
+    {
+      "Number": 222,
+      "Portuguese": "olho",
+      "in English": "eye"
+    },
+    {
+      "Number": 223,
+      "Portuguese": "nunca",
+      "in English": "never"
+    },
+    {
+      "Number": 224,
+      "Portuguese": "último",
+      "in English": "last"
+    },
+    {
+      "Number": 225,
+      "Portuguese": "deixar",
+      "in English": "let"
+    },
+    {
+      "Number": 226,
+      "Portuguese": "pensava",
+      "in English": "thought"
+    },
+    {
+      "Number": 227,
+      "Portuguese": "cidade",
+      "in English": "city"
+    },
+    {
+      "Number": 228,
+      "Portuguese": "árvore",
+      "in English": "tree"
+    },
+    {
+      "Number": 229,
+      "Portuguese": "atravessar",
+      "in English": "cross"
+    },
+    {
+      "Number": 230,
+      "Portuguese": "fazenda",
+      "in English": "farm"
+    },
+    {
+      "Number": 231,
+      "Portuguese": "difícil",
+      "in English": "hard"
+    },
+    {
+      "Number": 232,
+      "Portuguese": "começo",
+      "in English": "start"
+    },
+    {
+      "Number": 233,
+      "Portuguese": "poder",
+      "in English": "might"
+    },
+    {
+      "Number": 234,
+      "Portuguese": "história",
+      "in English": "story"
+    },
+    {
+      "Number": 235,
+      "Portuguese": "serra",
+      "in English": "saw"
+    },
+    {
+      "Number": 236,
+      "Portuguese": "longe",
+      "in English": "far"
+    },
+    {
+      "Number": 237,
+      "Portuguese": "mar",
+      "in English": "sea"
+    },
+    {
+      "Number": 238,
+      "Portuguese": "desenhar",
+      "in English": "draw"
+    },
+    {
+      "Number": 239,
+      "Portuguese": "esquerda",
+      "in English": "left"
+    },
+    {
+      "Number": 240,
+      "Portuguese": "tarde",
+      "in English": "late"
+    },
+    {
+      "Number": 241,
+      "Portuguese": "run",
+      "in English": "run"
+    },
+    {
+      "Number": 242,
+      "Portuguese": "não",
+      "in English": "don’t"
+    },
+    {
+      "Number": 243,
+      "Portuguese": "enquanto",
+      "in English": "while"
+    },
+    {
+      "Number": 244,
+      "Portuguese": "imprensa",
+      "in English": "press"
+    },
+    {
+      "Number": 245,
+      "Portuguese": "perto",
+      "in English": "close"
+    },
+    {
+      "Number": 246,
+      "Portuguese": "noite",
+      "in English": "night"
+    },
+    {
+      "Number": 247,
+      "Portuguese": "reais",
+      "in English": "real"
+    },
+    {
+      "Number": 248,
+      "Portuguese": "vida",
+      "in English": "life"
+    },
+    {
+      "Number": 249,
+      "Portuguese": "poucos",
+      "in English": "few"
+    },
+    {
+      "Number": 250,
+      "Portuguese": "norte",
+      "in English": "north"
+    },
+    {
+      "Number": 251,
+      "Portuguese": "livro",
+      "in English": "book"
+    },
+    {
+      "Number": 252,
+      "Portuguese": "carregam",
+      "in English": "carry"
+    },
+    {
+      "Number": 253,
+      "Portuguese": "tomou",
+      "in English": "took"
+    },
+    {
+      "Number": 254,
+      "Portuguese": "ciência",
+      "in English": "science"
+    },
+    {
+      "Number": 255,
+      "Portuguese": "comer",
+      "in English": "eat"
+    },
+    {
+      "Number": 256,
+      "Portuguese": "quarto",
+      "in English": "room"
+    },
+    {
+      "Number": 257,
+      "Portuguese": "amigo",
+      "in English": "friend"
+    },
+    {
+      "Number": 258,
+      "Portuguese": "começou",
+      "in English": "began"
+    },
+    {
+      "Number": 259,
+      "Portuguese": "idéia",
+      "in English": "idea"
+    },
+    {
+      "Number": 260,
+      "Portuguese": "peixe",
+      "in English": "fish"
+    },
+    {
+      "Number": 261,
+      "Portuguese": "montanha",
+      "in English": "mountain"
+    },
+    {
+      "Number": 262,
+      "Portuguese": "Pare",
+      "in English": "stop"
+    },
+    {
+      "Number": 263,
+      "Portuguese": "uma vez",
+      "in English": "once"
+    },
+    {
+      "Number": 264,
+      "Portuguese": "base",
+      "in English": "base"
+    },
+    {
+      "Number": 265,
+      "Portuguese": "ouvir",
+      "in English": "hear"
+    },
+    {
+      "Number": 266,
+      "Portuguese": "cavalo",
+      "in English": "horse"
+    },
+    {
+      "Number": 267,
+      "Portuguese": "corte",
+      "in English": "cut"
+    },
+    {
+      "Number": 268,
+      "Portuguese": "certo",
+      "in English": "sure"
+    },
+    {
+      "Number": 269,
+      "Portuguese": "assista",
+      "in English": "watch"
+    },
+    {
+      "Number": 270,
+      "Portuguese": "cor",
+      "in English": "color"
+    },
+    {
+      "Number": 271,
+      "Portuguese": "rosto",
+      "in English": "face"
+    },
+    {
+      "Number": 272,
+      "Portuguese": "madeira",
+      "in English": "wood"
+    },
+    {
+      "Number": 273,
+      "Portuguese": "principal",
+      "in English": "main"
+    },
+    {
+      "Number": 274,
+      "Portuguese": "aberto",
+      "in English": "open"
+    },
+    {
+      "Number": 275,
+      "Portuguese": "parecem",
+      "in English": "seem"
+    },
+    {
+      "Number": 276,
+      "Portuguese": "juntos",
+      "in English": "together"
+    },
+    {
+      "Number": 277,
+      "Portuguese": "próximo",
+      "in English": "next"
+    },
+    {
+      "Number": 278,
+      "Portuguese": "branco",
+      "in English": "white"
+    },
+    {
+      "Number": 279,
+      "Portuguese": "crianças",
+      "in English": "children"
+    },
+    {
+      "Number": 280,
+      "Portuguese": "início",
+      "in English": "begin"
+    },
+    {
+      "Number": 281,
+      "Portuguese": "tem",
+      "in English": "got"
+    },
+    {
+      "Number": 282,
+      "Portuguese": "andar",
+      "in English": "walk"
+    },
+    {
+      "Number": 283,
+      "Portuguese": "exemplo",
+      "in English": "example"
+    },
+    {
+      "Number": 284,
+      "Portuguese": "facilidade",
+      "in English": "ease"
+    },
+    {
+      "Number": 285,
+      "Portuguese": "papel",
+      "in English": "paper"
+    },
+    {
+      "Number": 286,
+      "Portuguese": "grupo",
+      "in English": "group"
+    },
+    {
+      "Number": 287,
+      "Portuguese": "sempre",
+      "in English": "always"
+    },
+    {
+      "Number": 288,
+      "Portuguese": "música",
+      "in English": "music"
+    },
+    {
+      "Number": 289,
+      "Portuguese": "aqueles",
+      "in English": "those"
+    },
+    {
+      "Number": 290,
+      "Portuguese": "tanto",
+      "in English": "both"
+    },
+    {
+      "Number": 291,
+      "Portuguese": "marca",
+      "in English": "mark"
+    },
+    {
+      "Number": 292,
+      "Portuguese": "muitas vezes",
+      "in English": "often"
+    },
+    {
+      "Number": 293,
+      "Portuguese": "carta",
+      "in English": "letter"
+    },
+    {
+      "Number": 294,
+      "Portuguese": "até",
+      "in English": "until"
+    },
+    {
+      "Number": 295,
+      "Portuguese": "milha",
+      "in English": "mile"
+    },
+    {
+      "Number": 296,
+      "Portuguese": "rio",
+      "in English": "river"
+    },
+    {
+      "Number": 297,
+      "Portuguese": "carro",
+      "in English": "car"
+    },
+    {
+      "Number": 298,
+      "Portuguese": "pés",
+      "in English": "feet"
+    },
+    {
+      "Number": 299,
+      "Portuguese": "cuidados",
+      "in English": "care"
+    },
+    {
+      "Number": 300,
+      "Portuguese": "segunda",
+      "in English": "second"
+    },
+    {
+      "Number": 301,
+      "Portuguese": "suficiente",
+      "in English": "enough"
+    },
+    {
+      "Number": 302,
+      "Portuguese": "plain",
+      "in English": "plain"
+    },
+    {
+      "Number": 303,
+      "Portuguese": "menina",
+      "in English": "girl"
+    },
+    {
+      "Number": 304,
+      "Portuguese": "habitual",
+      "in English": "usual"
+    },
+    {
+      "Number": 305,
+      "Portuguese": "jovem",
+      "in English": "young"
+    },
+    {
+      "Number": 306,
+      "Portuguese": "pronto",
+      "in English": "ready"
+    },
+    {
+      "Number": 307,
+      "Portuguese": "acima",
+      "in English": "above"
+    },
+    {
+      "Number": 308,
+      "Portuguese": "sempre",
+      "in English": "ever"
+    },
+    {
+      "Number": 309,
+      "Portuguese": "vermelho",
+      "in English": "red"
+    },
+    {
+      "Number": 310,
+      "Portuguese": "lista",
+      "in English": "list"
+    },
+    {
+      "Number": 311,
+      "Portuguese": "embora",
+      "in English": "though"
+    },
+    {
+      "Number": 312,
+      "Portuguese": "sentir",
+      "in English": "feel"
+    },
+    {
+      "Number": 313,
+      "Portuguese": "Discussão",
+      "in English": "talk"
+    },
+    {
+      "Number": 314,
+      "Portuguese": "pássaro",
+      "in English": "bird"
+    },
+    {
+      "Number": 315,
+      "Portuguese": "em breve",
+      "in English": "soon"
+    },
+    {
+      "Number": 316,
+      "Portuguese": "corpo",
+      "in English": "body"
+    },
+    {
+      "Number": 317,
+      "Portuguese": "cão",
+      "in English": "dog"
+    },
+    {
+      "Number": 318,
+      "Portuguese": "família",
+      "in English": "family"
+    },
+    {
+      "Number": 319,
+      "Portuguese": "direto",
+      "in English": "direct"
+    },
+    {
+      "Number": 320,
+      "Portuguese": "representar",
+      "in English": "pose"
+    },
+    {
+      "Number": 321,
+      "Portuguese": "deixar",
+      "in English": "leave"
+    },
+    {
+      "Number": 322,
+      "Portuguese": "canção",
+      "in English": "song"
+    },
+    {
+      "Number": 323,
+      "Portuguese": "medir",
+      "in English": "measure"
+    },
+    {
+      "Number": 324,
+      "Portuguese": "porta",
+      "in English": "door"
+    },
+    {
+      "Number": 325,
+      "Portuguese": "produto",
+      "in English": "product"
+    },
+    {
+      "Number": 326,
+      "Portuguese": "preto",
+      "in English": "black"
+    },
+    {
+      "Number": 327,
+      "Portuguese": "curta",
+      "in English": "short"
+    },
+    {
+      "Number": 328,
+      "Portuguese": "numeral",
+      "in English": "numeral"
+    },
+    {
+      "Number": 329,
+      "Portuguese": "classe",
+      "in English": "class"
+    },
+    {
+      "Number": 330,
+      "Portuguese": "vento",
+      "in English": "wind"
+    },
+    {
+      "Number": 331,
+      "Portuguese": "pergunta",
+      "in English": "question"
+    },
+    {
+      "Number": 332,
+      "Portuguese": "acontecer",
+      "in English": "happen"
+    },
+    {
+      "Number": 333,
+      "Portuguese": "completo",
+      "in English": "complete"
+    },
+    {
+      "Number": 334,
+      "Portuguese": "navio",
+      "in English": "ship"
+    },
+    {
+      "Number": 335,
+      "Portuguese": "área",
+      "in English": "area"
+    },
+    {
+      "Number": 336,
+      "Portuguese": "metade",
+      "in English": "half"
+    },
+    {
+      "Number": 337,
+      "Portuguese": "rocha",
+      "in English": "rock"
+    },
+    {
+      "Number": 338,
+      "Portuguese": "ordem",
+      "in English": "order"
+    },
+    {
+      "Number": 339,
+      "Portuguese": "fogo",
+      "in English": "fire"
+    },
+    {
+      "Number": 340,
+      "Portuguese": "sul",
+      "in English": "south"
+    },
+    {
+      "Number": 341,
+      "Portuguese": "problema",
+      "in English": "problem"
+    },
+    {
+      "Number": 342,
+      "Portuguese": "peça",
+      "in English": "piece"
+    },
+    {
+      "Number": 343,
+      "Portuguese": "disse",
+      "in English": "told"
+    },
+    {
+      "Number": 344,
+      "Portuguese": "sabia",
+      "in English": "knew"
+    },
+    {
+      "Number": 345,
+      "Portuguese": "passar",
+      "in English": "pass"
+    },
+    {
+      "Number": 346,
+      "Portuguese": "desde",
+      "in English": "since"
+    },
+    {
+      "Number": 347,
+      "Portuguese": "topo",
+      "in English": "top"
+    },
+    {
+      "Number": 348,
+      "Portuguese": "inteiro",
+      "in English": "whole"
+    },
+    {
+      "Number": 349,
+      "Portuguese": "rei",
+      "in English": "king"
+    },
+    {
+      "Number": 350,
+      "Portuguese": "rua",
+      "in English": "street"
+    },
+    {
+      "Number": 351,
+      "Portuguese": "polegada",
+      "in English": "inch"
+    },
+    {
+      "Number": 352,
+      "Portuguese": "multiplicar",
+      "in English": "multiply"
+    },
+    {
+      "Number": 353,
+      "Portuguese": "nada",
+      "in English": "nothing"
+    },
+    {
+      "Number": 354,
+      "Portuguese": "curso",
+      "in English": "course"
+    },
+    {
+      "Number": 355,
+      "Portuguese": "ficar",
+      "in English": "stay"
+    },
+    {
+      "Number": 356,
+      "Portuguese": "roda",
+      "in English": "wheel"
+    },
+    {
+      "Number": 357,
+      "Portuguese": "completo",
+      "in English": "full"
+    },
+    {
+      "Number": 358,
+      "Portuguese": "força",
+      "in English": "force"
+    },
+    {
+      "Number": 359,
+      "Portuguese": "azul",
+      "in English": "blue"
+    },
+    {
+      "Number": 360,
+      "Portuguese": "objeto",
+      "in English": "object"
+    },
+    {
+      "Number": 361,
+      "Portuguese": "decidir",
+      "in English": "decide"
+    },
+    {
+      "Number": 362,
+      "Portuguese": "superfície",
+      "in English": "surface"
+    },
+    {
+      "Number": 363,
+      "Portuguese": "profunda",
+      "in English": "deep"
+    },
+    {
+      "Number": 364,
+      "Portuguese": "lua",
+      "in English": "moon"
+    },
+    {
+      "Number": 365,
+      "Portuguese": "ilha",
+      "in English": "island"
+    },
+    {
+      "Number": 366,
+      "Portuguese": "pé",
+      "in English": "foot"
+    },
+    {
+      "Number": 367,
+      "Portuguese": "sistema",
+      "in English": "system"
+    },
+    {
+      "Number": 368,
+      "Portuguese": "ocupado",
+      "in English": "busy"
+    },
+    {
+      "Number": 369,
+      "Portuguese": "teste",
+      "in English": "test"
+    },
+    {
+      "Number": 370,
+      "Portuguese": "registro",
+      "in English": "record"
+    },
+    {
+      "Number": 371,
+      "Portuguese": "barco",
+      "in English": "boat"
+    },
+    {
+      "Number": 372,
+      "Portuguese": "comum",
+      "in English": "common"
+    },
+    {
+      "Number": 373,
+      "Portuguese": "ouro",
+      "in English": "gold"
+    },
+    {
+      "Number": 374,
+      "Portuguese": "possível",
+      "in English": "possible"
+    },
+    {
+      "Number": 375,
+      "Portuguese": "avião",
+      "in English": "plane"
+    },
+    {
+      "Number": 376,
+      "Portuguese": "lugar",
+      "in English": "stead"
+    },
+    {
+      "Number": 377,
+      "Portuguese": "seca",
+      "in English": "dry"
+    },
+    {
+      "Number": 378,
+      "Portuguese": "pergunto",
+      "in English": "wonder"
+    },
+    {
+      "Number": 379,
+      "Portuguese": "risada",
+      "in English": "laugh"
+    },
+    {
+      "Number": 380,
+      "Portuguese": "mil",
+      "in English": "thousand"
+    },
+    {
+      "Number": 381,
+      "Portuguese": "atrás",
+      "in English": "ago"
+    },
+    {
+      "Number": 382,
+      "Portuguese": "ran",
+      "in English": "ran"
+    },
+    {
+      "Number": 383,
+      "Portuguese": "verifique",
+      "in English": "check"
+    },
+    {
+      "Number": 384,
+      "Portuguese": "jogo",
+      "in English": "game"
+    },
+    {
+      "Number": 385,
+      "Portuguese": "forma",
+      "in English": "shape"
+    },
+    {
+      "Number": 386,
+      "Portuguese": "equiparar",
+      "in English": "equate"
+    },
+    {
+      "Number": 387,
+      "Portuguese": "quente",
+      "in English": "hot"
+    },
+    {
+      "Number": 388,
+      "Portuguese": "senhorita",
+      "in English": "miss"
+    },
+    {
+      "Number": 389,
+      "Portuguese": "trouxe",
+      "in English": "brought"
+    },
+    {
+      "Number": 390,
+      "Portuguese": "calor",
+      "in English": "heat"
+    },
+    {
+      "Number": 391,
+      "Portuguese": "neve",
+      "in English": "snow"
+    },
+    {
+      "Number": 392,
+      "Portuguese": "pneu",
+      "in English": "tire"
+    },
+    {
+      "Number": 393,
+      "Portuguese": "trazer",
+      "in English": "bring"
+    },
+    {
+      "Number": 394,
+      "Portuguese": "sim",
+      "in English": "yes"
+    },
+    {
+      "Number": 395,
+      "Portuguese": "distante",
+      "in English": "distant"
+    },
+    {
+      "Number": 396,
+      "Portuguese": "preencher",
+      "in English": "fill"
+    },
+    {
+      "Number": 397,
+      "Portuguese": "leste",
+      "in English": "east"
+    },
+    {
+      "Number": 398,
+      "Portuguese": "pintar",
+      "in English": "paint"
+    },
+    {
+      "Number": 399,
+      "Portuguese": "linguagem",
+      "in English": "language"
+    },
+    {
+      "Number": 400,
+      "Portuguese": "entre",
+      "in English": "among"
+    },
+    {
+      "Number": 401,
+      "Portuguese": "unidade",
+      "in English": "unit"
+    },
+    {
+      "Number": 402,
+      "Portuguese": "poder",
+      "in English": "power"
+    },
+    {
+      "Number": 403,
+      "Portuguese": "cidade",
+      "in English": "town"
+    },
+    {
+      "Number": 404,
+      "Portuguese": "multa",
+      "in English": "fine"
+    },
+    {
+      "Number": 405,
+      "Portuguese": "certo",
+      "in English": "certain"
+    },
+    {
+      "Number": 406,
+      "Portuguese": "voar",
+      "in English": "fly"
+    },
+    {
+      "Number": 407,
+      "Portuguese": "cair",
+      "in English": "fall"
+    },
+    {
+      "Number": 408,
+      "Portuguese": "conduzir",
+      "in English": "lead"
+    },
+    {
+      "Number": 409,
+      "Portuguese": "grito",
+      "in English": "cry"
+    },
+    {
+      "Number": 410,
+      "Portuguese": "escuro",
+      "in English": "dark"
+    },
+    {
+      "Number": 411,
+      "Portuguese": "máquina",
+      "in English": "machine"
+    },
+    {
+      "Number": 412,
+      "Portuguese": "nota",
+      "in English": "note"
+    },
+    {
+      "Number": 413,
+      "Portuguese": "esperar",
+      "in English": "wait"
+    },
+    {
+      "Number": 414,
+      "Portuguese": "plano",
+      "in English": "plan"
+    },
+    {
+      "Number": 415,
+      "Portuguese": "figura",
+      "in English": "figure"
+    },
+    {
+      "Number": 416,
+      "Portuguese": "estrela",
+      "in English": "star"
+    },
+    {
+      "Number": 417,
+      "Portuguese": "caixa",
+      "in English": "box"
+    },
+    {
+      "Number": 418,
+      "Portuguese": "substantivo",
+      "in English": "noun"
+    },
+    {
+      "Number": 419,
+      "Portuguese": "campo",
+      "in English": "field"
+    },
+    {
+      "Number": 420,
+      "Portuguese": "resto",
+      "in English": "rest"
+    },
+    {
+      "Number": 421,
+      "Portuguese": "correto",
+      "in English": "correct"
+    },
+    {
+      "Number": 422,
+      "Portuguese": "capaz",
+      "in English": "able"
+    },
+    {
+      "Number": 423,
+      "Portuguese": "libra",
+      "in English": "pound"
+    },
+    {
+      "Number": 424,
+      "Portuguese": "done",
+      "in English": "done"
+    },
+    {
+      "Number": 425,
+      "Portuguese": "beleza",
+      "in English": "beauty"
+    },
+    {
+      "Number": 426,
+      "Portuguese": "unidade",
+      "in English": "drive"
+    },
+    {
+      "Number": 427,
+      "Portuguese": "se",
+      "in English": "stood"
+    },
+    {
+      "Number": 428,
+      "Portuguese": "contêm",
+      "in English": "contain"
+    },
+    {
+      "Number": 429,
+      "Portuguese": "frente",
+      "in English": "front"
+    },
+    {
+      "Number": 430,
+      "Portuguese": "ensinar",
+      "in English": "teach"
+    },
+    {
+      "Number": 431,
+      "Portuguese": "semana",
+      "in English": "week"
+    },
+    {
+      "Number": 432,
+      "Portuguese": "finais",
+      "in English": "final"
+    },
+    {
+      "Number": 433,
+      "Portuguese": "deu",
+      "in English": "gave"
+    },
+    {
+      "Number": 434,
+      "Portuguese": "verde",
+      "in English": "green"
+    },
+    {
+      "Number": 435,
+      "Portuguese": "ó",
+      "in English": "oh"
+    },
+    {
+      "Number": 436,
+      "Portuguese": "rápida",
+      "in English": "quick"
+    },
+    {
+      "Number": 437,
+      "Portuguese": "desenvolver",
+      "in English": "develop"
+    },
+    {
+      "Number": 438,
+      "Portuguese": "oceano",
+      "in English": "ocean"
+    },
+    {
+      "Number": 439,
+      "Portuguese": "quente",
+      "in English": "warm"
+    },
+    {
+      "Number": 440,
+      "Portuguese": "livre",
+      "in English": "free"
+    },
+    {
+      "Number": 441,
+      "Portuguese": "minuto",
+      "in English": "minute"
+    },
+    {
+      "Number": 442,
+      "Portuguese": "forte",
+      "in English": "strong"
+    },
+    {
+      "Number": 443,
+      "Portuguese": "especial",
+      "in English": "special"
+    },
+    {
+      "Number": 444,
+      "Portuguese": "mente",
+      "in English": "mind"
+    },
+    {
+      "Number": 445,
+      "Portuguese": "atrás",
+      "in English": "behind"
+    },
+    {
+      "Number": 446,
+      "Portuguese": "claro",
+      "in English": "clear"
+    },
+    {
+      "Number": 447,
+      "Portuguese": "cauda",
+      "in English": "tail"
+    },
+    {
+      "Number": 448,
+      "Portuguese": "produzir",
+      "in English": "produce"
+    },
+    {
+      "Number": 449,
+      "Portuguese": "fato",
+      "in English": "fact"
+    },
+    {
+      "Number": 450,
+      "Portuguese": "espaço",
+      "in English": "space"
+    },
+    {
+      "Number": 451,
+      "Portuguese": "ouvido",
+      "in English": "heard"
+    },
+    {
+      "Number": 452,
+      "Portuguese": "melhor",
+      "in English": "best"
+    },
+    {
+      "Number": 453,
+      "Portuguese": "horas",
+      "in English": "hour"
+    },
+    {
+      "Number": 454,
+      "Portuguese": "melhor",
+      "in English": "better"
+    },
+    {
+      "Number": 455,
+      "Portuguese": "verdade",
+      "in English": "TRUE"
+    },
+    {
+      "Number": 456,
+      "Portuguese": "durante",
+      "in English": "during"
+    },
+    {
+      "Number": 457,
+      "Portuguese": "cem",
+      "in English": "hundred"
+    },
+    {
+      "Number": 458,
+      "Portuguese": "cinco",
+      "in English": "five"
+    },
+    {
+      "Number": 459,
+      "Portuguese": "lembre-se",
+      "in English": "remember"
+    },
+    {
+      "Number": 460,
+      "Portuguese": "passo",
+      "in English": "step"
+    },
+    {
+      "Number": 461,
+      "Portuguese": "cedo",
+      "in English": "early"
+    },
+    {
+      "Number": 462,
+      "Portuguese": "segurar",
+      "in English": "hold"
+    },
+    {
+      "Number": 463,
+      "Portuguese": "oeste",
+      "in English": "west"
+    },
+    {
+      "Number": 464,
+      "Portuguese": "solo",
+      "in English": "ground"
+    },
+    {
+      "Number": 465,
+      "Portuguese": "juros",
+      "in English": "interest"
+    },
+    {
+      "Number": 466,
+      "Portuguese": "alcançar",
+      "in English": "reach"
+    },
+    {
+      "Number": 467,
+      "Portuguese": "rápido",
+      "in English": "fast"
+    },
+    {
+      "Number": 468,
+      "Portuguese": "verbo",
+      "in English": "verb"
+    },
+    {
+      "Number": 469,
+      "Portuguese": "cantar",
+      "in English": "sing"
+    },
+    {
+      "Number": 470,
+      "Portuguese": "ouça",
+      "in English": "listen"
+    },
+    {
+      "Number": 471,
+      "Portuguese": "seis",
+      "in English": "six"
+    },
+    {
+      "Number": 472,
+      "Portuguese": "mesa",
+      "in English": "table"
+    },
+    {
+      "Number": 473,
+      "Portuguese": "viagens",
+      "in English": "travel"
+    },
+    {
+      "Number": 474,
+      "Portuguese": "menos",
+      "in English": "less"
+    },
+    {
+      "Number": 475,
+      "Portuguese": "manhã",
+      "in English": "morning"
+    },
+    {
+      "Number": 476,
+      "Portuguese": "dez",
+      "in English": "ten"
+    },
+    {
+      "Number": 477,
+      "Portuguese": "simples",
+      "in English": "simple"
+    },
+    {
+      "Number": 478,
+      "Portuguese": "vários",
+      "in English": "several"
+    },
+    {
+      "Number": 479,
+      "Portuguese": "vogal",
+      "in English": "vowel"
+    },
+    {
+      "Number": 480,
+      "Portuguese": "direção",
+      "in English": "toward"
+    },
+    {
+      "Number": 481,
+      "Portuguese": "guerra",
+      "in English": "war"
+    },
+    {
+      "Number": 482,
+      "Portuguese": "lay",
+      "in English": "lay"
+    },
+    {
+      "Number": 483,
+      "Portuguese": "contra",
+      "in English": "against"
+    },
+    {
+      "Number": 484,
+      "Portuguese": "padrão",
+      "in English": "pattern"
+    },
+    {
+      "Number": 485,
+      "Portuguese": "lento",
+      "in English": "slow"
+    },
+    {
+      "Number": 486,
+      "Portuguese": "centro",
+      "in English": "center"
+    },
+    {
+      "Number": 487,
+      "Portuguese": "amo",
+      "in English": "love"
+    },
+    {
+      "Number": 488,
+      "Portuguese": "pessoa",
+      "in English": "person"
+    },
+    {
+      "Number": 489,
+      "Portuguese": "dinheiro",
+      "in English": "money"
+    },
+    {
+      "Number": 490,
+      "Portuguese": "servir",
+      "in English": "serve"
+    },
+    {
+      "Number": 491,
+      "Portuguese": "aparecer",
+      "in English": "appear"
+    },
+    {
+      "Number": 492,
+      "Portuguese": "estrada",
+      "in English": "road"
+    },
+    {
+      "Number": 493,
+      "Portuguese": "mapa",
+      "in English": "map"
+    },
+    {
+      "Number": 494,
+      "Portuguese": "chuva",
+      "in English": "rain"
+    },
+    {
+      "Number": 495,
+      "Portuguese": "regra",
+      "in English": "rule"
+    },
+    {
+      "Number": 496,
+      "Portuguese": "governar",
+      "in English": "govern"
+    },
+    {
+      "Number": 497,
+      "Portuguese": "puxe",
+      "in English": "pull"
+    },
+    {
+      "Number": 498,
+      "Portuguese": "frio",
+      "in English": "cold"
+    },
+    {
+      "Number": 499,
+      "Portuguese": "aviso",
+      "in English": "notice"
+    },
+    {
+      "Number": 500,
+      "Portuguese": "voz",
+      "in English": "voice"
+    },
+    {
+      "Number": 501,
+      "Portuguese": "energia",
+      "in English": "energy"
+    },
+    {
+      "Number": 502,
+      "Portuguese": "caça",
+      "in English": "hunt"
+    },
+    {
+      "Number": 503,
+      "Portuguese": "provável",
+      "in English": "probable"
+    },
+    {
+      "Number": 504,
+      "Portuguese": "cama",
+      "in English": "bed"
+    },
+    {
+      "Number": 505,
+      "Portuguese": "irmão",
+      "in English": "brother"
+    },
+    {
+      "Number": 506,
+      "Portuguese": "ovo",
+      "in English": "egg"
+    },
+    {
+      "Number": 507,
+      "Portuguese": "passeio",
+      "in English": "ride"
+    },
+    {
+      "Number": 508,
+      "Portuguese": "celular",
+      "in English": "cell"
+    },
+    {
+      "Number": 509,
+      "Portuguese": "acreditar",
+      "in English": "believe"
+    },
+    {
+      "Number": 510,
+      "Portuguese": "talvez",
+      "in English": "perhaps"
+    },
+    {
+      "Number": 511,
+      "Portuguese": "escolher",
+      "in English": "pick"
+    },
+    {
+      "Number": 512,
+      "Portuguese": "súbita",
+      "in English": "sudden"
+    },
+    {
+      "Number": 513,
+      "Portuguese": "contar",
+      "in English": "count"
+    },
+    {
+      "Number": 514,
+      "Portuguese": "quadrado",
+      "in English": "square"
+    },
+    {
+      "Number": 515,
+      "Portuguese": "razão",
+      "in English": "reason"
+    },
+    {
+      "Number": 516,
+      "Portuguese": "comprimento",
+      "in English": "length"
+    },
+    {
+      "Number": 517,
+      "Portuguese": "representar",
+      "in English": "represent"
+    },
+    {
+      "Number": 518,
+      "Portuguese": "arte",
+      "in English": "art"
+    },
+    {
+      "Number": 519,
+      "Portuguese": "assunto",
+      "in English": "subject"
+    },
+    {
+      "Number": 520,
+      "Portuguese": "região",
+      "in English": "region"
+    },
+    {
+      "Number": 521,
+      "Portuguese": "tamanho",
+      "in English": "size"
+    },
+    {
+      "Number": 522,
+      "Portuguese": "variar",
+      "in English": "vary"
+    },
+    {
+      "Number": 523,
+      "Portuguese": "resolver",
+      "in English": "settle"
+    },
+    {
+      "Number": 524,
+      "Portuguese": "falar",
+      "in English": "speak"
+    },
+    {
+      "Number": 525,
+      "Portuguese": "peso",
+      "in English": "weight"
+    },
+    {
+      "Number": 526,
+      "Portuguese": "geral",
+      "in English": "general"
+    },
+    {
+      "Number": 527,
+      "Portuguese": "gelo",
+      "in English": "ice"
+    },
+    {
+      "Number": 528,
+      "Portuguese": "assunto",
+      "in English": "matter"
+    },
+    {
+      "Number": 529,
+      "Portuguese": "círculo",
+      "in English": "circle"
+    },
+    {
+      "Number": 530,
+      "Portuguese": "par",
+      "in English": "pair"
+    },
+    {
+      "Number": 531,
+      "Portuguese": "incluir",
+      "in English": "include"
+    },
+    {
+      "Number": 532,
+      "Portuguese": "dividir",
+      "in English": "divide"
+    },
+    {
+      "Number": 533,
+      "Portuguese": "sílaba",
+      "in English": "syllable"
+    },
+    {
+      "Number": 534,
+      "Portuguese": "sentido",
+      "in English": "felt"
+    },
+    {
+      "Number": 535,
+      "Portuguese": "grande",
+      "in English": "grand"
+    },
+    {
+      "Number": 536,
+      "Portuguese": "bola",
+      "in English": "ball"
+    },
+    {
+      "Number": 537,
+      "Portuguese": "ainda",
+      "in English": "yet"
+    },
+    {
+      "Number": 538,
+      "Portuguese": "onda",
+      "in English": "wave"
+    },
+    {
+      "Number": 539,
+      "Portuguese": "cair",
+      "in English": "drop"
+    },
+    {
+      "Number": 540,
+      "Portuguese": "coração",
+      "in English": "heart"
+    },
+    {
+      "Number": 541,
+      "Portuguese": "am",
+      "in English": "am"
+    },
+    {
+      "Number": 542,
+      "Portuguese": "presente",
+      "in English": "present"
+    },
+    {
+      "Number": 543,
+      "Portuguese": "pesado",
+      "in English": "heavy"
+    },
+    {
+      "Number": 544,
+      "Portuguese": "dança",
+      "in English": "dance"
+    },
+    {
+      "Number": 545,
+      "Portuguese": "motor",
+      "in English": "engine"
+    },
+    {
+      "Number": 546,
+      "Portuguese": "posição",
+      "in English": "position"
+    },
+    {
+      "Number": 547,
+      "Portuguese": "braço",
+      "in English": "arm"
+    },
+    {
+      "Number": 548,
+      "Portuguese": "ampla",
+      "in English": "wide"
+    },
+    {
+      "Number": 549,
+      "Portuguese": "vela",
+      "in English": "sail"
+    },
+    {
+      "Number": 550,
+      "Portuguese": "material de",
+      "in English": "material"
+    },
+    {
+      "Number": 551,
+      "Portuguese": "fração",
+      "in English": "fraction"
+    },
+    {
+      "Number": 552,
+      "Portuguese": "floresta",
+      "in English": "forest"
+    },
+    {
+      "Number": 553,
+      "Portuguese": "sentar-se",
+      "in English": "sit"
+    },
+    {
+      "Number": 554,
+      "Portuguese": "corrida",
+      "in English": "race"
+    },
+    {
+      "Number": 555,
+      "Portuguese": "janela",
+      "in English": "window"
+    },
+    {
+      "Number": 556,
+      "Portuguese": "loja",
+      "in English": "store"
+    },
+    {
+      "Number": 557,
+      "Portuguese": "verão",
+      "in English": "summer"
+    },
+    {
+      "Number": 558,
+      "Portuguese": "trem",
+      "in English": "train"
+    },
+    {
+      "Number": 559,
+      "Portuguese": "sono",
+      "in English": "sleep"
+    },
+    {
+      "Number": 560,
+      "Portuguese": "provar",
+      "in English": "prove"
+    },
+    {
+      "Number": 561,
+      "Portuguese": "solitário",
+      "in English": "lone"
+    },
+    {
+      "Number": 562,
+      "Portuguese": "perna",
+      "in English": "leg"
+    },
+    {
+      "Number": 563,
+      "Portuguese": "exercício",
+      "in English": "exercise"
+    },
+    {
+      "Number": 564,
+      "Portuguese": "parede",
+      "in English": "wall"
+    },
+    {
+      "Number": 565,
+      "Portuguese": "captura",
+      "in English": "catch"
+    },
+    {
+      "Number": 566,
+      "Portuguese": "mount",
+      "in English": "mount"
+    },
+    {
+      "Number": 567,
+      "Portuguese": "desejo",
+      "in English": "wish"
+    },
+    {
+      "Number": 568,
+      "Portuguese": "céu",
+      "in English": "sky"
+    },
+    {
+      "Number": 569,
+      "Portuguese": "conselho",
+      "in English": "board"
+    },
+    {
+      "Number": 570,
+      "Portuguese": "alegria",
+      "in English": "joy"
+    },
+    {
+      "Number": 571,
+      "Portuguese": "inverno",
+      "in English": "winter"
+    },
+    {
+      "Number": 572,
+      "Portuguese": "sat",
+      "in English": "sat"
+    },
+    {
+      "Number": 573,
+      "Portuguese": "escrito",
+      "in English": "written"
+    },
+    {
+      "Number": 574,
+      "Portuguese": "selvagem",
+      "in English": "wild"
+    },
+    {
+      "Number": 575,
+      "Portuguese": "instrumento",
+      "in English": "instrument"
+    },
+    {
+      "Number": 576,
+      "Portuguese": "guardado",
+      "in English": "kept"
+    },
+    {
+      "Number": 577,
+      "Portuguese": "vidro",
+      "in English": "glass"
+    },
+    {
+      "Number": 578,
+      "Portuguese": "grama",
+      "in English": "grass"
+    },
+    {
+      "Number": 579,
+      "Portuguese": "vaca",
+      "in English": "cow"
+    },
+    {
+      "Number": 580,
+      "Portuguese": "trabalho",
+      "in English": "job"
+    },
+    {
+      "Number": 581,
+      "Portuguese": "borda",
+      "in English": "edge"
+    },
+    {
+      "Number": 582,
+      "Portuguese": "sinal",
+      "in English": "sign"
+    },
+    {
+      "Number": 583,
+      "Portuguese": "visita",
+      "in English": "visit"
+    },
+    {
+      "Number": 584,
+      "Portuguese": "passado",
+      "in English": "past"
+    },
+    {
+      "Number": 585,
+      "Portuguese": "suave",
+      "in English": "soft"
+    },
+    {
+      "Number": 586,
+      "Portuguese": "diversão",
+      "in English": "fun"
+    },
+    {
+      "Number": 587,
+      "Portuguese": "brilhante",
+      "in English": "bright"
+    },
+    {
+      "Number": 588,
+      "Portuguese": "gás",
+      "in English": "gas"
+    },
+    {
+      "Number": 589,
+      "Portuguese": "tempo",
+      "in English": "weather"
+    },
+    {
+      "Number": 590,
+      "Portuguese": "mês",
+      "in English": "month"
+    },
+    {
+      "Number": 591,
+      "Portuguese": "milhão",
+      "in English": "million"
+    },
+    {
+      "Number": 592,
+      "Portuguese": "suportar",
+      "in English": "bear"
+    },
+    {
+      "Number": 593,
+      "Portuguese": "acabamento",
+      "in English": "finish"
+    },
+    {
+      "Number": 594,
+      "Portuguese": "feliz",
+      "in English": "happy"
+    },
+    {
+      "Number": 595,
+      "Portuguese": "Esperamos",
+      "in English": "hope"
+    },
+    {
+      "Number": 596,
+      "Portuguese": "flor",
+      "in English": "flower"
+    },
+    {
+      "Number": 597,
+      "Portuguese": "vestir",
+      "in English": "clothe"
+    },
+    {
+      "Number": 598,
+      "Portuguese": "estranho",
+      "in English": "strange"
+    },
+    {
+      "Number": 599,
+      "Portuguese": "gone",
+      "in English": "gone"
+    },
+    {
+      "Number": 600,
+      "Portuguese": "comércio",
+      "in English": "trade"
+    },
+    {
+      "Number": 601,
+      "Portuguese": "melodia",
+      "in English": "melody"
+    },
+    {
+      "Number": 602,
+      "Portuguese": "viagem",
+      "in English": "trip"
+    },
+    {
+      "Number": 603,
+      "Portuguese": "escritório",
+      "in English": "office"
+    },
+    {
+      "Number": 604,
+      "Portuguese": "receber",
+      "in English": "receive"
+    },
+    {
+      "Number": 605,
+      "Portuguese": "linha",
+      "in English": "row"
+    },
+    {
+      "Number": 606,
+      "Portuguese": "boca",
+      "in English": "mouth"
+    },
+    {
+      "Number": 607,
+      "Portuguese": "exata",
+      "in English": "exact"
+    },
+    {
+      "Number": 608,
+      "Portuguese": "símbolo",
+      "in English": "symbol"
+    },
+    {
+      "Number": 609,
+      "Portuguese": "morrer",
+      "in English": "die"
+    },
+    {
+      "Number": 610,
+      "Portuguese": "menos",
+      "in English": "least"
+    },
+    {
+      "Number": 611,
+      "Portuguese": "dificuldade",
+      "in English": "trouble"
+    },
+    {
+      "Number": 612,
+      "Portuguese": "grito",
+      "in English": "shout"
+    },
+    {
+      "Number": 613,
+      "Portuguese": "exceto",
+      "in English": "except"
+    },
+    {
+      "Number": 614,
+      "Portuguese": "escreveu",
+      "in English": "wrote"
+    },
+    {
+      "Number": 615,
+      "Portuguese": "semente",
+      "in English": "seed"
+    },
+    {
+      "Number": 616,
+      "Portuguese": "tom",
+      "in English": "tone"
+    },
+    {
+      "Number": 617,
+      "Portuguese": "juntar-se",
+      "in English": "join"
+    },
+    {
+      "Number": 618,
+      "Portuguese": "sugerir",
+      "in English": "suggest"
+    },
+    {
+      "Number": 619,
+      "Portuguese": "limpo",
+      "in English": "clean"
+    },
+    {
+      "Number": 620,
+      "Portuguese": "pausa",
+      "in English": "break"
+    },
+    {
+      "Number": 621,
+      "Portuguese": "senhora",
+      "in English": "lady"
+    },
+    {
+      "Number": 622,
+      "Portuguese": "quintal",
+      "in English": "yard"
+    },
+    {
+      "Number": 623,
+      "Portuguese": "subir",
+      "in English": "rise"
+    },
+    {
+      "Number": 624,
+      "Portuguese": "ruim",
+      "in English": "bad"
+    },
+    {
+      "Number": 625,
+      "Portuguese": "golpe",
+      "in English": "blow"
+    },
+    {
+      "Number": 626,
+      "Portuguese": "óleo",
+      "in English": "oil"
+    },
+    {
+      "Number": 627,
+      "Portuguese": "sangue",
+      "in English": "blood"
+    },
+    {
+      "Number": 628,
+      "Portuguese": "tocar",
+      "in English": "touch"
+    },
+    {
+      "Number": 629,
+      "Portuguese": "cresceu",
+      "in English": "grew"
+    },
+    {
+      "Number": 630,
+      "Portuguese": "cento",
+      "in English": "cent"
+    },
+    {
+      "Number": 631,
+      "Portuguese": "misturar",
+      "in English": "mix"
+    },
+    {
+      "Number": 632,
+      "Portuguese": "equipe",
+      "in English": "team"
+    },
+    {
+      "Number": 633,
+      "Portuguese": "fio",
+      "in English": "wire"
+    },
+    {
+      "Number": 634,
+      "Portuguese": "custo",
+      "in English": "cost"
+    },
+    {
+      "Number": 635,
+      "Portuguese": "perdido",
+      "in English": "lost"
+    },
+    {
+      "Number": 636,
+      "Portuguese": "marrom",
+      "in English": "brown"
+    },
+    {
+      "Number": 637,
+      "Portuguese": "desgaste",
+      "in English": "wear"
+    },
+    {
+      "Number": 638,
+      "Portuguese": "jardim",
+      "in English": "garden"
+    },
+    {
+      "Number": 639,
+      "Portuguese": "igual",
+      "in English": "equal"
+    },
+    {
+      "Number": 640,
+      "Portuguese": "enviado",
+      "in English": "sent"
+    },
+    {
+      "Number": 641,
+      "Portuguese": "escolher",
+      "in English": "choose"
+    },
+    {
+      "Number": 642,
+      "Portuguese": "caiu",
+      "in English": "fell"
+    },
+    {
+      "Number": 643,
+      "Portuguese": "caber",
+      "in English": "fit"
+    },
+    {
+      "Number": 644,
+      "Portuguese": "fluir",
+      "in English": "flow"
+    },
+    {
+      "Number": 645,
+      "Portuguese": "feira",
+      "in English": "fair"
+    },
+    {
+      "Number": 646,
+      "Portuguese": "banco",
+      "in English": "bank"
+    },
+    {
+      "Number": 647,
+      "Portuguese": "recolher",
+      "in English": "collect"
+    },
+    {
+      "Number": 648,
+      "Portuguese": "salvar",
+      "in English": "save"
+    },
+    {
+      "Number": 649,
+      "Portuguese": "controle",
+      "in English": "control"
+    },
+    {
+      "Number": 650,
+      "Portuguese": "decimal",
+      "in English": "decimal"
+    },
+    {
+      "Number": 651,
+      "Portuguese": "ouvido",
+      "in English": "ear"
+    },
+    {
+      "Number": 652,
+      "Portuguese": "mais",
+      "in English": "else"
+    },
+    {
+      "Number": 653,
+      "Portuguese": "bastante",
+      "in English": "quite"
+    },
+    {
+      "Number": 654,
+      "Portuguese": "quebrado",
+      "in English": "broke"
+    },
+    {
+      "Number": 655,
+      "Portuguese": "caso",
+      "in English": "case"
+    },
+    {
+      "Number": 656,
+      "Portuguese": "meio",
+      "in English": "middle"
+    },
+    {
+      "Number": 657,
+      "Portuguese": "matar",
+      "in English": "kill"
+    },
+    {
+      "Number": 658,
+      "Portuguese": "filho",
+      "in English": "son"
+    },
+    {
+      "Number": 659,
+      "Portuguese": "lago",
+      "in English": "lake"
+    },
+    {
+      "Number": 660,
+      "Portuguese": "momento",
+      "in English": "moment"
+    },
+    {
+      "Number": 661,
+      "Portuguese": "escala",
+      "in English": "scale"
+    },
+    {
+      "Number": 662,
+      "Portuguese": "alto",
+      "in English": "loud"
+    },
+    {
+      "Number": 663,
+      "Portuguese": "primavera",
+      "in English": "spring"
+    },
+    {
+      "Number": 664,
+      "Portuguese": "observar",
+      "in English": "observe"
+    },
+    {
+      "Number": 665,
+      "Portuguese": "criança",
+      "in English": "child"
+    },
+    {
+      "Number": 666,
+      "Portuguese": "reta",
+      "in English": "straight"
+    },
+    {
+      "Number": 667,
+      "Portuguese": "consoante",
+      "in English": "consonant"
+    },
+    {
+      "Number": 668,
+      "Portuguese": "nação",
+      "in English": "nation"
+    },
+    {
+      "Number": 669,
+      "Portuguese": "dicionário",
+      "in English": "dictionary"
+    },
+    {
+      "Number": 670,
+      "Portuguese": "leite",
+      "in English": "milk"
+    },
+    {
+      "Number": 671,
+      "Portuguese": "velocidade",
+      "in English": "speed"
+    },
+    {
+      "Number": 672,
+      "Portuguese": "método",
+      "in English": "method"
+    },
+    {
+      "Number": 673,
+      "Portuguese": "órgão",
+      "in English": "organ"
+    },
+    {
+      "Number": 674,
+      "Portuguese": "pagar",
+      "in English": "pay"
+    },
+    {
+      "Number": 675,
+      "Portuguese": "idade",
+      "in English": "age"
+    },
+    {
+      "Number": 676,
+      "Portuguese": "seção",
+      "in English": "section"
+    },
+    {
+      "Number": 677,
+      "Portuguese": "vestido",
+      "in English": "dress"
+    },
+    {
+      "Number": 678,
+      "Portuguese": "nuvem",
+      "in English": "cloud"
+    },
+    {
+      "Number": 679,
+      "Portuguese": "surpresa",
+      "in English": "surprise"
+    },
+    {
+      "Number": 680,
+      "Portuguese": "calma",
+      "in English": "quiet"
+    },
+    {
+      "Number": 681,
+      "Portuguese": "pedra",
+      "in English": "stone"
+    },
+    {
+      "Number": 682,
+      "Portuguese": "minúsculo",
+      "in English": "tiny"
+    },
+    {
+      "Number": 683,
+      "Portuguese": "subida",
+      "in English": "climb"
+    },
+    {
+      "Number": 684,
+      "Portuguese": "legal",
+      "in English": "cool"
+    },
+    {
+      "Number": 685,
+      "Portuguese": "projeto",
+      "in English": "design"
+    },
+    {
+      "Number": 686,
+      "Portuguese": "pobre",
+      "in English": "poor"
+    },
+    {
+      "Number": 687,
+      "Portuguese": "muito",
+      "in English": "lot"
+    },
+    {
+      "Number": 688,
+      "Portuguese": "experiência",
+      "in English": "experiment"
+    },
+    {
+      "Number": 689,
+      "Portuguese": "inferior",
+      "in English": "bottom"
+    },
+    {
+      "Number": 690,
+      "Portuguese": "chave",
+      "in English": "key"
+    },
+    {
+      "Number": 691,
+      "Portuguese": "ferro",
+      "in English": "iron"
+    },
+    {
+      "Number": 692,
+      "Portuguese": "único",
+      "in English": "single"
+    },
+    {
+      "Number": 693,
+      "Portuguese": "vara",
+      "in English": "stick"
+    },
+    {
+      "Number": 694,
+      "Portuguese": "plana",
+      "in English": "flat"
+    },
+    {
+      "Number": 695,
+      "Portuguese": "vinte",
+      "in English": "twenty"
+    },
+    {
+      "Number": 696,
+      "Portuguese": "pele",
+      "in English": "skin"
+    },
+    {
+      "Number": 697,
+      "Portuguese": "sorriso",
+      "in English": "smile"
+    },
+    {
+      "Number": 698,
+      "Portuguese": "vinco",
+      "in English": "crease"
+    },
+    {
+      "Number": 699,
+      "Portuguese": "buraco",
+      "in English": "hole"
+    },
+    {
+      "Number": 700,
+      "Portuguese": "saltar",
+      "in English": "jump"
+    },
+    {
+      "Number": 701,
+      "Portuguese": "bebê",
+      "in English": "baby"
+    },
+    {
+      "Number": 702,
+      "Portuguese": "oito",
+      "in English": "eight"
+    },
+    {
+      "Number": 703,
+      "Portuguese": "aldeia",
+      "in English": "village"
+    },
+    {
+      "Number": 704,
+      "Portuguese": "meet",
+      "in English": "meet"
+    },
+    {
+      "Number": 705,
+      "Portuguese": "raiz",
+      "in English": "root"
+    },
+    {
+      "Number": 706,
+      "Portuguese": "comprar",
+      "in English": "buy"
+    },
+    {
+      "Number": 707,
+      "Portuguese": "levantar",
+      "in English": "raise"
+    },
+    {
+      "Number": 708,
+      "Portuguese": "resolver",
+      "in English": "solve"
+    },
+    {
+      "Number": 709,
+      "Portuguese": "de metal",
+      "in English": "metal"
+    },
+    {
+      "Number": 710,
+      "Portuguese": "se",
+      "in English": "whether"
+    },
+    {
+      "Number": 711,
+      "Portuguese": "empurre",
+      "in English": "push"
+    },
+    {
+      "Number": 712,
+      "Portuguese": "sete",
+      "in English": "seven"
+    },
+    {
+      "Number": 713,
+      "Portuguese": "parágrafo",
+      "in English": "paragraph"
+    },
+    {
+      "Number": 714,
+      "Portuguese": "terceiro",
+      "in English": "third"
+    },
+    {
+      "Number": 715,
+      "Portuguese": "deve",
+      "in English": "shall"
+    },
+    {
+      "Number": 716,
+      "Portuguese": "held",
+      "in English": "held"
+    },
+    {
+      "Number": 717,
+      "Portuguese": "cabelo",
+      "in English": "hair"
+    },
+    {
+      "Number": 718,
+      "Portuguese": "descrever",
+      "in English": "describe"
+    },
+    {
+      "Number": 719,
+      "Portuguese": "cozinheiro",
+      "in English": "cook"
+    },
+    {
+      "Number": 720,
+      "Portuguese": "piso",
+      "in English": "floor"
+    },
+    {
+      "Number": 721,
+      "Portuguese": "ou",
+      "in English": "either"
+    },
+    {
+      "Number": 722,
+      "Portuguese": "resultado",
+      "in English": "result"
+    },
+    {
+      "Number": 723,
+      "Portuguese": "queimar",
+      "in English": "burn"
+    },
+    {
+      "Number": 724,
+      "Portuguese": "hill",
+      "in English": "hill"
+    },
+    {
+      "Number": 725,
+      "Portuguese": "seguro",
+      "in English": "safe"
+    },
+    {
+      "Number": 726,
+      "Portuguese": "cat",
+      "in English": "cat"
+    },
+    {
+      "Number": 727,
+      "Portuguese": "século",
+      "in English": "century"
+    },
+    {
+      "Number": 728,
+      "Portuguese": "considerar",
+      "in English": "consider"
+    },
+    {
+      "Number": 729,
+      "Portuguese": "tipo",
+      "in English": "type"
+    },
+    {
+      "Number": 730,
+      "Portuguese": "direito",
+      "in English": "law"
+    },
+    {
+      "Number": 731,
+      "Portuguese": "bit",
+      "in English": "bit"
+    },
+    {
+      "Number": 732,
+      "Portuguese": "costa",
+      "in English": "coast"
+    },
+    {
+      "Number": 733,
+      "Portuguese": "cópia",
+      "in English": "copy"
+    },
+    {
+      "Number": 734,
+      "Portuguese": "frase",
+      "in English": "phrase"
+    },
+    {
+      "Number": 735,
+      "Portuguese": "silenciosa",
+      "in English": "silent"
+    },
+    {
+      "Number": 736,
+      "Portuguese": "alto",
+      "in English": "tall"
+    },
+    {
+      "Number": 737,
+      "Portuguese": "areia",
+      "in English": "sand"
+    },
+    {
+      "Number": 738,
+      "Portuguese": "solo",
+      "in English": "soil"
+    },
+    {
+      "Number": 739,
+      "Portuguese": "rolo",
+      "in English": "roll"
+    },
+    {
+      "Number": 740,
+      "Portuguese": "temperatura",
+      "in English": "temperature"
+    },
+    {
+      "Number": 741,
+      "Portuguese": "dedo",
+      "in English": "finger"
+    },
+    {
+      "Number": 742,
+      "Portuguese": "indústria",
+      "in English": "industry"
+    },
+    {
+      "Number": 743,
+      "Portuguese": "valor",
+      "in English": "value"
+    },
+    {
+      "Number": 744,
+      "Portuguese": "luta",
+      "in English": "fight"
+    },
+    {
+      "Number": 745,
+      "Portuguese": "mentira",
+      "in English": "lie"
+    },
+    {
+      "Number": 746,
+      "Portuguese": "bater",
+      "in English": "beat"
+    },
+    {
+      "Number": 747,
+      "Portuguese": "excitar",
+      "in English": "excite"
+    },
+    {
+      "Number": 748,
+      "Portuguese": "naturais",
+      "in English": "natural"
+    },
+    {
+      "Number": 749,
+      "Portuguese": "vista",
+      "in English": "view"
+    },
+    {
+      "Number": 750,
+      "Portuguese": "sentido",
+      "in English": "sense"
+    },
+    {
+      "Number": 751,
+      "Portuguese": "Capital",
+      "in English": "capital"
+    },
+    {
+      "Number": 752,
+      "Portuguese": "não vai",
+      "in English": "won’t"
+    },
+    {
+      "Number": 753,
+      "Portuguese": "cadeira",
+      "in English": "chair"
+    },
+    {
+      "Number": 754,
+      "Portuguese": "perigo",
+      "in English": "danger"
+    },
+    {
+      "Number": 755,
+      "Portuguese": "frutas",
+      "in English": "fruit"
+    },
+    {
+      "Number": 756,
+      "Portuguese": "rico",
+      "in English": "rich"
+    },
+    {
+      "Number": 757,
+      "Portuguese": "grossa",
+      "in English": "thick"
+    },
+    {
+      "Number": 758,
+      "Portuguese": "soldado",
+      "in English": "soldier"
+    },
+    {
+      "Number": 759,
+      "Portuguese": "processo",
+      "in English": "process"
+    },
+    {
+      "Number": 760,
+      "Portuguese": "operar",
+      "in English": "operate"
+    },
+    {
+      "Number": 761,
+      "Portuguese": "prática",
+      "in English": "practice"
+    },
+    {
+      "Number": 762,
+      "Portuguese": "separado",
+      "in English": "separate"
+    },
+    {
+      "Number": 763,
+      "Portuguese": "difícil",
+      "in English": "difficult"
+    },
+    {
+      "Number": 764,
+      "Portuguese": "médico",
+      "in English": "doctor"
+    },
+    {
+      "Number": 765,
+      "Portuguese": "por favor",
+      "in English": "please"
+    },
+    {
+      "Number": 766,
+      "Portuguese": "proteger",
+      "in English": "protect"
+    },
+    {
+      "Number": 767,
+      "Portuguese": "meio-dia",
+      "in English": "noon"
+    },
+    {
+      "Number": 768,
+      "Portuguese": "colheita",
+      "in English": "crop"
+    },
+    {
+      "Number": 769,
+      "Portuguese": "moderno",
+      "in English": "modern"
+    },
+    {
+      "Number": 770,
+      "Portuguese": "elemento",
+      "in English": "element"
+    },
+    {
+      "Number": 771,
+      "Portuguese": "acertar",
+      "in English": "hit"
+    },
+    {
+      "Number": 772,
+      "Portuguese": "estudante",
+      "in English": "student"
+    },
+    {
+      "Number": 773,
+      "Portuguese": "canto",
+      "in English": "corner"
+    },
+    {
+      "Number": 774,
+      "Portuguese": "festa",
+      "in English": "party"
+    },
+    {
+      "Number": 775,
+      "Portuguese": "fornecimento",
+      "in English": "supply"
+    },
+    {
+      "Number": 776,
+      "Portuguese": "cuja",
+      "in English": "whose"
+    },
+    {
+      "Number": 777,
+      "Portuguese": "localizar",
+      "in English": "locate"
+    },
+    {
+      "Number": 778,
+      "Portuguese": "anel",
+      "in English": "ring"
+    },
+    {
+      "Number": 779,
+      "Portuguese": "caráter",
+      "in English": "character"
+    },
+    {
+      "Number": 780,
+      "Portuguese": "inseto",
+      "in English": "insect"
+    },
+    {
+      "Number": 781,
+      "Portuguese": "capturados",
+      "in English": "caught"
+    },
+    {
+      "Number": 782,
+      "Portuguese": "período",
+      "in English": "period"
+    },
+    {
+      "Number": 783,
+      "Portuguese": "indicam",
+      "in English": "indicate"
+    },
+    {
+      "Number": 784,
+      "Portuguese": "rádio",
+      "in English": "radio"
+    },
+    {
+      "Number": 785,
+      "Portuguese": "falou",
+      "in English": "spoke"
+    },
+    {
+      "Number": 786,
+      "Portuguese": "átomo",
+      "in English": "atom"
+    },
+    {
+      "Number": 787,
+      "Portuguese": "humano",
+      "in English": "human"
+    },
+    {
+      "Number": 788,
+      "Portuguese": "história",
+      "in English": "history"
+    },
+    {
+      "Number": 789,
+      "Portuguese": "efeito",
+      "in English": "effect"
+    },
+    {
+      "Number": 790,
+      "Portuguese": "elétrica",
+      "in English": "electric"
+    },
+    {
+      "Number": 791,
+      "Portuguese": "esperar",
+      "in English": "expect"
+    },
+    {
+      "Number": 792,
+      "Portuguese": "osso",
+      "in English": "bone"
+    },
+    {
+      "Number": 793,
+      "Portuguese": "trilho",
+      "in English": "rail"
+    },
+    {
+      "Number": 794,
+      "Portuguese": "imaginar",
+      "in English": "imagine"
+    },
+    {
+      "Number": 795,
+      "Portuguese": "fornecer",
+      "in English": "provide"
+    },
+    {
+      "Number": 796,
+      "Portuguese": "concordar",
+      "in English": "agree"
+    },
+    {
+      "Number": 797,
+      "Portuguese": "assim",
+      "in English": "thus"
+    },
+    {
+      "Number": 798,
+      "Portuguese": "suave",
+      "in English": "gentle"
+    },
+    {
+      "Number": 799,
+      "Portuguese": "mulher",
+      "in English": "woman"
+    },
+    {
+      "Number": 800,
+      "Portuguese": "capitão",
+      "in English": "captain"
+    },
+    {
+      "Number": 801,
+      "Portuguese": "acho que",
+      "in English": "guess"
+    },
+    {
+      "Number": 802,
+      "Portuguese": "necessário",
+      "in English": "necessary"
+    },
+    {
+      "Number": 803,
+      "Portuguese": "sharp",
+      "in English": "sharp"
+    },
+    {
+      "Number": 804,
+      "Portuguese": "asa",
+      "in English": "wing"
+    },
+    {
+      "Number": 805,
+      "Portuguese": "criar",
+      "in English": "create"
+    },
+    {
+      "Number": 806,
+      "Portuguese": "vizinho",
+      "in English": "neighbor"
+    },
+    {
+      "Number": 807,
+      "Portuguese": "lavagem",
+      "in English": "wash"
+    },
+    {
+      "Number": 808,
+      "Portuguese": "bat",
+      "in English": "bat"
+    },
+    {
+      "Number": 809,
+      "Portuguese": "vez",
+      "in English": "rather"
+    },
+    {
+      "Number": 810,
+      "Portuguese": "multidão",
+      "in English": "crowd"
+    },
+    {
+      "Number": 811,
+      "Portuguese": "milho",
+      "in English": "corn"
+    },
+    {
+      "Number": 812,
+      "Portuguese": "comparar",
+      "in English": "compare"
+    },
+    {
+      "Number": 813,
+      "Portuguese": "poema",
+      "in English": "poem"
+    },
+    {
+      "Number": 814,
+      "Portuguese": "corda",
+      "in English": "string"
+    },
+    {
+      "Number": 815,
+      "Portuguese": "sino",
+      "in English": "bell"
+    },
+    {
+      "Number": 816,
+      "Portuguese": "dependem",
+      "in English": "depend"
+    },
+    {
+      "Number": 817,
+      "Portuguese": "carne",
+      "in English": "meat"
+    },
+    {
+      "Number": 818,
+      "Portuguese": "esfregar",
+      "in English": "rub"
+    },
+    {
+      "Number": 819,
+      "Portuguese": "tubo",
+      "in English": "tube"
+    },
+    {
+      "Number": 820,
+      "Portuguese": "famoso",
+      "in English": "famous"
+    },
+    {
+      "Number": 921,
+      "Portuguese": "dólar",
+      "in English": "dollar"
+    },
+    {
+      "Number": 822,
+      "Portuguese": "córrego",
+      "in English": "stream"
+    },
+    {
+      "Number": 823,
+      "Portuguese": "medo",
+      "in English": "fear"
+    },
+    {
+      "Number": 284,
+      "Portuguese": "vista",
+      "in English": "sight"
+    },
+    {
+      "Number": 825,
+      "Portuguese": "fina",
+      "in English": "thin"
+    },
+    {
+      "Number": 826,
+      "Portuguese": "triângulo",
+      "in English": "triangle"
+    },
+    {
+      "Number": 827,
+      "Portuguese": "planeta",
+      "in English": "planet"
+    },
+    {
+      "Number": 828,
+      "Portuguese": "apressar",
+      "in English": "hurry"
+    },
+    {
+      "Number": 829,
+      "Portuguese": "chefe",
+      "in English": "chief"
+    },
+    {
+      "Number": 830,
+      "Portuguese": "colônia",
+      "in English": "colony"
+    },
+    {
+      "Number": 831,
+      "Portuguese": "relógio",
+      "in English": "clock"
+    },
+    {
+      "Number": 832,
+      "Portuguese": "mina",
+      "in English": "mine"
+    },
+    {
+      "Number": 833,
+      "Portuguese": "amarrar",
+      "in English": "tie"
+    },
+    {
+      "Number": 834,
+      "Portuguese": "introduzir",
+      "in English": "enter"
+    },
+    {
+      "Number": 835,
+      "Portuguese": "maior",
+      "in English": "major"
+    },
+    {
+      "Number": 836,
+      "Portuguese": "fresco",
+      "in English": "fresh"
+    },
+    {
+      "Number": 837,
+      "Portuguese": "pesquisa",
+      "in English": "search"
+    },
+    {
+      "Number": 838,
+      "Portuguese": "enviar",
+      "in English": "send"
+    },
+    {
+      "Number": 839,
+      "Portuguese": "amarelo",
+      "in English": "yellow"
+    },
+    {
+      "Number": 840,
+      "Portuguese": "pistola",
+      "in English": "gun"
+    },
+    {
+      "Number": 841,
+      "Portuguese": "permitir",
+      "in English": "allow"
+    },
+    {
+      "Number": 842,
+      "Portuguese": "impressão",
+      "in English": "print"
+    },
+    {
+      "Number": 843,
+      "Portuguese": "morto",
+      "in English": "dead"
+    },
+    {
+      "Number": 844,
+      "Portuguese": "local",
+      "in English": "spot"
+    },
+    {
+      "Number": 845,
+      "Portuguese": "deserto",
+      "in English": "desert"
+    },
+    {
+      "Number": 846,
+      "Portuguese": "terno",
+      "in English": "suit"
+    },
+    {
+      "Number": 847,
+      "Portuguese": "atual",
+      "in English": "current"
+    },
+    {
+      "Number": 848,
+      "Portuguese": "elevador",
+      "in English": "lift"
+    },
+    {
+      "Number": 840,
+      "Portuguese": "aumentou",
+      "in English": "rose"
+    },
+    {
+      "Number": 850,
+      "Portuguese": "chegar",
+      "in English": "arrive"
+    },
+    {
+      "Number": 851,
+      "Portuguese": "mestre",
+      "in English": "master"
+    },
+    {
+      "Number": 852,
+      "Portuguese": "trilha",
+      "in English": "track"
+    },
+    {
+      "Number": 853,
+      "Portuguese": "pai",
+      "in English": "parent"
+    },
+    {
+      "Number": 854,
+      "Portuguese": "costa",
+      "in English": "shore"
+    },
+    {
+      "Number": 855,
+      "Portuguese": "divisão",
+      "in English": "division"
+    },
+    {
+      "Number": 856,
+      "Portuguese": "folha",
+      "in English": "sheet"
+    },
+    {
+      "Number": 857,
+      "Portuguese": "substância",
+      "in English": "substance"
+    },
+    {
+      "Number": 858,
+      "Portuguese": "favorecer",
+      "in English": "favor"
+    },
+    {
+      "Number": 859,
+      "Portuguese": "conectar",
+      "in English": "connect"
+    },
+    {
+      "Number": 860,
+      "Portuguese": "pós",
+      "in English": "post"
+    },
+    {
+      "Number": 861,
+      "Portuguese": "passar",
+      "in English": "spend"
+    },
+    {
+      "Number": 862,
+      "Portuguese": "acorde",
+      "in English": "chord"
+    },
+    {
+      "Number": 863,
+      "Portuguese": "gordura",
+      "in English": "fat"
+    },
+    {
+      "Number": 864,
+      "Portuguese": "feliz",
+      "in English": "glad"
+    },
+    {
+      "Number": 865,
+      "Portuguese": "original",
+      "in English": "original"
+    },
+    {
+      "Number": 866,
+      "Portuguese": "share",
+      "in English": "share"
+    },
+    {
+      "Number": 867,
+      "Portuguese": "estação",
+      "in English": "station"
+    },
+    {
+      "Number": 868,
+      "Portuguese": "pai",
+      "in English": "dad"
+    },
+    {
+      "Number": 869,
+      "Portuguese": "pão",
+      "in English": "bread"
+    },
+    {
+      "Number": 870,
+      "Portuguese": "cobrar",
+      "in English": "charge"
+    },
+    {
+      "Number": 871,
+      "Portuguese": "adequada",
+      "in English": "proper"
+    },
+    {
+      "Number": 872,
+      "Portuguese": "bar",
+      "in English": "bar"
+    },
+    {
+      "Number": 873,
+      "Portuguese": "oferta",
+      "in English": "offer"
+    },
+    {
+      "Number": 874,
+      "Portuguese": "segmento",
+      "in English": "segment"
+    },
+    {
+      "Number": 875,
+      "Portuguese": "escravo",
+      "in English": "slave"
+    },
+    {
+      "Number": 876,
+      "Portuguese": "pato",
+      "in English": "duck"
+    },
+    {
+      "Number": 877,
+      "Portuguese": "instant",
+      "in English": "instant"
+    },
+    {
+      "Number": 878,
+      "Portuguese": "mercado",
+      "in English": "market"
+    },
+    {
+      "Number": 879,
+      "Portuguese": "grau",
+      "in English": "degree"
+    },
+    {
+      "Number": 880,
+      "Portuguese": "preencher",
+      "in English": "populate"
+    },
+    {
+      "Number": 881,
+      "Portuguese": "pinto",
+      "in English": "chick"
+    },
+    {
+      "Number": 882,
+      "Portuguese": "caro",
+      "in English": "dear"
+    },
+    {
+      "Number": 883,
+      "Portuguese": "inimigo",
+      "in English": "enemy"
+    },
+    {
+      "Number": 884,
+      "Portuguese": "responder",
+      "in English": "reply"
+    },
+    {
+      "Number": 885,
+      "Portuguese": "bebida",
+      "in English": "drink"
+    },
+    {
+      "Number": 886,
+      "Portuguese": "ocorrer",
+      "in English": "occur"
+    },
+    {
+      "Number": 887,
+      "Portuguese": "apoio",
+      "in English": "support"
+    },
+    {
+      "Number": 888,
+      "Portuguese": "discurso",
+      "in English": "speech"
+    },
+    {
+      "Number": 889,
+      "Portuguese": "natureza",
+      "in English": "nature"
+    },
+    {
+      "Number": 890,
+      "Portuguese": "gama",
+      "in English": "range"
+    },
+    {
+      "Number": 891,
+      "Portuguese": "vapor",
+      "in English": "steam"
+    },
+    {
+      "Number": 892,
+      "Portuguese": "movimento",
+      "in English": "motion"
+    },
+    {
+      "Number": 893,
+      "Portuguese": "caminho",
+      "in English": "path"
+    },
+    {
+      "Number": 894,
+      "Portuguese": "líquido",
+      "in English": "liquid"
+    },
+    {
+      "Number": 895,
+      "Portuguese": "log",
+      "in English": "log"
+    },
+    {
+      "Number": 896,
+      "Portuguese": "significava",
+      "in English": "meant"
+    },
+    {
+      "Number": 897,
+      "Portuguese": "quociente",
+      "in English": "quotient"
+    },
+    {
+      "Number": 898,
+      "Portuguese": "dentes",
+      "in English": "teeth"
+    },
+    {
+      "Number": 899,
+      "Portuguese": "casca",
+      "in English": "shell"
+    },
+    {
+      "Number": 900,
+      "Portuguese": "pescoço",
+      "in English": "neck"
+    },
+    {
+      "Number": 901,
+      "Portuguese": "oxigênio",
+      "in English": "oxygen"
+    },
+    {
+      "Number": 902,
+      "Portuguese": "açúcar",
+      "in English": "sugar"
+    },
+    {
+      "Number": 903,
+      "Portuguese": "morte",
+      "in English": "death"
+    },
+    {
+      "Number": 904,
+      "Portuguese": "bastante",
+      "in English": "pretty"
+    },
+    {
+      "Number": 905,
+      "Portuguese": "habilidade",
+      "in English": "skill"
+    },
+    {
+      "Number": 906,
+      "Portuguese": "mulheres",
+      "in English": "women"
+    },
+    {
+      "Number": 907,
+      "Portuguese": "temporada",
+      "in English": "season"
+    },
+    {
+      "Number": 908,
+      "Portuguese": "solução",
+      "in English": "solution"
+    },
+    {
+      "Number": 909,
+      "Portuguese": "ímã",
+      "in English": "magnet"
+    },
+    {
+      "Number": 910,
+      "Portuguese": "prata",
+      "in English": "silver"
+    },
+    {
+      "Number": 911,
+      "Portuguese": "obrigado",
+      "in English": "thank"
+    },
+    {
+      "Number": 912,
+      "Portuguese": "ramo",
+      "in English": "branch"
+    },
+    {
+      "Number": 913,
+      "Portuguese": "jogo",
+      "in English": "match"
+    },
+    {
+      "Number": 914,
+      "Portuguese": "sufixo",
+      "in English": "suffix"
+    },
+    {
+      "Number": 915,
+      "Portuguese": "especialmente",
+      "in English": "especially"
+    },
+    {
+      "Number": 916,
+      "Portuguese": "figo",
+      "in English": "fig"
+    },
+    {
+      "Number": 917,
+      "Portuguese": "medo",
+      "in English": "afraid"
+    },
+    {
+      "Number": 918,
+      "Portuguese": "enorme",
+      "in English": "huge"
+    },
+    {
+      "Number": 919,
+      "Portuguese": "irmã",
+      "in English": "sister"
+    },
+    {
+      "Number": 920,
+      "Portuguese": "aço",
+      "in English": "steel"
+    },
+    {
+      "Number": 921,
+      "Portuguese": "discutir",
+      "in English": "discuss"
+    },
+    {
+      "Number": 922,
+      "Portuguese": "para a frente",
+      "in English": "forward"
+    },
+    {
+      "Number": 923,
+      "Portuguese": "similar",
+      "in English": "similar"
+    },
+    {
+      "Number": 924,
+      "Portuguese": "orientar",
+      "in English": "guide"
+    },
+    {
+      "Number": 925,
+      "Portuguese": "experiência",
+      "in English": "experience"
+    },
+    {
+      "Number": 926,
+      "Portuguese": "contagem",
+      "in English": "score"
+    },
+    {
+      "Number": 927,
+      "Portuguese": "maçã",
+      "in English": "apple"
+    },
+    {
+      "Number": 928,
+      "Portuguese": "comprou",
+      "in English": "bought"
+    },
+    {
+      "Number": 929,
+      "Portuguese": "conduziu",
+      "in English": "led"
+    },
+    {
+      "Number": 930,
+      "Portuguese": "campo",
+      "in English": "pitch"
+    },
+    {
+      "Number": 931,
+      "Portuguese": "casaco",
+      "in English": "coat"
+    },
+    {
+      "Number": 932,
+      "Portuguese": "massa",
+      "in English": "mass"
+    },
+    {
+      "Number": 933,
+      "Portuguese": "cartão",
+      "in English": "card"
+    },
+    {
+      "Number": 934,
+      "Portuguese": "banda",
+      "in English": "band"
+    },
+    {
+      "Number": 935,
+      "Portuguese": "corda",
+      "in English": "rope"
+    },
+    {
+      "Number": 936,
+      "Portuguese": "deslizamento",
+      "in English": "slip"
+    },
+    {
+      "Number": 937,
+      "Portuguese": "vitória",
+      "in English": "win"
+    },
+    {
+      "Number": 938,
+      "Portuguese": "sonhar",
+      "in English": "dream"
+    },
+    {
+      "Number": 939,
+      "Portuguese": "noite",
+      "in English": "evening"
+    },
+    {
+      "Number": 940,
+      "Portuguese": "condição",
+      "in English": "condition"
+    },
+    {
+      "Number": 941,
+      "Portuguese": "alimentação",
+      "in English": "feed"
+    },
+    {
+      "Number": 942,
+      "Portuguese": "ferramenta",
+      "in English": "tool"
+    },
+    {
+      "Number": 943,
+      "Portuguese": "total de",
+      "in English": "total"
+    },
+    {
+      "Number": 944,
+      "Portuguese": "básico",
+      "in English": "basic"
+    },
+    {
+      "Number": 945,
+      "Portuguese": "cheiro",
+      "in English": "smell"
+    },
+    {
+      "Number": 946,
+      "Portuguese": "vale",
+      "in English": "valley"
+    },
+    {
+      "Number": 947,
+      "Portuguese": "nem",
+      "in English": "nor"
+    },
+    {
+      "Number": 948,
+      "Portuguese": "duplo",
+      "in English": "double"
+    },
+    {
+      "Number": 949,
+      "Portuguese": "assento",
+      "in English": "seat"
+    },
+    {
+      "Number": 950,
+      "Portuguese": "continuar",
+      "in English": "continue"
+    },
+    {
+      "Number": 951,
+      "Portuguese": "bloco",
+      "in English": "block"
+    },
+    {
+      "Number": 952,
+      "Portuguese": "gráfico",
+      "in English": "chart"
+    },
+    {
+      "Number": 953,
+      "Portuguese": "chapéu",
+      "in English": "hat"
+    },
+    {
+      "Number": 954,
+      "Portuguese": "vender",
+      "in English": "sell"
+    },
+    {
+      "Number": 955,
+      "Portuguese": "sucesso",
+      "in English": "success"
+    },
+    {
+      "Number": 956,
+      "Portuguese": "companhia",
+      "in English": "company"
+    },
+    {
+      "Number": 957,
+      "Portuguese": "subtrair",
+      "in English": "subtract"
+    },
+    {
+      "Number": 958,
+      "Portuguese": "evento",
+      "in English": "event"
+    },
+    {
+      "Number": 959,
+      "Portuguese": "especial",
+      "in English": "particular"
+    },
+    {
+      "Number": 960,
+      "Portuguese": "negócio",
+      "in English": "deal"
+    },
+    {
+      "Number": 961,
+      "Portuguese": "mergulho",
+      "in English": "swim"
+    },
+    {
+      "Number": 962,
+      "Portuguese": "prazo",
+      "in English": "term"
+    },
+    {
+      "Number": 963,
+      "Portuguese": "oposto",
+      "in English": "opposite"
+    },
+    {
+      "Number": 964,
+      "Portuguese": "esposa",
+      "in English": "wife"
+    },
+    {
+      "Number": 965,
+      "Portuguese": "sapato",
+      "in English": "shoe"
+    },
+    {
+      "Number": 966,
+      "Portuguese": "ombro",
+      "in English": "shoulder"
+    },
+    {
+      "Number": 967,
+      "Portuguese": "propagação",
+      "in English": "spread"
+    },
+    {
+      "Number": 968,
+      "Portuguese": "organizar",
+      "in English": "arrange"
+    },
+    {
+      "Number": 969,
+      "Portuguese": "acampamento",
+      "in English": "camp"
+    },
+    {
+      "Number": 970,
+      "Portuguese": "inventar",
+      "in English": "invent"
+    },
+    {
+      "Number": 971,
+      "Portuguese": "algodão",
+      "in English": "cotton"
+    },
+    {
+      "Number": 972,
+      "Portuguese": "Nascido",
+      "in English": "born"
+    },
+    {
+      "Number": 973,
+      "Portuguese": "determinar",
+      "in English": "determine"
+    },
+    {
+      "Number": 974,
+      "Portuguese": "quarto",
+      "in English": "quart"
+    },
+    {
+      "Number": 975,
+      "Portuguese": "nove",
+      "in English": "nine"
+    },
+    {
+      "Number": 976,
+      "Portuguese": "caminhão",
+      "in English": "truck"
+    },
+    {
+      "Number": 977,
+      "Portuguese": "ruído",
+      "in English": "noise"
+    },
+    {
+      "Number": 978,
+      "Portuguese": "nível",
+      "in English": "level"
+    },
+    {
+      "Number": 979,
+      "Portuguese": "oportunidade",
+      "in English": "chance"
+    },
+    {
+      "Number": 980,
+      "Portuguese": "recolher",
+      "in English": "gather"
+    },
+    {
+      "Number": 981,
+      "Portuguese": "loja",
+      "in English": "shop"
+    },
+    {
+      "Number": 982,
+      "Portuguese": "trecho",
+      "in English": "stretch"
+    },
+    {
+      "Number": 983,
+      "Portuguese": "jogar",
+      "in English": "throw"
+    },
+    {
+      "Number": 984,
+      "Portuguese": "brilho",
+      "in English": "shine"
+    },
+    {
+      "Number": 985,
+      "Portuguese": "propriedade",
+      "in English": "property"
+    },
+    {
+      "Number": 986,
+      "Portuguese": "coluna",
+      "in English": "column"
+    },
+    {
+      "Number": 987,
+      "Portuguese": "molécula",
+      "in English": "molecule"
+    },
+    {
+      "Number": 988,
+      "Portuguese": "selecione",
+      "in English": "select"
+    },
+    {
+      "Number": 989,
+      "Portuguese": "errado",
+      "in English": "wrong"
+    },
+    {
+      "Number": 990,
+      "Portuguese": "cinza",
+      "in English": "gray"
+    },
+    {
+      "Number": 991,
+      "Portuguese": "repetição",
+      "in English": "repeat"
+    },
+    {
+      "Number": 992,
+      "Portuguese": "exigir",
+      "in English": "require"
+    },
+    {
+      "Number": 993,
+      "Portuguese": "amplo",
+      "in English": "broad"
+    },
+    {
+      "Number": 994,
+      "Portuguese": "preparar",
+      "in English": "prepare"
+    },
+    {
+      "Number": 995,
+      "Portuguese": "sal",
+      "in English": "salt"
+    },
+    {
+      "Number": 996,
+      "Portuguese": "nariz",
+      "in English": "nose"
+    },
+    {
+      "Number": 997,
+      "Portuguese": "plural",
+      "in English": "plural"
+    },
+    {
+      "Number": 998,
+      "Portuguese": "raiva",
+      "in English": "anger"
+    },
+    {
+      "Number": 999,
+      "Portuguese": "reivindicação",
+      "in English": "claim"
+    },
+    {
+      "Number": 1000,
+      "Portuguese": "continente",
+      "in English": "continent"
+    }
+   ]

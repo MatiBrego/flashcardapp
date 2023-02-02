@@ -2,7 +2,7 @@ import React from 'react';
 import Form from 'react-bootstrap/Form';
 import Card from 'react-bootstrap/Card'
 import './App.css';
-import {WordGetter, ItalianWordGetter, EmptyWordGetter, SpanishWordGetter} from './WordGetter';
+import {WordGetter, ItalianWordGetter, EmptyWordGetter, SpanishWordGetter, PortugueseWordGetter} from './WordGetter';
 
 class App extends React.Component<{}, { language: string}> {
 
@@ -22,6 +22,7 @@ class App extends React.Component<{}, { language: string}> {
           <option value="0">Select Language</option>
           <option value="1">Italian</option>
           <option value="2">Spanish</option>
+          <option value="3">Portuguese</option>
         </Form.Select>
       </div>
       <br />
@@ -51,6 +52,8 @@ class FlashCard extends React.Component<{language: String}, {word: string, answe
     this.languageSelector.set("Select Language", new EmptyWordGetter());
     this.languageSelector.set("Italian", new ItalianWordGetter());
     this.languageSelector.set("Spanish", new SpanishWordGetter());
+    this.languageSelector.set("Portuguese", new PortugueseWordGetter());
+
 
     this.wordPair = ["", ""];
     this.state = {word: this.wordPair[0], answer: '', userInput: '', validation: '', help: 'Select language and press next to start'}
