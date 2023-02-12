@@ -50,3 +50,6 @@ export class PortugueseWordGetter implements WordGetter{
     }
 }
 
+export function reverseWordPair(wordPair: string[]): string[]{
+    return [wordPair[1], wordPair[0]]
+}

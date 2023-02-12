@@ -1,28 +1,20 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Form from 'react-bootstrap/Form';
-import {WordGetter, ItalianWordGetter, EmptyWordGetter, SpanishWordGetter, PortugueseWordGetter} from '../util/WordGetter';
+import {WordGetter, EmptyWordGetter, reverseWordPair} from '../util/WordGetter';
+import { languageSelector } from '../util/languageSelector';
 
 
 /**
- * Renders a card that prompts the user with a word, takes and answer and checks it. 
+ * Renders a card that prompts the user with a word, takes an answer and checks it. 
  * It takes a given language as parameter.
  */
-class FlashCard extends React.Component<{language: String}, {word: string, answer:string, userInput: string, validation: string, help: string}>{
+class FlashCard extends React.Component<{language: String, reversed:boolean}, {word: string, answer:string, userInput: string, validation: string, help: string}>{
 
     private wordPair: string[];
   
-    private languageSelector: Map<String, WordGetter>;
-  
-    constructor(props: {language: String}){
+    constructor(props: {language: String, reversed: boolean}){
       super(props)
-  
-      this.languageSelector = new Map();
-      this.languageSelector.set("Select Language", new EmptyWordGetter());
-      this.languageSelector.set("Italian", new ItalianWordGetter());
-      this.languageSelector.set("Spanish", new SpanishWordGetter());
-      this.languageSelector.set("Portuguese", new PortugueseWordGetter());
-  
   
       this.wordPair = ["", ""];
       this.state = {word: this.wordPair[0], answer: '', userInput: '', validation: '', help: 'Select language and press next to start'}
@@ -39,7 +31,6 @@ class FlashCard extends React.Component<{language: String}, {word: string, answe
         <Card.Header className='card-header'>{this.props.language}</Card.Header>
         <Card.Body>
           <h4>{this.capitalizeFirstLetter(this.state.word)}</h4>
-          {/* <img src=''></img> */}
           <br />
           <Form id='form'>
             <input type="text" className={'form-control shadow-none ' + this.state.validation} placeholder="Enter word" onChange={this.handleChange} onKeyPress={this.handleKeyPress}/>
@@ -61,14 +52,20 @@ class FlashCard extends React.Component<{language: String}, {word: string, answe
     }
   
     /**
-     * Gets a new word pair with the wordGetter object based on the language. Then updates the state with the new word pair 
+     * Gets a new word pair with the wordGetter object based on the language. 
+     * Then updates the state with the new word pair.
      */
     handleNext(){
-      let wordGetter: WordGetter | undefined = this.languageSelector.get(this.props.language)
+      let wordGetter: WordGetter | undefined = languageSelector.get(this.props.language)
       if(wordGetter === undefined)
         wordGetter = new EmptyWordGetter();
       
-      this.wordPair = wordGetter.nextWord();
+      if(this.props.reversed){
+        this.wordPair = reverseWordPair(wordGetter.nextWord());
+      }else{
+        this.wordPair = wordGetter.nextWord();
+      }
+      
       this.setState({word: this.wordPair[0], answer: '', validation: '', userInput: '', help: ''});
     }
   
